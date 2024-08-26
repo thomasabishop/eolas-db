@@ -1,0 +1,2 @@
+[console_scripts]
+eolas-db = cli:main
