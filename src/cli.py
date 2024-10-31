@@ -1,4 +1,11 @@
 import argparse
+import importlib
+
+from controllers.controller import Controller
+
+importlib.invalidate_caches()
+
+file_path = "/home/thomas/repos/eolas-db/dev-data/Turing_completeness.md"
 
 
 def main():
@@ -6,13 +13,13 @@ def main():
         prog="eolas-db", description="Eolas database manager."
     )
     parser.add_argument("command", choices=["parse"], help="Command to execute")
-    parser.add_argument("--path", help="Path to Zettelkasten directory")
     args = parser.parse_args()
 
-    print("Welcome to eolas-db")
+    controller = Controller()
 
     if args.command == "parse":
-        pass
+        parsed_entry = controller.parse_entry(file_path)
+        print(parsed_entry)
 
 
 if __name__ == "__main__":
