@@ -10,7 +10,7 @@ setup(
     ],
     entry_points={
         "console_scripts": [
-            "eolas-db=cli:main",
+            "run=app:main",
         ],
     },
 )
