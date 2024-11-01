@@ -36,3 +36,10 @@ Most modern programming languages are Turing Complete in that they can, in
 theory, be used to compute anything that is computable.
 
 What about Universal Turing Machines eh?
+
+
+Within the [hierarchy of the OS](./Basic_model_of_the_operating_system.md), the
+kernel acts as the primary mediator between the hardware (CPU, memory) and
+[user](./User_Space.md) [processes](Processes.md). Let's look at each of its
+responsibilities in greater depth:
+

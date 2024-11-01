@@ -9,10 +9,11 @@ from services.parse_markdown_service import ParseMarkdownService
 
 class Entry(TypedDict):
     title: str
-    tags: List[str]
-    body: str
     last_modified: str
-    size: int
+    size: str
+    tags: List[str]
+    links: List[str]
+    body: str
 
 
 class ParseFileService:
@@ -33,5 +34,6 @@ class ParseFileService:
             ),
             "size": size(self.info.st_size),
             "tags": markdown_data.get("tags", []),
+            "links": markdown_data.get("links", []),
             "body": markdown_data.get("body", []),
         }
