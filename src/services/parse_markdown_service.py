@@ -1,7 +1,7 @@
 import frontmatter
 
 
-class MarkdownParseService:
+class ParseMarkdownService:
     """Extract tags, links and body text from Markdown entries"""
 
     def __init__(self, eolas_file):
