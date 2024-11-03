@@ -5,9 +5,13 @@ SQLite database that records key metadata about each entry (tags, backlinks, out
 
 It exposes a command line application for interfacing with the database.
 
-## Running app in local development
+## Local development
 
 ```
 source venv/bin/activate
 eolas-db
 ```
+
+## ERM
+
+![ERM diagram for eolas-db](./eolas-db-ERM.png)
