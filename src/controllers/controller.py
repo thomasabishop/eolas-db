@@ -13,8 +13,16 @@ class Controller:
     def populate_database(self):
         connection = self.database_service.connect()
 
-        if connection is None:
-            raise Exception("Failed to establish database connection")
+        try:
+            if connection is None:
+                raise Exception("Failed to establish database connection")
+            sqlite_service = SqliteService(connection)
+            sqlite_service.truncate_tables()
+            sqlite_service.create_tables()
 
-        sqlite_service = SqliteService(connection)
-        sqlite_service.create_tables()
+        except Exception as e:
+            raise Exception(e)
+
+        finally:
+            if connection is not None:
+                self.database_service.disconnect()
