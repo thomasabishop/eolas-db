@@ -1,11 +1,16 @@
 import argparse
-import importlib
 
+from constants import EOLAS_DIRECTORY
 from controllers.controller import Controller
 from services.database_service import DatabaseService
+from services.parse_file_service import ParseFileService
+from services.sqlite_service import SqliteService
 
-importlib.invalidate_caches()
-file_path = "/home/thomas/repos/eolas-db/dev-data/Turing_completeness.md"
+database_service = DatabaseService("eolas")
+database_connection = database_service.connect()
+sqlite_service = SqliteService(database_connection)
+parse_file_service = ParseFileService(EOLAS_DIRECTORY)
+controller = Controller(database_service, sqlite_service, parse_file_service)
 
 
 def main():
@@ -16,13 +21,6 @@ def main():
         "command", choices=["parse", "populate"], help="Command to execute"
     )
     args = parser.parse_args()
-
-    database_service = DatabaseService("eolas")
-    controller = Controller(database_service)
-
-    if args.command == "parse":
-        parsed_entry = controller.parse_entry(file_path)
-        print(parsed_entry)
 
     if args.command == "populate":
         controller.populate_database()
