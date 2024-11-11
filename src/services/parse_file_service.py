@@ -2,7 +2,7 @@ import os
 from datetime import datetime
 from pathlib import Path
 
-from hurry.filesize import size
+from termcolor import colored
 
 from models.entry import Entry
 from services.parse_markdown_service import ParseMarkdownService
@@ -30,7 +30,7 @@ class ParseFileService:
         }
 
     def parse_source_directory(self):
-        print("INFO Indexing entries in source directory")
+        print(colored("INFO Indexing entries in source directory", "light_blue"))
         parsed_entries = []
         with os.scandir(self.source_directory) as dir:
             for file in dir:

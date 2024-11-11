@@ -1,6 +1,8 @@
 import sqlite3
 from typing import Optional
 
+from termcolor import colored
+
 
 class DatabaseService:
     def __init__(self, db_name):
@@ -14,11 +16,11 @@ class DatabaseService:
 
         try:
             self.connection = sqlite3.connect(f"{self.db_path}/{self.db_name}.db")
-            print("INFO Database connection established")
+            print(colored("INFO Database connection established", "light_blue"))
             return self.connection
 
         except Exception as e:
-            raise Exception(f"Problem connecting to database: {e}")
+            raise Exception(f"ERROR Problem connecting to database: {e}")
 
     def disconnect(self) -> None:
         try:
