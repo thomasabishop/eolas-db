@@ -9,7 +9,7 @@ CREATE TABLE IF NOT EXISTS entries (
 
 CREATE_TAGS_TABLE = """
 CREATE TABLE IF NOT EXISTS tags (
-    name TEXT PRIMARY KEY UNIQUE,
+    name TEXT PRIMARY KEY UNIQUE
 )
 """
 
@@ -31,3 +31,10 @@ CREATE TABLE IF NOT EXISTS entries_tags (
     FOREIGN KEY (tag_name) REFERENCES tags(name),
     PRIMARY KEY (entry_title, tag_name)
 )"""
+
+tables = [
+    {"name": "entries", "create_statement": CREATE_ENTRIES_TABLE},
+    {"name": "tags", "create_statement": CREATE_TAGS_TABLE},
+    {"name": "backlinks", "create_statement": CREATE_BACKLINKS_TABLE},
+    {"name": "entries_tags", "create_statement": CREATE_ENTRIES_TAGS_TABLE},
+]
