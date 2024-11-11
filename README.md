@@ -15,3 +15,7 @@ eolas-db
 ## ERM
 
 ![ERM diagram for eolas-db](./eolas-db-ERM.png)
+
+## Resources
+
+https://www.digitalocean.com/community/tutorials/how-to-use-the-sqlite3-module-in-python-3
