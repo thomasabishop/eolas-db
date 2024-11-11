@@ -1,9 +1,8 @@
-from sql.create_tables import (
-    CREATE_BACKLINKS_TABLE,
-    CREATE_ENTRIES_TABLE,
-    CREATE_ENTRIES_TAGS_TABLE,
-    CREATE_TAGS_TABLE,
-)
+import sqlite3
+from typing import Optional
+
+from sql.create_tables import tables
+from src.models.entry import Entry
 
 
 class SqliteService:
@@ -11,17 +10,31 @@ class SqliteService:
         self.connection = connection
         self.cursor = connection.cursor()
 
+    def __query(self, sql, errorMessage: Optional[str] = None):
+        try:
+            self.cursor.execute(sql)
+            self.connection.commit()
+
+        except sqlite3.Error as sqliteError:
+            raise Exception(f"ERROR SQLite: {sqliteError}")
+
+        except Exception as e:
+            if errorMessage:
+                raise Exception(f"ERROR {errorMessage}: {e}")
+            else:
+                raise Exception(f"ERROR Problem with database operation: {e}")
+
     def create_tables(self):
-        tables = [
-            CREATE_ENTRIES_TABLE,
-            CREATE_TAGS_TABLE,
-            CREATE_BACKLINKS_TABLE,
-            CREATE_ENTRIES_TAGS_TABLE,
-        ]
-        for create_statement in tables:
-            self.cursor.execute(create_statement)
+        for table in tables:
+            self.__query(
+                table["create_statement"], f"Problem creating table {table['name']}"
+            )
+        print("INFO Created tables")
 
-        self.connection.commit()
-
-        self.cursor.execute("SELECT name FROM sqlite_master WHERE type='table';")
-        print(self.cursor.fetchall())
+    def truncate_tables(self):
+        for table in tables:
+            self.__query(
+                f"DELETE FROM {table['name']}",
+                f"Problem truncating table {table['name']}",
+            )
+        print("INFO Cleared tables")
