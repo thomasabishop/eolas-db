@@ -1,16 +1,44 @@
 # eolas-db
 
-This application parses data in my [zettelkasten](https://github.com/thomasabishop/eolas) repository and populates an
-SQLite database that records key metadata about each entry (tags, backlinks, outlinks etc).
-
-It exposes a command line application for interfacing with the database.
+This CLI application parses entries in my
+[zettelkasten](https://github.com/thomasabishop/eolas) and extracts key metadata
+about each entry. It create and populates an SQLite database to store the data and derive
+relations between entries.
 
 ## Local development
 
 ```
 source venv/bin/activate
-eolas-db
+eolas-db [opts]
 ```
+
+## Production
+
+After development is complete, instead of compiling to a single executable I can just install the application
+with `pipx` like any other.
+
+```
+pipx install [local_path_to_application]
+eolas-db [opts]
+```
+
+### Update after changes
+
+```
+pipx uninstall eolas-db
+pipx install [local_path_to_application]
+```
+
+## Options
+
+### `populate`
+
+```
+eolas-db populate
+```
+
+Parse Eòlas entries and extract key metadata and body text, import into database
+tables.
 
 ## ERM
 
