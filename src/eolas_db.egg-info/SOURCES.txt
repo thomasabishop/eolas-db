@@ -1,7 +1,0 @@
-README.md
-setup.py
-src/eolas_db.egg-info/PKG-INFO
-src/eolas_db.egg-info/SOURCES.txt
-src/eolas_db.egg-info/dependency_links.txt
-src/eolas_db.egg-info/entry_points.txt
-src/eolas_db.egg-info/top_level.txt
