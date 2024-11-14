@@ -19,7 +19,10 @@ class ParseMarkdownService:
                 internal_link = re.findall(link_rgx, line)
                 if internal_link:
                     internal_links.append(
-                        [os.path.basename(link) for link in internal_link]
+                        [
+                            os.path.splitext(os.path.basename(link))[0]
+                            for link in internal_link
+                        ]
                     )
             return [item for row in internal_links for item in row]
 

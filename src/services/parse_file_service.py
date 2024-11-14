@@ -14,7 +14,7 @@ class ParseFileService:
         self.parse_markdown_service = ParseMarkdownService()
 
     def __get_title(self, file):
-        return os.path.basename(file)
+        return os.path.splitext(os.path.basename(file))[0]
 
     def __parse_file(self, file) -> Entry:
         markdown_data = self.parse_markdown_service.parse(file)
@@ -29,7 +29,7 @@ class ParseFileService:
             "body": markdown_data.get("body", []),
         }
 
-    def parse_source_directory(self):
+    def parse_source_directory(self) -> list[Entry]:
         print(colored("INFO Indexing entries in source directory", "light_blue"))
         parsed_entries = []
         with os.scandir(self.source_directory) as dir:

@@ -8,8 +8,5 @@ class Controller:
         try:
             entries = self.parse_file_service.parse_source_directory()
             self.sqlite_service.populate_tables(entries)
-        except Exception as e:
-            raise Exception(e)
-
         finally:
             self.database_service.disconnect()
