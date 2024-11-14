@@ -2,7 +2,7 @@
 
 This CLI application parses entries in my
 [zettelkasten](https://github.com/thomasabishop/eolas) and extracts key metadata
-about each entry. It create and populates an SQLite database to store the data and derive
+about each entry. It creates and populates an SQLite database to store the data and derive
 relations between entries.
 
 ## Local development
