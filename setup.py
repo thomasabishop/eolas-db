@@ -8,7 +8,7 @@ setup(
     install_requires=["python-frontmatter", "termcolor"],
     entry_points={
         "console_scripts": [
-            "run=app:main",
+            "eolas-db=cli:main",
         ],
     },
 )
