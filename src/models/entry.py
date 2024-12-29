@@ -1,7 +1,7 @@
 from typing import List, TypedDict
 
 
-class Entry(TypedDict):
+class IEntry(TypedDict):
     title: str
     last_modified: str
     size: int

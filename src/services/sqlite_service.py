@@ -1,10 +1,4 @@
-import sqlite3
 from typing import Optional
-
-from termcolor import colored
-
-from models.entry import Entry
-from sql.create_tables import tables
 
 
 class SqliteService:
@@ -12,7 +6,8 @@ class SqliteService:
         self.connection = db_connection
         self.cursor = db_connection.cursor()
 
-    def _query(self, sql, params=None, errorMessage: Optional[str] = None):
+    def _execute(self, sql, params=None, error_message: Optional[str] = None):
+        """Use for CREATE, INSERT, UPDATE, DELETE"""
         try:
             if params:
                 self.cursor.execute(sql, params)
@@ -21,6 +16,20 @@ class SqliteService:
             self.connection.commit()
 
         except Exception as e:
-            if errorMessage:
-                raise Exception(f"ERROR {errorMessage}: {e}")
+            if error_message:
+                raise Exception(f"ERROR {error_message}: {e}")
+            raise
+
+    def _query(self, sql, params=None, error_message: Optional[str] = None):
+        """Use for SELECT"""
+        try:
+            if params:
+                self.cursor.execute(sql, params)
+            else:
+                self.cursor.execute(sql)
+            return self.cursor.fetchall()
+
+        except Exception as e:
+            if error_message:
+                raise Exception(f"ERROR {error_message}: {e}")
             raise

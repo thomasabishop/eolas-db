@@ -1,0 +1,7618 @@
+{
+    "nodes": [
+        {
+            "id": "#nand-to-tetris",
+            "type": "tag"
+        },
+        {
+            "id": "#question",
+            "type": "tag"
+        },
+        {
+            "id": "#AWS",
+            "type": "tag"
+        },
+        {
+            "id": "#graphql",
+            "type": "tag"
+        },
+        {
+            "id": "#OOP",
+            "type": "tag"
+        },
+        {
+            "id": "#design-patterns",
+            "type": "tag"
+        },
+        {
+            "id": "#git",
+            "type": "tag"
+        },
+        {
+            "id": "#python",
+            "type": "tag"
+        },
+        {
+            "id": "#APIs",
+            "type": "tag"
+        },
+        {
+            "id": "#ecopolsoc",
+            "type": "tag"
+        },
+        {
+            "id": "#internet",
+            "type": "tag"
+        },
+        {
+            "id": "#memory",
+            "type": "tag"
+        },
+        {
+            "id": "#binary",
+            "type": "tag"
+        },
+        {
+            "id": "#SNS",
+            "type": "tag"
+        },
+        {
+            "id": "#SQS",
+            "type": "tag"
+        },
+        {
+            "id": "#shell",
+            "type": "tag"
+        },
+        {
+            "id": "#propositional-logic",
+            "type": "tag"
+        },
+        {
+            "id": "#algebra",
+            "type": "tag"
+        },
+        {
+            "id": "#logic",
+            "type": "tag"
+        },
+        {
+            "id": "#node-js",
+            "type": "tag"
+        },
+        {
+            "id": "#SQL",
+            "type": "tag"
+        },
+        {
+            "id": "#databases",
+            "type": "tag"
+        },
+        {
+            "id": "#data-types",
+            "type": "tag"
+        },
+        {
+            "id": "#mongo-db",
+            "type": "tag"
+        },
+        {
+            "id": "#physics",
+            "type": "tag"
+        },
+        {
+            "id": "#electricity",
+            "type": "tag"
+        },
+        {
+            "id": "#docker",
+            "type": "tag"
+        },
+        {
+            "id": "#containerization",
+            "type": "tag"
+        },
+        {
+            "id": "#Linux",
+            "type": "tag"
+        },
+        {
+            "id": "#javascript",
+            "type": "tag"
+        },
+        {
+            "id": "#ARPANET",
+            "type": "tag"
+        },
+        {
+            "id": "#networks",
+            "type": "tag"
+        },
+        {
+            "id": "#computer-history",
+            "type": "tag"
+        },
+        {
+            "id": "#typescript",
+            "type": "tag"
+        },
+        {
+            "id": "#disks",
+            "type": "tag"
+        },
+        {
+            "id": "#procedural",
+            "type": "tag"
+        },
+        {
+            "id": "#prealgebra",
+            "type": "tag"
+        },
+        {
+            "id": "#fractions",
+            "type": "tag"
+        },
+        {
+            "id": "#SQLite",
+            "type": "tag"
+        },
+        {
+            "id": "#hardware",
+            "type": "tag"
+        },
+        {
+            "id": "#set-theory",
+            "type": "tag"
+        },
+        {
+            "id": "#awk",
+            "type": "tag"
+        },
+        {
+            "id": "#data-structures",
+            "type": "tag"
+        },
+        {
+            "id": "#systems-programming",
+            "type": "tag"
+        },
+        {
+            "id": "#CPU",
+            "type": "tag"
+        },
+        {
+            "id": "#computer-architecture",
+            "type": "tag"
+        },
+        {
+            "id": "#electronics",
+            "type": "tag"
+        },
+        {
+            "id": "#react",
+            "type": "tag"
+        },
+        {
+            "id": "#ports",
+            "type": "tag"
+        },
+        {
+            "id": "#theorems",
+            "type": "tag"
+        },
+        {
+            "id": "#operating-systems",
+            "type": "tag"
+        },
+        {
+            "id": "#algorithms",
+            "type": "tag"
+        },
+        {
+            "id": "#C",
+            "type": "tag"
+        },
+        {
+            "id": "#REST",
+            "type": "tag"
+        },
+        {
+            "id": "#ARPA",
+            "type": "tag"
+        },
+        {
+            "id": "#number-systems",
+            "type": "tag"
+        },
+        {
+            "id": "#aws-lambda",
+            "type": "tag"
+        },
+        {
+            "id": "#fleeting",
+            "type": "tag"
+        },
+        {
+            "id": "#modems",
+            "type": "tag"
+        },
+        {
+            "id": "#bulletin-boards",
+            "type": "tag"
+        },
+        {
+            "id": "#packet-switching",
+            "type": "tag"
+        },
+        {
+            "id": "#encryption",
+            "type": "tag"
+        },
+        {
+            "id": "#privacy",
+            "type": "tag"
+        },
+        {
+            "id": "#TOR",
+            "type": "tag"
+        },
+        {
+            "id": "#logic-gates",
+            "type": "tag"
+        },
+        {
+            "id": "#world-wide-web",
+            "type": "tag"
+        },
+        {
+            "id": "#electromagnetism",
+            "type": "tag"
+        },
+        {
+            "id": "#mongoose",
+            "type": "tag"
+        },
+        {
+            "id": "#middleware",
+            "type": "tag"
+        },
+        {
+            "id": "#network-protocols",
+            "type": "tag"
+        },
+        {
+            "id": "#Microsoft",
+            "type": "tag"
+        },
+        {
+            "id": "#literature",
+            "type": "tag"
+        },
+        {
+            "id": "#ecosolpoc",
+            "type": "tag"
+        },
+        {
+            "id": "#bus",
+            "type": "tag"
+        },
+        {
+            "id": "#testing",
+            "type": "tag"
+        },
+        {
+            "id": "#number-theory",
+            "type": "tag"
+        },
+        {
+            "id": "#analogue",
+            "type": "tag"
+        },
+        {
+            "id": "#file-system",
+            "type": "tag"
+        },
+        {
+            "id": "#regex",
+            "type": "tag"
+        },
+        {
+            "id": "#systemd",
+            "type": "tag"
+        },
+        {
+            "id": "#surveillance-capitalism",
+            "type": "tag"
+        },
+        {
+            "id": "#exponents",
+            "type": "tag"
+        },
+        {
+            "id": "#dynamodb",
+            "type": "tag"
+        },
+        {
+            "id": "#cryptography",
+            "type": "tag"
+        },
+        {
+            "id": "#json",
+            "type": "tag"
+        },
+        {
+            "id": "#kernel",
+            "type": "tag"
+        },
+        {
+            "id": "#sound",
+            "type": "tag"
+        },
+        {
+            "id": "#theory-of-computation",
+            "type": "tag"
+        },
+        {
+            "id": "#Turing",
+            "type": "tag"
+        },
+        {
+            "id": "#jest",
+            "type": "tag"
+        },
+        {
+            "id": "#yaml",
+            "type": "tag"
+        },
+        {
+            "id": "#storage",
+            "type": "tag"
+        },
+        {
+            "id": "#unix",
+            "type": "tag"
+        },
+        {
+            "id": "#time",
+            "type": "tag"
+        },
+        {
+            "id": "#recursion",
+            "type": "tag"
+        },
+        {
+            "id": "#arithmetic",
+            "type": "tag"
+        },
+        {
+            "id": "#csv",
+            "type": "tag"
+        },
+        {
+            "id": "#raspberry-pi",
+            "type": "tag"
+        },
+        {
+            "id": "#S3",
+            "type": "tag"
+        },
+        {
+            "id": "#IaC",
+            "type": "tag"
+        },
+        {
+            "id": "#JSON",
+            "type": "tag"
+        },
+        {
+            "id": "#arch-linux",
+            "type": "tag"
+        },
+        {
+            "id": "0716531c_rewilding_the_internet",
+            "type": "entry"
+        },
+        {
+            "id": "241fe1a3_the_Web_versus_modem_BBSs",
+            "type": "entry"
+        },
+        {
+            "id": "385af4b4_Baran_distributed_networks",
+            "type": "entry"
+        },
+        {
+            "id": "3f1b9fe5_motivation_Berners_Lee",
+            "type": "entry"
+        },
+        {
+            "id": "4a3dc316_key_figures_ARPANET",
+            "type": "entry"
+        },
+        {
+            "id": "4da22434_from_ARPANET_to_Internet",
+            "type": "entry"
+        },
+        {
+            "id": "653c0b1d_host_protocols_of_ARPANET",
+            "type": "entry"
+        },
+        {
+            "id": "82f9c228_dissolution_of_ARPANET",
+            "type": "entry"
+        },
+        {
+            "id": "861cc26e_ARPA_origins",
+            "type": "entry"
+        },
+        {
+            "id": "API_Gateway",
+            "type": "entry"
+        },
+        {
+            "id": "AWS_CLI",
+            "type": "entry"
+        },
+        {
+            "id": "AWS_CloudWatch",
+            "type": "entry"
+        },
+        {
+            "id": "AWS_SAM_and_Docker",
+            "type": "entry"
+        },
+        {
+            "id": "AWS_SNS",
+            "type": "entry"
+        },
+        {
+            "id": "AWS_SQS",
+            "type": "entry"
+        },
+        {
+            "id": "AWS_SQS_SDK",
+            "type": "entry"
+        },
+        {
+            "id": "AWS_architecture_hierarchy",
+            "type": "entry"
+        },
+        {
+            "id": "Accessing_metadata_about_SQL_database",
+            "type": "entry"
+        },
+        {
+            "id": "Accessing_secrets_from_a_Lambda",
+            "type": "entry"
+        },
+        {
+            "id": "Add_Subtract_Fractions",
+            "type": "entry"
+        },
+        {
+            "id": "Adding_documents_to_a_Mongo_collection",
+            "type": "entry"
+        },
+        {
+            "id": "Additive_identity",
+            "type": "entry"
+        },
+        {
+            "id": "Additive_inverse_property",
+            "type": "entry"
+        },
+        {
+            "id": "Aggregate_functions_in_SQL",
+            "type": "entry"
+        },
+        {
+            "id": "Algebra_key_terms",
+            "type": "entry"
+        },
+        {
+            "id": "Algorithmic_complexity",
+            "type": "entry"
+        },
+        {
+            "id": "Analogue_and_digital",
+            "type": "entry"
+        },
+        {
+            "id": "Any",
+            "type": "entry"
+        },
+        {
+            "id": "Apollo_Client",
+            "type": "entry"
+        },
+        {
+            "id": "Apollo_Server",
+            "type": "entry"
+        },
+        {
+            "id": "Appending_to_files_in_Python",
+            "type": "entry"
+        },
+        {
+            "id": "Application_Layer_of_Internet_Protocol",
+            "type": "entry"
+        },
+        {
+            "id": "Application_state_management_with_React_hooks",
+            "type": "entry"
+        },
+        {
+            "id": "Architecture_of_the_World_Wide_Web",
+            "type": "entry"
+        },
+        {
+            "id": "Arithmetic_Logic_Unit",
+            "type": "entry"
+        },
+        {
+            "id": "Arrays",
+            "type": "entry"
+        },
+        {
+            "id": "Assembly",
+            "type": "entry"
+        },
+        {
+            "id": "Associative_Property_of_Addition_and_Multiplication",
+            "type": "entry"
+        },
+        {
+            "id": "Atomic_and_molecular_propositions",
+            "type": "entry"
+        },
+        {
+            "id": "Audio_file_formats",
+            "type": "entry"
+        },
+        {
+            "id": "Awk",
+            "type": "entry"
+        },
+        {
+            "id": "Axioms_of_set_theory",
+            "type": "entry"
+        },
+        {
+            "id": "Bash_colour_output",
+            "type": "entry"
+        },
+        {
+            "id": "Bash_file_exists",
+            "type": "entry"
+        },
+        {
+            "id": "Bash_store_status_of_command_execution",
+            "type": "entry"
+        },
+        {
+            "id": "Basic_model_of_the_operating_system",
+            "type": "entry"
+        },
+        {
+            "id": "Basic_properties_of_sets",
+            "type": "entry"
+        },
+        {
+            "id": "Basics_of_web_components",
+            "type": "entry"
+        },
+        {
+            "id": "Batch_processing",
+            "type": "entry"
+        },
+        {
+            "id": "Bauman_quote",
+            "type": "entry"
+        },
+        {
+            "id": "Bell_System",
+            "type": "entry"
+        },
+        {
+            "id": "Biconditional_Elimination",
+            "type": "entry"
+        },
+        {
+            "id": "Biconditional_Introduction",
+            "type": "entry"
+        },
+        {
+            "id": "Binary_addition",
+            "type": "entry"
+        },
+        {
+            "id": "Binary_arithmetic",
+            "type": "entry"
+        },
+        {
+            "id": "Binary_colour_encoding",
+            "type": "entry"
+        },
+        {
+            "id": "Binary_encoding",
+            "type": "entry"
+        },
+        {
+            "id": "Binary_encoding_of_sound",
+            "type": "entry"
+        },
+        {
+            "id": "Binary_encoding_of_text",
+            "type": "entry"
+        },
+        {
+            "id": "Binary_number_system",
+            "type": "entry"
+        },
+        {
+            "id": "Binary_units_of_measurement",
+            "type": "entry"
+        },
+        {
+            "id": "Bitwise_operators",
+            "type": "entry"
+        },
+        {
+            "id": "Bluetooth",
+            "type": "entry"
+        },
+        {
+            "id": "Bolt_Beranek_and_Newman",
+            "type": "entry"
+        },
+        {
+            "id": "Boolean_algebra",
+            "type": "entry"
+        },
+        {
+            "id": "Boolean_function_synthesis",
+            "type": "entry"
+        },
+        {
+            "id": "Boolean_functions",
+            "type": "entry"
+        },
+        {
+            "id": "Boot_process",
+            "type": "entry"
+        },
+        {
+            "id": "Breadboards",
+            "type": "entry"
+        },
+        {
+            "id": "Bus",
+            "type": "entry"
+        },
+        {
+            "id": "CPU_architecture",
+            "type": "entry"
+        },
+        {
+            "id": "Call_stack",
+            "type": "entry"
+        },
+        {
+            "id": "Capturing_user_input_in_Bash",
+            "type": "entry"
+        },
+        {
+            "id": "Case_statements_in_Bash",
+            "type": "entry"
+        },
+        {
+            "id": "Cells_and_batteries",
+            "type": "entry"
+        },
+        {
+            "id": "Cherry_picking",
+            "type": "entry"
+        },
+        {
+            "id": "Child_to_parent_data_flow_in_React",
+            "type": "entry"
+        },
+        {
+            "id": "Chipset_and_controllers",
+            "type": "entry"
+        },
+        {
+            "id": "Class_inheritance_in_Python",
+            "type": "entry"
+        },
+        {
+            "id": "Classes",
+            "type": "entry"
+        },
+        {
+            "id": "Classes_in_Python",
+            "type": "entry"
+        },
+        {
+            "id": "Clock_signals",
+            "type": "entry"
+        },
+        {
+            "id": "Command_pattern",
+            "type": "entry"
+        },
+        {
+            "id": "Commutative_Property_of_Addition_and_Multiplication",
+            "type": "entry"
+        },
+        {
+            "id": "Comparing_React_classes_to_hooks",
+            "type": "entry"
+        },
+        {
+            "id": "Compile_Python_app_to_single_executable",
+            "type": "entry"
+        },
+        {
+            "id": "Compile_from_source",
+            "type": "entry"
+        },
+        {
+            "id": "Components_props_classes",
+            "type": "entry"
+        },
+        {
+            "id": "Components_props_hooks_in_React",
+            "type": "entry"
+        },
+        {
+            "id": "Concise_subfield_mapping_JS",
+            "type": "entry"
+        },
+        {
+            "id": "Conditional_Elimination",
+            "type": "entry"
+        },
+        {
+            "id": "Conditional_Introduction",
+            "type": "entry"
+        },
+        {
+            "id": "Conditional_statements_in_Python",
+            "type": "entry"
+        },
+        {
+            "id": "Conditionals_in_Bash",
+            "type": "entry"
+        },
+        {
+            "id": "Conjunction_Elimination",
+            "type": "entry"
+        },
+        {
+            "id": "Conjunction_Introduction",
+            "type": "entry"
+        },
+        {
+            "id": "Connect_to_Mongo_database",
+            "type": "entry"
+        },
+        {
+            "id": "Connecting_a_frontend_to_a_Docker_backend",
+            "type": "entry"
+        },
+        {
+            "id": "Containerization",
+            "type": "entry"
+        },
+        {
+            "id": "Controlled_components_in_React",
+            "type": "entry"
+        },
+        {
+            "id": "Corresponding_material_and_biconditional",
+            "type": "entry"
+        },
+        {
+            "id": "Coulombs_Laws",
+            "type": "entry"
+        },
+        {
+            "id": "Create_Mongo_database",
+            "type": "entry"
+        },
+        {
+            "id": "Create_an_SQL_table",
+            "type": "entry"
+        },
+        {
+            "id": "Create_timed_systemd_job",
+            "type": "entry"
+        },
+        {
+            "id": "Creating_a_Docker_image",
+            "type": "entry"
+        },
+        {
+            "id": "Creating_a_Linux_partition_table",
+            "type": "entry"
+        },
+        {
+            "id": "Creating_a_Mongo_schema_and_model",
+            "type": "entry"
+        },
+        {
+            "id": "Creating_a_RESTful_API_GET",
+            "type": "entry"
+        },
+        {
+            "id": "Creating_a_RESTful_API_Integrating_the_Database",
+            "type": "entry"
+        },
+        {
+            "id": "Creating_a_RESTful_API_Introduction",
+            "type": "entry"
+        },
+        {
+            "id": "Creating_a_RESTful_API_POST",
+            "type": "entry"
+        },
+        {
+            "id": "Creating_a_RESTful_API_PUT",
+            "type": "entry"
+        },
+        {
+            "id": "Creating_memory_with_NAND",
+            "type": "entry"
+        },
+        {
+            "id": "Cron",
+            "type": "entry"
+        },
+        {
+            "id": "Current",
+            "type": "entry"
+        },
+        {
+            "id": "Custom_React_hook_examples",
+            "type": "entry"
+        },
+        {
+            "id": "Custom_types_in_TypeScript",
+            "type": "entry"
+        },
+        {
+            "id": "DRAM_and_SRAM_memory",
+            "type": "entry"
+        },
+        {
+            "id": "Daemons",
+            "type": "entry"
+        },
+        {
+            "id": "Data_types_in_Bash",
+            "type": "entry"
+        },
+        {
+            "id": "Data_types_in_MySQL",
+            "type": "entry"
+        },
+        {
+            "id": "Database_indices",
+            "type": "entry"
+        },
+        {
+            "id": "Database_options_on_AWS",
+            "type": "entry"
+        },
+        {
+            "id": "Dates_in_Python",
+            "type": "entry"
+        },
+        {
+            "id": "DeMorgan's_Laws",
+            "type": "entry"
+        },
+        {
+            "id": "Defining_a_computer",
+            "type": "entry"
+        },
+        {
+            "id": "Delay_line_memory",
+            "type": "entry"
+        },
+        {
+            "id": "Delete_a_branch",
+            "type": "entry"
+        },
+        {
+            "id": "Delete_records_in_an_SQL_table",
+            "type": "entry"
+        },
+        {
+            "id": "Deleting_Mongo_documents",
+            "type": "entry"
+        },
+        {
+            "id": "Dependency_injection",
+            "type": "entry"
+        },
+        {
+            "id": "Devices",
+            "type": "entry"
+        },
+        {
+            "id": "Dictionaries_in_Python",
+            "type": "entry"
+        },
+        {
+            "id": "Difference_between_remote_origin_and_head",
+            "type": "entry"
+        },
+        {
+            "id": "Disjunction_Elimination",
+            "type": "entry"
+        },
+        {
+            "id": "Disjunction_Introduction",
+            "type": "entry"
+        },
+        {
+            "id": "Disk_info",
+            "type": "entry"
+        },
+        {
+            "id": "Distributivity",
+            "type": "entry"
+        },
+        {
+            "id": "Dividing_fractions",
+            "type": "entry"
+        },
+        {
+            "id": "Docker_CLI",
+            "type": "entry"
+        },
+        {
+            "id": "Docker_Compose",
+            "type": "entry"
+        },
+        {
+            "id": "Docker_architecture",
+            "type": "entry"
+        },
+        {
+            "id": "Docker_compose_and_Dockerfile_difference",
+            "type": "entry"
+        },
+        {
+            "id": "Docker_containers",
+            "type": "entry"
+        },
+        {
+            "id": "Docker_general_overview",
+            "type": "entry"
+        },
+        {
+            "id": "Docker_images",
+            "type": "entry"
+        },
+        {
+            "id": "Docker_storage",
+            "type": "entry"
+        },
+        {
+            "id": "Dynamic_and_static_websites",
+            "type": "entry"
+        },
+        {
+            "id": "DynamoDB_CLI_commands",
+            "type": "entry"
+        },
+        {
+            "id": "DynamoDB_SDK_commands",
+            "type": "entry"
+        },
+        {
+            "id": "DynamoDB_data_structure",
+            "type": "entry"
+        },
+        {
+            "id": "Effective_logging_in_Git",
+            "type": "entry"
+        },
+        {
+            "id": "Elastic_Compute_Cloud",
+            "type": "entry"
+        },
+        {
+            "id": "Electromagnetism",
+            "type": "entry"
+        },
+        {
+            "id": "Electrons",
+            "type": "entry"
+        },
+        {
+            "id": "Enums",
+            "type": "entry"
+        },
+        {
+            "id": "Environmental_and_shell_variables",
+            "type": "entry"
+        },
+        {
+            "id": "Equivalent_equations",
+            "type": "entry"
+        },
+        {
+            "id": "Equivalent_fractions",
+            "type": "entry"
+        },
+        {
+            "id": "Error_handling_in_Python",
+            "type": "entry"
+        },
+        {
+            "id": "Event_loop",
+            "type": "entry"
+        },
+        {
+            "id": "Example_scenario_internet_data_transfer",
+            "type": "entry"
+        },
+        {
+            "id": "Expansions_and_substitutions",
+            "type": "entry"
+        },
+        {
+            "id": "Exponents",
+            "type": "entry"
+        },
+        {
+            "id": "Expressing_whole_numbers_as_fractions",
+            "type": "entry"
+        },
+        {
+            "id": "Factors_and_divisors",
+            "type": "entry"
+        },
+        {
+            "id": "Factory_pattern",
+            "type": "entry"
+        },
+        {
+            "id": "Fetch_decode_execute",
+            "type": "entry"
+        },
+        {
+            "id": "Fetch_from_Secrets_Manager",
+            "type": "entry"
+        },
+        {
+            "id": "File_descriptors",
+            "type": "entry"
+        },
+        {
+            "id": "File_operations_in_Python",
+            "type": "entry"
+        },
+        {
+            "id": "File_permissions_and_execution_in_Bash",
+            "type": "entry"
+        },
+        {
+            "id": "File_system_error_handling_in_Python",
+            "type": "entry"
+        },
+        {
+            "id": "Filesystems",
+            "type": "entry"
+        },
+        {
+            "id": "Find_Bash_command",
+            "type": "entry"
+        },
+        {
+            "id": "Flip_flops",
+            "type": "entry"
+        },
+        {
+            "id": "Foreign_keys_in_SQL",
+            "type": "entry"
+        },
+        {
+            "id": "Formal_conventions",
+            "type": "entry"
+        },
+        {
+            "id": "Formal_proofs_in_propositional_logic",
+            "type": "entry"
+        },
+        {
+            "id": "Format_specifiers_in_C",
+            "type": "entry"
+        },
+        {
+            "id": "Formatting_output_text_in_Bash",
+            "type": "entry"
+        },
+        {
+            "id": "Forms_in_React",
+            "type": "entry"
+        },
+        {
+            "id": "Four_bit_adder",
+            "type": "entry"
+        },
+        {
+            "id": "Frequency_counters",
+            "type": "entry"
+        },
+        {
+            "id": "Full_Node_API_example",
+            "type": "entry"
+        },
+        {
+            "id": "Function_overloads",
+            "type": "entry"
+        },
+        {
+            "id": "Functions",
+            "type": "entry"
+        },
+        {
+            "id": "Functions_in_Bash",
+            "type": "entry"
+        },
+        {
+            "id": "Functions_in_Python",
+            "type": "entry"
+        },
+        {
+            "id": "Fundamental_Theorem_of_Arithmetic",
+            "type": "entry"
+        },
+        {
+            "id": "Further_examples_of_TS_generics",
+            "type": "entry"
+        },
+        {
+            "id": "GPU_versus_CPU",
+            "type": "entry"
+        },
+        {
+            "id": "Generics_in_TypeScript",
+            "type": "entry"
+        },
+        {
+            "id": "Git_bisect",
+            "type": "entry"
+        },
+        {
+            "id": "Git_rebasing",
+            "type": "entry"
+        },
+        {
+            "id": "Global_object_in_NodeJS",
+            "type": "entry"
+        },
+        {
+            "id": "Grep",
+            "type": "entry"
+        },
+        {
+            "id": "Ground",
+            "type": "entry"
+        },
+        {
+            "id": "Guide_to_YAML",
+            "type": "entry"
+        },
+        {
+            "id": "HTTPS",
+            "type": "entry"
+        },
+        {
+            "id": "HTTP_request_types",
+            "type": "entry"
+        },
+        {
+            "id": "Half_adder_and_full_adder",
+            "type": "entry"
+        },
+        {
+            "id": "Handle_multiple_endpoints_single_lambda",
+            "type": "entry"
+        },
+        {
+            "id": "Handling_negative_fractions",
+            "type": "entry"
+        },
+        {
+            "id": "Hardware_Description_Language",
+            "type": "entry"
+        },
+        {
+            "id": "Hardware_abstraction_and_modularity",
+            "type": "entry"
+        },
+        {
+            "id": "Hardware_simulation",
+            "type": "entry"
+        },
+        {
+            "id": "Headless_Raspi_network_setup",
+            "type": "entry"
+        },
+        {
+            "id": "Heap_memory",
+            "type": "entry"
+        },
+        {
+            "id": "Hexadecimal_number_system",
+            "type": "entry"
+        },
+        {
+            "id": "IP_addresses",
+            "type": "entry"
+        },
+        {
+            "id": "Identify_merged_branches",
+            "type": "entry"
+        },
+        {
+            "id": "Importing_MongoDB_data",
+            "type": "entry"
+        },
+        {
+            "id": "Increasing_fractions_to_their_highest_terms",
+            "type": "entry"
+        },
+        {
+            "id": "Insert_data_into_SQL_table",
+            "type": "entry"
+        },
+        {
+            "id": "Instruction_set_architectures",
+            "type": "entry"
+        },
+        {
+            "id": "Integers",
+            "type": "entry"
+        },
+        {
+            "id": "Integrated_circuits",
+            "type": "entry"
+        },
+        {
+            "id": "Interactive_staging",
+            "type": "entry"
+        },
+        {
+            "id": "Internet_Layer_of_Internet_Protocol",
+            "type": "entry"
+        },
+        {
+            "id": "Internet_fundamentals",
+            "type": "entry"
+        },
+        {
+            "id": "Intersection_types_in_TypeScript",
+            "type": "entry"
+        },
+        {
+            "id": "Intro_to_the_Unix_shell",
+            "type": "entry"
+        },
+        {
+            "id": "Inversion_of_operators",
+            "type": "entry"
+        },
+        {
+            "id": "Invoking_the_shell_in_Python",
+            "type": "entry"
+        },
+        {
+            "id": "Iterating_in_React",
+            "type": "entry"
+        },
+        {
+            "id": "Iterating_through_complex_data_structures_in_Python",
+            "type": "entry"
+        },
+        {
+            "id": "JavaScript_module_types",
+            "type": "entry"
+        },
+        {
+            "id": "Joins_in_SQL",
+            "type": "entry"
+        },
+        {
+            "id": "Journey_of_GraphQL_query",
+            "type": "entry"
+        },
+        {
+            "id": "Key_characteristics_of_GraphQL",
+            "type": "entry"
+        },
+        {
+            "id": "Killing_processes",
+            "type": "entry"
+        },
+        {
+            "id": "LEDs",
+            "type": "entry"
+        },
+        {
+            "id": "Lambda_directory_structure",
+            "type": "entry"
+        },
+        {
+            "id": "Lambda_handler_function",
+            "type": "entry"
+        },
+        {
+            "id": "Lambda_programming_model",
+            "type": "entry"
+        },
+        {
+            "id": "Lambda_triggers",
+            "type": "entry"
+        },
+        {
+            "id": "Lambdas_in_Python",
+            "type": "entry"
+        },
+        {
+            "id": "Latches",
+            "type": "entry"
+        },
+        {
+            "id": "Law_of_Non_Contradiction",
+            "type": "entry"
+        },
+        {
+            "id": "Law_of_the_Excluded_Middle",
+            "type": "entry"
+        },
+        {
+            "id": "Lifecycle_methods",
+            "type": "entry"
+        },
+        {
+            "id": "Link_Layer_of_Internet_Protocol",
+            "type": "entry"
+        },
+        {
+            "id": "Linux_disk_partitions",
+            "type": "entry"
+        },
+        {
+            "id": "List_comprehension_in_Python",
+            "type": "entry"
+        },
+        {
+            "id": "Listing_and_navigating_directories_in_the_Shell",
+            "type": "entry"
+        },
+        {
+            "id": "Lists_and_arrays_in_Bash",
+            "type": "entry"
+        },
+        {
+            "id": "Lists_in_Python",
+            "type": "entry"
+        },
+        {
+            "id": "Local_AWS_development_with_SAM",
+            "type": "entry"
+        },
+        {
+            "id": "Logarithms",
+            "type": "entry"
+        },
+        {
+            "id": "Logic_gates",
+            "type": "entry"
+        },
+        {
+            "id": "Logical_consistency",
+            "type": "entry"
+        },
+        {
+            "id": "Logical_equivalence",
+            "type": "entry"
+        },
+        {
+            "id": "Logical_indeterminacy",
+            "type": "entry"
+        },
+        {
+            "id": "Logical_possibility_and_necessity",
+            "type": "entry"
+        },
+        {
+            "id": "Logical_truth_and_falsity",
+            "type": "entry"
+        },
+        {
+            "id": "Loops_in_Python",
+            "type": "entry"
+        },
+        {
+            "id": "Loops_in_bash",
+            "type": "entry"
+        },
+        {
+            "id": "MAC_addresses",
+            "type": "entry"
+        },
+        {
+            "id": "Machine_code",
+            "type": "entry"
+        },
+        {
+            "id": "Magnetic_core_memory",
+            "type": "entry"
+        },
+        {
+            "id": "Magnetic_drum_memory",
+            "type": "entry"
+        },
+        {
+            "id": "Magnetic_tape",
+            "type": "entry"
+        },
+        {
+            "id": "Mainframe_computers",
+            "type": "entry"
+        },
+        {
+            "id": "Managing_environments_in_NodeJS",
+            "type": "entry"
+        },
+        {
+            "id": "Map_and_filter_in_Python",
+            "type": "entry"
+        },
+        {
+            "id": "Map_and_filter_to_reduce_in_JS",
+            "type": "entry"
+        },
+        {
+            "id": "Mapped_types_in_TS",
+            "type": "entry"
+        },
+        {
+            "id": "Maps_and_sets_in_JS",
+            "type": "entry"
+        },
+        {
+            "id": "Match_statements_in_Python",
+            "type": "entry"
+        },
+        {
+            "id": "Matter_and_atoms",
+            "type": "entry"
+        },
+        {
+            "id": "Memoization_in_React",
+            "type": "entry"
+        },
+        {
+            "id": "Memory_Management_Unit",
+            "type": "entry"
+        },
+        {
+            "id": "Memory_addresses",
+            "type": "entry"
+        },
+        {
+            "id": "Memory_leaks",
+            "type": "entry"
+        },
+        {
+            "id": "Memory_versus_processor",
+            "type": "entry"
+        },
+        {
+            "id": "Middleware_in_NodeJS",
+            "type": "entry"
+        },
+        {
+            "id": "Mixed_and_improper_fractions",
+            "type": "entry"
+        },
+        {
+            "id": "Modelling_relationships_in_MongoDB",
+            "type": "entry"
+        },
+        {
+            "id": "Module_pattern",
+            "type": "entry"
+        },
+        {
+            "id": "Module_wrapping_at_runtime",
+            "type": "entry"
+        },
+        {
+            "id": "Modules_in_NodeJS",
+            "type": "entry"
+        },
+        {
+            "id": "MongoDB_Introduction",
+            "type": "entry"
+        },
+        {
+            "id": "MongoDB_connection",
+            "type": "entry"
+        },
+        {
+            "id": "Monitoring_processes_and_resources",
+            "type": "entry"
+        },
+        {
+            "id": "Morgan",
+            "type": "entry"
+        },
+        {
+            "id": "Motherboard",
+            "type": "entry"
+        },
+        {
+            "id": "Multiple_pointers",
+            "type": "entry"
+        },
+        {
+            "id": "Multiplexers_and_demultiplexers",
+            "type": "entry"
+        },
+        {
+            "id": "Multiplicative_identity",
+            "type": "entry"
+        },
+        {
+            "id": "Multiplicative_property_of_negative_one",
+            "type": "entry"
+        },
+        {
+            "id": "Multiplying_fractions",
+            "type": "entry"
+        },
+        {
+            "id": "Mutations_with_Apollo_Client",
+            "type": "entry"
+        },
+        {
+            "id": "Naming_conventions",
+            "type": "entry"
+        },
+        {
+            "id": "Natural_numbers",
+            "type": "entry"
+        },
+        {
+            "id": "Negation_Elimination",
+            "type": "entry"
+        },
+        {
+            "id": "Negation_Introduction",
+            "type": "entry"
+        },
+        {
+            "id": "Negative_exponents",
+            "type": "entry"
+        },
+        {
+            "id": "Network_card",
+            "type": "entry"
+        },
+        {
+            "id": "Network_debugging",
+            "type": "entry"
+        },
+        {
+            "id": "Network_fundamentals",
+            "type": "entry"
+        },
+        {
+            "id": "Network_hosts",
+            "type": "entry"
+        },
+        {
+            "id": "Network_packet_analysis_tools",
+            "type": "entry"
+        },
+        {
+            "id": "Network_protocols",
+            "type": "entry"
+        },
+        {
+            "id": "Network_requests_in_Python",
+            "type": "entry"
+        },
+        {
+            "id": "Network_scanning",
+            "type": "entry"
+        },
+        {
+            "id": "NodeJS_scripts",
+            "type": "entry"
+        },
+        {
+            "id": "Node_and_MySQL_db",
+            "type": "entry"
+        },
+        {
+            "id": "Nodemon",
+            "type": "entry"
+        },
+        {
+            "id": "Non_null_assertion_in_TypeScript",
+            "type": "entry"
+        },
+        {
+            "id": "None_in_Python",
+            "type": "entry"
+        },
+        {
+            "id": "Numbers_in_Python",
+            "type": "entry"
+        },
+        {
+            "id": "Object_language_and_meta_language",
+            "type": "entry"
+        },
+        {
+            "id": "Observer_pattern",
+            "type": "entry"
+        },
+        {
+            "id": "Ohms_Law",
+            "type": "entry"
+        },
+        {
+            "id": "OpenSearch",
+            "type": "entry"
+        },
+        {
+            "id": "Operating_system_API",
+            "type": "entry"
+        },
+        {
+            "id": "Order_of_operations",
+            "type": "entry"
+        },
+        {
+            "id": "Package_management_in_NodeJS",
+            "type": "entry"
+        },
+        {
+            "id": "Packet_switching_British_precursors",
+            "type": "entry"
+        },
+        {
+            "id": "Pacman",
+            "type": "entry"
+        },
+        {
+            "id": "Passing_arguments_and_options_to_Bash_scripts",
+            "type": "entry"
+        },
+        {
+            "id": "Passing_arguments_to_Python_scripts",
+            "type": "entry"
+        },
+        {
+            "id": "Peer_to_peer_network",
+            "type": "entry"
+        },
+        {
+            "id": "Ports_in_NodeJS",
+            "type": "entry"
+        },
+        {
+            "id": "Practical_walkthrough_Lambda_creation_within_AWS",
+            "type": "entry"
+        },
+        {
+            "id": "Prefixes_for_units_of_electrical_measurement",
+            "type": "entry"
+        },
+        {
+            "id": "Prime_factorization",
+            "type": "entry"
+        },
+        {
+            "id": "Primes_and_composites",
+            "type": "entry"
+        },
+        {
+            "id": "Primitive_types",
+            "type": "entry"
+        },
+        {
+            "id": "Printing_values_in_C",
+            "type": "entry"
+        },
+        {
+            "id": "Process_module_in_NodeJS",
+            "type": "entry"
+        },
+        {
+            "id": "Processes",
+            "type": "entry"
+        },
+        {
+            "id": "Prop_types_in_React",
+            "type": "entry"
+        },
+        {
+            "id": "Proper_shebang_syntax",
+            "type": "entry"
+        },
+        {
+            "id": "Props_in_React",
+            "type": "entry"
+        },
+        {
+            "id": "Prototypical_inheritance",
+            "type": "entry"
+        },
+        {
+            "id": "Push_buttons",
+            "type": "entry"
+        },
+        {
+            "id": "Python_application_structure",
+            "type": "entry"
+        },
+        {
+            "id": "Python_data_types",
+            "type": "entry"
+        },
+        {
+            "id": "Python_execution",
+            "type": "entry"
+        },
+        {
+            "id": "Python_interpreter",
+            "type": "entry"
+        },
+        {
+            "id": "Python_modules_and_imports",
+            "type": "entry"
+        },
+        {
+            "id": "Python_package_management",
+            "type": "entry"
+        },
+        {
+            "id": "Querying_a_Mongo_collection",
+            "type": "entry"
+        },
+        {
+            "id": "Queue",
+            "type": "entry"
+        },
+        {
+            "id": "Quote_marks_in_Bash",
+            "type": "entry"
+        },
+        {
+            "id": "RESTful_APIs",
+            "type": "entry"
+        },
+        {
+            "id": "ROM_versus_disk_loading",
+            "type": "entry"
+        },
+        {
+            "id": "React_Components",
+            "type": "entry"
+        },
+        {
+            "id": "React_application_structure",
+            "type": "entry"
+        },
+        {
+            "id": "React_errors",
+            "type": "entry"
+        },
+        {
+            "id": "React_useContext",
+            "type": "entry"
+        },
+        {
+            "id": "React_useEffect",
+            "type": "entry"
+        },
+        {
+            "id": "React_useReducer",
+            "type": "entry"
+        },
+        {
+            "id": "React_useState",
+            "type": "entry"
+        },
+        {
+            "id": "Read_command__in_Bash",
+            "type": "entry"
+        },
+        {
+            "id": "Reading_files_in_Python",
+            "type": "entry"
+        },
+        {
+            "id": "Reciprocals",
+            "type": "entry"
+        },
+        {
+            "id": "Recursion",
+            "type": "entry"
+        },
+        {
+            "id": "Redirect_to_dev_null",
+            "type": "entry"
+        },
+        {
+            "id": "Redirection_in_Bash",
+            "type": "entry"
+        },
+        {
+            "id": "Reducing_fractions",
+            "type": "entry"
+        },
+        {
+            "id": "Register_and_cache_memory",
+            "type": "entry"
+        },
+        {
+            "id": "Regular_expressions_in_SQL",
+            "type": "entry"
+        },
+        {
+            "id": "Reiteration",
+            "type": "entry"
+        },
+        {
+            "id": "Relation_between_kernel_and_CPU",
+            "type": "entry"
+        },
+        {
+            "id": "Relational_database_architecture",
+            "type": "entry"
+        },
+        {
+            "id": "Relays",
+            "type": "entry"
+        },
+        {
+            "id": "Remote_tracking_branches",
+            "type": "entry"
+        },
+        {
+            "id": "Rename_a_branch",
+            "type": "entry"
+        },
+        {
+            "id": "Reset_to_remote_version",
+            "type": "entry"
+        },
+        {
+            "id": "Resistance",
+            "type": "entry"
+        },
+        {
+            "id": "Restructure_URLs_lambda",
+            "type": "entry"
+        },
+        {
+            "id": "Retrieve_data_from_SQL_table",
+            "type": "entry"
+        },
+        {
+            "id": "Role_of_memory_in_computation",
+            "type": "entry"
+        },
+        {
+            "id": "Role_of_unique_key_in_relational_databases",
+            "type": "entry"
+        },
+        {
+            "id": "Routing_on_link_click_in_React",
+            "type": "entry"
+        },
+        {
+            "id": "Rules_for_operations_on_like_and_unlike_terms",
+            "type": "entry"
+        },
+        {
+            "id": "S3",
+            "type": "entry"
+        },
+        {
+            "id": "SAM",
+            "type": "entry"
+        },
+        {
+            "id": "SQLite",
+            "type": "entry"
+        },
+        {
+            "id": "Save_readonly_Vim_file",
+            "type": "entry"
+        },
+        {
+            "id": "Schema_Definition_Language_in_GraphQL",
+            "type": "entry"
+        },
+        {
+            "id": "Secrets_or_env_vars_in_AWS",
+            "type": "entry"
+        },
+        {
+            "id": "Semantic_versioning",
+            "type": "entry"
+        },
+        {
+            "id": "Set_DNS_settings",
+            "type": "entry"
+        },
+        {
+            "id": "Sets_in_Python",
+            "type": "entry"
+        },
+        {
+            "id": "Setting_up_and_configuring_TypeScript",
+            "type": "entry"
+        },
+        {
+            "id": "Shell_sessions",
+            "type": "entry"
+        },
+        {
+            "id": "Signed_and_unsigned_numbers",
+            "type": "entry"
+        },
+        {
+            "id": "Signed_magnitude_representation",
+            "type": "entry"
+        },
+        {
+            "id": "Single_file_Python_scripts",
+            "type": "entry"
+        },
+        {
+            "id": "Singleton_pattern",
+            "type": "entry"
+        },
+        {
+            "id": "Sliding_window",
+            "type": "entry"
+        },
+        {
+            "id": "Solving_equations",
+            "type": "entry"
+        },
+        {
+            "id": "Sorting_lists_in_Python",
+            "type": "entry"
+        },
+        {
+            "id": "Soundness",
+            "type": "entry"
+        },
+        {
+            "id": "Split_into_array_in_Bash",
+            "type": "entry"
+        },
+        {
+            "id": "Stack_memory",
+            "type": "entry"
+        },
+        {
+            "id": "Stacks",
+            "type": "entry"
+        },
+        {
+            "id": "Stale_branches_and_pruning",
+            "type": "entry"
+        },
+        {
+            "id": "Step_functions_and_state_machines",
+            "type": "entry"
+        },
+        {
+            "id": "Strategies_for_constructing_proofs",
+            "type": "entry"
+        },
+        {
+            "id": "Streams_in_NodeJS",
+            "type": "entry"
+        },
+        {
+            "id": "Strings_in_Bash",
+            "type": "entry"
+        },
+        {
+            "id": "Strings_in_Python",
+            "type": "entry"
+        },
+        {
+            "id": "Structuring_Express_applications",
+            "type": "entry"
+        },
+        {
+            "id": "Substrings_in_Bash",
+            "type": "entry"
+        },
+        {
+            "id": "Swap_space",
+            "type": "entry"
+        },
+        {
+            "id": "Switch_between_Python_vers",
+            "type": "entry"
+        },
+        {
+            "id": "Syllogism",
+            "type": "entry"
+        },
+        {
+            "id": "Symlinks",
+            "type": "entry"
+        },
+        {
+            "id": "Syntax_of_propositional_logic",
+            "type": "entry"
+        },
+        {
+            "id": "Tags_in_Git",
+            "type": "entry"
+        },
+        {
+            "id": "Terraform",
+            "type": "entry"
+        },
+        {
+            "id": "Test_values_in_Bash",
+            "type": "entry"
+        },
+        {
+            "id": "Testing_Python_code",
+            "type": "entry"
+        },
+        {
+            "id": "Testing_basic_prop_passing_in_React",
+            "type": "entry"
+        },
+        {
+            "id": "Testing_with_Jest",
+            "type": "entry"
+        },
+        {
+            "id": "Text_manipulation_in_Bash",
+            "type": "entry"
+        },
+        {
+            "id": "The_History_of_Computing_Swade",
+            "type": "entry"
+        },
+        {
+            "id": "The_Little_Man_computer",
+            "type": "entry"
+        },
+        {
+            "id": "The_PATH",
+            "type": "entry"
+        },
+        {
+            "id": "The_Pragmatic_Programmer_1999",
+            "type": "entry"
+        },
+        {
+            "id": "The_kernel",
+            "type": "entry"
+        },
+        {
+            "id": "The_memory_hierarchy",
+            "type": "entry"
+        },
+        {
+            "id": "Theorems_and_empty_sets",
+            "type": "entry"
+        },
+        {
+            "id": "Threads",
+            "type": "entry"
+        },
+        {
+            "id": "Three_bit_counter",
+            "type": "entry"
+        },
+        {
+            "id": "Time_and_computers",
+            "type": "entry"
+        },
+        {
+            "id": "Torrenting",
+            "type": "entry"
+        },
+        {
+            "id": "Transistors",
+            "type": "entry"
+        },
+        {
+            "id": "Transport_Layer_of_Internet_Protocol",
+            "type": "entry"
+        },
+        {
+            "id": "Troubleshooting_MongoDB",
+            "type": "entry"
+        },
+        {
+            "id": "Truth_functional_connectives",
+            "type": "entry"
+        },
+        {
+            "id": "Truth_tables",
+            "type": "entry"
+        },
+        {
+            "id": "Truth_trees",
+            "type": "entry"
+        },
+        {
+            "id": "Tuples_in_Python",
+            "type": "entry"
+        },
+        {
+            "id": "Turing_completeness",
+            "type": "entry"
+        },
+        {
+            "id": "Turing_machines",
+            "type": "entry"
+        },
+        {
+            "id": "Twos_complement",
+            "type": "entry"
+        },
+        {
+            "id": "Type_guarding_and_narrowing_in_TS",
+            "type": "entry"
+        },
+        {
+            "id": "Type_hinting",
+            "type": "entry"
+        },
+        {
+            "id": "Typing_built_in_React_hooks",
+            "type": "entry"
+        },
+        {
+            "id": "Union_types_in_TS",
+            "type": "entry"
+        },
+        {
+            "id": "Unknown_type_in_TS",
+            "type": "entry"
+        },
+        {
+            "id": "Update_a_Mongo_document",
+            "type": "entry"
+        },
+        {
+            "id": "Update_an_SQL_table",
+            "type": "entry"
+        },
+        {
+            "id": "Update_existing_data_in_SQL_table",
+            "type": "entry"
+        },
+        {
+            "id": "Useful_operators_in_SQL",
+            "type": "entry"
+        },
+        {
+            "id": "Usenet",
+            "type": "entry"
+        },
+        {
+            "id": "User_Space",
+            "type": "entry"
+        },
+        {
+            "id": "User_agent",
+            "type": "entry"
+        },
+        {
+            "id": "User_management_in_Linux",
+            "type": "entry"
+        },
+        {
+            "id": "User_management_on_AWS",
+            "type": "entry"
+        },
+        {
+            "id": "Using_GraphQL_with_Node",
+            "type": "entry"
+        },
+        {
+            "id": "Using_SQLite_with_Python",
+            "type": "entry"
+        },
+        {
+            "id": "Using_arguments_with_Apollo_Client",
+            "type": "entry"
+        },
+        {
+            "id": "Utilities_operators_flags",
+            "type": "entry"
+        },
+        {
+            "id": "Validating_Mongoose_schemas",
+            "type": "entry"
+        },
+        {
+            "id": "Validation_in_NodeJS",
+            "type": "entry"
+        },
+        {
+            "id": "Validity_and_entailment",
+            "type": "entry"
+        },
+        {
+            "id": "Variable_indirection_in_Bash",
+            "type": "entry"
+        },
+        {
+            "id": "Variables_and_data_types_in_Bash",
+            "type": "entry"
+        },
+        {
+            "id": "Variables_in_C",
+            "type": "entry"
+        },
+        {
+            "id": "Viewing_remote_changes_without_merging",
+            "type": "entry"
+        },
+        {
+            "id": "Views_in_relational_databases",
+            "type": "entry"
+        },
+        {
+            "id": "VirtualMemory",
+            "type": "entry"
+        },
+        {
+            "id": "Virtual_private_cloud",
+            "type": "entry"
+        },
+        {
+            "id": "Voltage",
+            "type": "entry"
+        },
+        {
+            "id": "Voltage_sources",
+            "type": "entry"
+        },
+        {
+            "id": "Weaving_the_Web_Berners_Lee",
+            "type": "entry"
+        },
+        {
+            "id": "What_are_disks",
+            "type": "entry"
+        },
+        {
+            "id": "What_can_the_ISP_see",
+            "type": "entry"
+        },
+        {
+            "id": "What_is_memory",
+            "type": "entry"
+        },
+        {
+            "id": "Whole_numbers",
+            "type": "entry"
+        },
+        {
+            "id": "Why_computers_use_binary",
+            "type": "entry"
+        },
+        {
+            "id": "Wildcards_in_SQL",
+            "type": "entry"
+        },
+        {
+            "id": "Williams_Tube_memory",
+            "type": "entry"
+        },
+        {
+            "id": "With_open_in_Python",
+            "type": "entry"
+        },
+        {
+            "id": "Working_with_CSVs_in_Python",
+            "type": "entry"
+        },
+        {
+            "id": "Working_with_JSON_in_Python",
+            "type": "entry"
+        },
+        {
+            "id": "Working_with_directories_in_Python",
+            "type": "entry"
+        },
+        {
+            "id": "Working_with_numbers_in_Bash",
+            "type": "entry"
+        },
+        {
+            "id": "Writing_to_files_in_Python",
+            "type": "entry"
+        },
+        {
+            "id": "Zero_property_of_multiplication",
+            "type": "entry"
+        },
+        {
+            "id": "Zip_function_in_Python",
+            "type": "entry"
+        },
+        {
+            "id": "a247fa9b_surveillance_capitalism_not_necessary",
+            "type": "entry"
+        },
+        {
+            "id": "a4601796_trapdoor_functions",
+            "type": "entry"
+        },
+        {
+            "id": "a771a6d9_attributes_of_internet_enclosure",
+            "type": "entry"
+        },
+        {
+            "id": "bbdcb54f_public_key_cryptography",
+            "type": "entry"
+        },
+        {
+            "id": "c301a0b3-1d8_Mosaic_Netscape_and_Browser_Wars",
+            "type": "entry"
+        },
+        {
+            "id": "c8173d17_TIMPs",
+            "type": "entry"
+        },
+        {
+            "id": "cfbef1c4_web_precursors",
+            "type": "entry"
+        },
+        {
+            "id": "e470bf3d_IMPs_in_the_ARPANET",
+            "type": "entry"
+        },
+        {
+            "id": "ecec56e6_precursors_to_search_engines",
+            "type": "entry"
+        },
+        {
+            "id": "f0f70a3c_ARPANET_motivations",
+            "type": "entry"
+        },
+        {
+            "id": "f6564af9_AOL_and_early_internet_enclosure",
+            "type": "entry"
+        },
+        {
+            "id": "fbbfbc32-political-accommodation-inveigelment-surveillance-capitalism",
+            "type": "entry"
+        },
+        {
+            "id": "fs",
+            "type": "entry"
+        },
+        {
+            "id": "http_in_Node",
+            "type": "entry"
+        },
+        {
+            "id": "journald",
+            "type": "entry"
+        },
+        {
+            "id": "jq",
+            "type": "entry"
+        },
+        {
+            "id": "ps",
+            "type": "entry"
+        },
+        {
+            "id": "python_advent_learnings",
+            "type": "entry"
+        },
+        {
+            "id": "systemd",
+            "type": "entry"
+        },
+        {
+            "id": "systemd_status",
+            "type": "entry"
+        },
+        {
+            "id": "v8",
+            "type": "entry"
+        }
+    ],
+    "edges": [
+        {
+            "source": "#nand-to-tetris",
+            "target": "Hardware_abstraction_and_modularity"
+        },
+        {
+            "source": "#question",
+            "target": "Memory_versus_processor"
+        },
+        {
+            "source": "#AWS",
+            "target": "Elastic_Compute_Cloud"
+        },
+        {
+            "source": "#graphql",
+            "target": "Mutations_with_Apollo_Client"
+        },
+        {
+            "source": "#OOP",
+            "target": "Observer_pattern"
+        },
+        {
+            "source": "#design-patterns",
+            "target": "Observer_pattern"
+        },
+        {
+            "source": "#git",
+            "target": "Tags_in_Git"
+        },
+        {
+            "source": "#python",
+            "target": "Passing_arguments_to_Python_scripts"
+        },
+        {
+            "source": "#graphql",
+            "target": "Key_characteristics_of_GraphQL"
+        },
+        {
+            "source": "#APIs",
+            "target": "Key_characteristics_of_GraphQL"
+        },
+        {
+            "source": "#ecopolsoc",
+            "target": "0716531c_rewilding_the_internet"
+        },
+        {
+            "source": "#internet",
+            "target": "0716531c_rewilding_the_internet"
+        },
+        {
+            "source": "#memory",
+            "target": "Memory_addresses"
+        },
+        {
+            "source": "#binary",
+            "target": "Signed_magnitude_representation"
+        },
+        {
+            "source": "#AWS",
+            "target": "AWS_SNS"
+        },
+        {
+            "source": "#SNS",
+            "target": "AWS_SNS"
+        },
+        {
+            "source": "#SQS",
+            "target": "AWS_SNS"
+        },
+        {
+            "source": "#shell",
+            "target": "Proper_shebang_syntax"
+        },
+        {
+            "source": "#propositional-logic",
+            "target": "Boolean_algebra"
+        },
+        {
+            "source": "#algebra",
+            "target": "Boolean_algebra"
+        },
+        {
+            "source": "#nand-to-tetris",
+            "target": "Boolean_algebra"
+        },
+        {
+            "source": "#logic",
+            "target": "Boolean_algebra"
+        },
+        {
+            "source": "#node-js",
+            "target": "Package_management_in_NodeJS"
+        },
+        {
+            "source": "#SQL",
+            "target": "Data_types_in_MySQL"
+        },
+        {
+            "source": "#databases",
+            "target": "Data_types_in_MySQL"
+        },
+        {
+            "source": "#data-types",
+            "target": "Data_types_in_MySQL"
+        },
+        {
+            "source": "#AWS",
+            "target": "OpenSearch"
+        },
+        {
+            "source": "#mongo-db",
+            "target": "MongoDB_Introduction"
+        },
+        {
+            "source": "#databases",
+            "target": "MongoDB_Introduction"
+        },
+        {
+            "source": "#physics",
+            "target": "Electrons"
+        },
+        {
+            "source": "#electricity",
+            "target": "Electrons"
+        },
+        {
+            "source": "#propositional-logic",
+            "target": "Conditional_Elimination"
+        },
+        {
+            "source": "#logic",
+            "target": "Conditional_Elimination"
+        },
+        {
+            "source": "#docker",
+            "target": "Containerization"
+        },
+        {
+            "source": "#containerization",
+            "target": "Containerization"
+        },
+        {
+            "source": "#Linux",
+            "target": "Containerization"
+        },
+        {
+            "source": "#memory",
+            "target": "Call_stack"
+        },
+        {
+            "source": "#javascript",
+            "target": "Call_stack"
+        },
+        {
+            "source": "#memory",
+            "target": "The_memory_hierarchy"
+        },
+        {
+            "source": "#ARPANET",
+            "target": "c8173d17_TIMPs"
+        },
+        {
+            "source": "#networks",
+            "target": "c8173d17_TIMPs"
+        },
+        {
+            "source": "#computer-history",
+            "target": "c8173d17_TIMPs"
+        },
+        {
+            "source": "#git",
+            "target": "Interactive_staging"
+        },
+        {
+            "source": "#OOP",
+            "target": "Module_pattern"
+        },
+        {
+            "source": "#design-patterns",
+            "target": "Module_pattern"
+        },
+        {
+            "source": "#typescript",
+            "target": "Custom_types_in_TypeScript"
+        },
+        {
+            "source": "#disks",
+            "target": "Linux_disk_partitions"
+        },
+        {
+            "source": "#Linux",
+            "target": "Linux_disk_partitions"
+        },
+        {
+            "source": "#procedural",
+            "target": "Linux_disk_partitions"
+        },
+        {
+            "source": "#prealgebra",
+            "target": "Reducing_fractions"
+        },
+        {
+            "source": "#fractions",
+            "target": "Reducing_fractions"
+        },
+        {
+            "source": "#python",
+            "target": "Using_SQLite_with_Python"
+        },
+        {
+            "source": "#databases",
+            "target": "Using_SQLite_with_Python"
+        },
+        {
+            "source": "#SQL",
+            "target": "Using_SQLite_with_Python"
+        },
+        {
+            "source": "#SQLite",
+            "target": "Using_SQLite_with_Python"
+        },
+        {
+            "source": "#git",
+            "target": "Git_rebasing"
+        },
+        {
+            "source": "#prealgebra",
+            "target": "Dividing_fractions"
+        },
+        {
+            "source": "#fractions",
+            "target": "Dividing_fractions"
+        },
+        {
+            "source": "#propositional-logic",
+            "target": "Conjunction_Elimination"
+        },
+        {
+            "source": "#logic",
+            "target": "Conjunction_Elimination"
+        },
+        {
+            "source": "#networks",
+            "target": "Network_card"
+        },
+        {
+            "source": "#hardware",
+            "target": "Network_card"
+        },
+        {
+            "source": "#set-theory",
+            "target": "Basic_properties_of_sets"
+        },
+        {
+            "source": "#memory",
+            "target": "What_is_memory"
+        },
+        {
+            "source": "#prealgebra",
+            "target": "Natural_numbers"
+        },
+        {
+            "source": "#computer-history",
+            "target": "Bolt_Beranek_and_Newman"
+        },
+        {
+            "source": "#ARPANET",
+            "target": "Bolt_Beranek_and_Newman"
+        },
+        {
+            "source": "#propositional-logic",
+            "target": "Disjunction_Elimination"
+        },
+        {
+            "source": "#logic",
+            "target": "Disjunction_Elimination"
+        },
+        {
+            "source": "#shell",
+            "target": "Awk"
+        },
+        {
+            "source": "#awk",
+            "target": "Awk"
+        },
+        {
+            "source": "#data-structures",
+            "target": "Queue"
+        },
+        {
+            "source": "#logic",
+            "target": "Truth_tables"
+        },
+        {
+            "source": "#propositional-logic",
+            "target": "Truth_tables"
+        },
+        {
+            "source": "#systems-programming",
+            "target": "Disk_info"
+        },
+        {
+            "source": "#disks",
+            "target": "Disk_info"
+        },
+        {
+            "source": "#procedural",
+            "target": "Disk_info"
+        },
+        {
+            "source": "#Linux",
+            "target": "Disk_info"
+        },
+        {
+            "source": "#CPU",
+            "target": "CPU_architecture"
+        },
+        {
+            "source": "#computer-architecture",
+            "target": "CPU_architecture"
+        },
+        {
+            "source": "#python",
+            "target": "Python_package_management"
+        },
+        {
+            "source": "#data-types",
+            "target": "Python_package_management"
+        },
+        {
+            "source": "#AWS",
+            "target": "Local_AWS_development_with_SAM"
+        },
+        {
+            "source": "#docker",
+            "target": "Local_AWS_development_with_SAM"
+        },
+        {
+            "source": "#propositional-logic",
+            "target": "Truth_functional_connectives"
+        },
+        {
+            "source": "#logic",
+            "target": "Truth_functional_connectives"
+        },
+        {
+            "source": "#python",
+            "target": "Lists_in_Python"
+        },
+        {
+            "source": "#data-structures",
+            "target": "Lists_in_Python"
+        },
+        {
+            "source": "#algebra",
+            "target": "Algebra_key_terms"
+        },
+        {
+            "source": "#networks",
+            "target": "IP_addresses"
+        },
+        {
+            "source": "#internet",
+            "target": "IP_addresses"
+        },
+        {
+            "source": "#shell",
+            "target": "Substrings_in_Bash"
+        },
+        {
+            "source": "#node-js",
+            "target": "http_in_Node"
+        },
+        {
+            "source": "#propositional-logic",
+            "target": "Disjunction_Introduction"
+        },
+        {
+            "source": "#logic",
+            "target": "Disjunction_Introduction"
+        },
+        {
+            "source": "#python",
+            "target": "Classes_in_Python"
+        },
+        {
+            "source": "#OOP",
+            "target": "Classes_in_Python"
+        },
+        {
+            "source": "#electronics",
+            "target": "Breadboards"
+        },
+        {
+            "source": "#typescript",
+            "target": "Union_types_in_TS"
+        },
+        {
+            "source": "#nand-to-tetris",
+            "target": "Hardware_Description_Language"
+        },
+        {
+            "source": "#javascript",
+            "target": "React_useReducer"
+        },
+        {
+            "source": "#react",
+            "target": "React_useReducer"
+        },
+        {
+            "source": "#typescript",
+            "target": "Function_overloads"
+        },
+        {
+            "source": "#python",
+            "target": "Network_requests_in_Python"
+        },
+        {
+            "source": "#APIs",
+            "target": "Network_requests_in_Python"
+        },
+        {
+            "source": "#networks",
+            "target": "Network_requests_in_Python"
+        },
+        {
+            "source": "#internet",
+            "target": "Transport_Layer_of_Internet_Protocol"
+        },
+        {
+            "source": "#networks",
+            "target": "Transport_Layer_of_Internet_Protocol"
+        },
+        {
+            "source": "#ports",
+            "target": "Transport_Layer_of_Internet_Protocol"
+        },
+        {
+            "source": "#set-theory",
+            "target": "Axioms_of_set_theory"
+        },
+        {
+            "source": "#theorems",
+            "target": "Axioms_of_set_theory"
+        },
+        {
+            "source": "#propositional-logic",
+            "target": "Conjunction_Introduction"
+        },
+        {
+            "source": "#logic",
+            "target": "Conjunction_Introduction"
+        },
+        {
+            "source": "#javascript",
+            "target": "React_useState"
+        },
+        {
+            "source": "#react",
+            "target": "React_useState"
+        },
+        {
+            "source": "#systems-programming",
+            "target": "The_kernel"
+        },
+        {
+            "source": "#memory",
+            "target": "The_kernel"
+        },
+        {
+            "source": "#operating-systems",
+            "target": "The_kernel"
+        },
+        {
+            "source": "#computer-architecture",
+            "target": "The_kernel"
+        },
+        {
+            "source": "#python",
+            "target": "Zip_function_in_Python"
+        },
+        {
+            "source": "#data-structures",
+            "target": "Zip_function_in_Python"
+        },
+        {
+            "source": "#node-js",
+            "target": "Event_loop"
+        },
+        {
+            "source": "#data-structures",
+            "target": "Frequency_counters"
+        },
+        {
+            "source": "#python",
+            "target": "Class_inheritance_in_Python"
+        },
+        {
+            "source": "#OOP",
+            "target": "Class_inheritance_in_Python"
+        },
+        {
+            "source": "#algorithms",
+            "target": "Algorithmic_complexity"
+        },
+        {
+            "source": "#C",
+            "target": "Format_specifiers_in_C"
+        },
+        {
+            "source": "#typescript",
+            "target": "Enums"
+        },
+        {
+            "source": "#CPU",
+            "target": "The_Little_Man_computer"
+        },
+        {
+            "source": "#python",
+            "target": "Python_modules_and_imports"
+        },
+        {
+            "source": "#OOP",
+            "target": "Python_modules_and_imports"
+        },
+        {
+            "source": "#node-js",
+            "target": "Process_module_in_NodeJS"
+        },
+        {
+            "source": "#AWS",
+            "target": "Fetch_from_Secrets_Manager"
+        },
+        {
+            "source": "#node-js",
+            "target": "Creating_a_RESTful_API_Introduction"
+        },
+        {
+            "source": "#REST",
+            "target": "Creating_a_RESTful_API_Introduction"
+        },
+        {
+            "source": "#APIs",
+            "target": "Creating_a_RESTful_API_Introduction"
+        },
+        {
+            "source": "#python",
+            "target": "Loops_in_Python"
+        },
+        {
+            "source": "#prealgebra",
+            "target": "Zero_property_of_multiplication"
+        },
+        {
+            "source": "#theorems",
+            "target": "Zero_property_of_multiplication"
+        },
+        {
+            "source": "#binary",
+            "target": "Twos_complement"
+        },
+        {
+            "source": "#internet",
+            "target": "4a3dc316_key_figures_ARPANET"
+        },
+        {
+            "source": "#ARPANET",
+            "target": "4a3dc316_key_figures_ARPANET"
+        },
+        {
+            "source": "#ARPA",
+            "target": "4a3dc316_key_figures_ARPANET"
+        },
+        {
+            "source": "#shell",
+            "target": "Find_Bash_command"
+        },
+        {
+            "source": "#ecopolsoc",
+            "target": "a771a6d9_attributes_of_internet_enclosure"
+        },
+        {
+            "source": "#internet",
+            "target": "a771a6d9_attributes_of_internet_enclosure"
+        },
+        {
+            "source": "#graphql",
+            "target": "Schema_Definition_Language_in_GraphQL"
+        },
+        {
+            "source": "#typescript",
+            "target": "Any"
+        },
+        {
+            "source": "#git",
+            "target": "Viewing_remote_changes_without_merging"
+        },
+        {
+            "source": "#APIs",
+            "target": "RESTful_APIs"
+        },
+        {
+            "source": "#REST",
+            "target": "RESTful_APIs"
+        },
+        {
+            "source": "#typescript",
+            "target": "Generics_in_TypeScript"
+        },
+        {
+            "source": "#databases",
+            "target": "Relational_database_architecture"
+        },
+        {
+            "source": "#binary",
+            "target": "Binary_number_system"
+        },
+        {
+            "source": "#number-systems",
+            "target": "Binary_number_system"
+        },
+        {
+            "source": "#question",
+            "target": "Torrenting"
+        },
+        {
+            "source": "#networks",
+            "target": "Torrenting"
+        },
+        {
+            "source": "#REST",
+            "target": "HTTP_request_types"
+        },
+        {
+            "source": "#mongo-db",
+            "target": "Importing_MongoDB_data"
+        },
+        {
+            "source": "#node-js",
+            "target": "Importing_MongoDB_data"
+        },
+        {
+            "source": "#databases",
+            "target": "Importing_MongoDB_data"
+        },
+        {
+            "source": "#javascript",
+            "target": "Application_state_management_with_React_hooks"
+        },
+        {
+            "source": "#react",
+            "target": "Application_state_management_with_React_hooks"
+        },
+        {
+            "source": "#docker",
+            "target": "Docker_compose_and_Dockerfile_difference"
+        },
+        {
+            "source": "#shell",
+            "target": "Cron"
+        },
+        {
+            "source": "#Linux",
+            "target": "Cron"
+        },
+        {
+            "source": "#procedural",
+            "target": "Cron"
+        },
+        {
+            "source": "#networks",
+            "target": "Network_packet_analysis_tools"
+        },
+        {
+            "source": "#procedural",
+            "target": "Network_packet_analysis_tools"
+        },
+        {
+            "source": "#javascript",
+            "target": "Map_and_filter_to_reduce_in_JS"
+        },
+        {
+            "source": "#AWS",
+            "target": "Accessing_secrets_from_a_Lambda"
+        },
+        {
+            "source": "#aws-lambda",
+            "target": "Accessing_secrets_from_a_Lambda"
+        },
+        {
+            "source": "#OOP",
+            "target": "Singleton_pattern"
+        },
+        {
+            "source": "#design-patterns",
+            "target": "Singleton_pattern"
+        },
+        {
+            "source": "#fleeting",
+            "target": "cfbef1c4_web_precursors"
+        },
+        {
+            "source": "#modems",
+            "target": "cfbef1c4_web_precursors"
+        },
+        {
+            "source": "#computer-history",
+            "target": "cfbef1c4_web_precursors"
+        },
+        {
+            "source": "#internet",
+            "target": "cfbef1c4_web_precursors"
+        },
+        {
+            "source": "#bulletin-boards",
+            "target": "cfbef1c4_web_precursors"
+        },
+        {
+            "source": "#fleeting",
+            "target": "385af4b4_Baran_distributed_networks"
+        },
+        {
+            "source": "#networks",
+            "target": "385af4b4_Baran_distributed_networks"
+        },
+        {
+            "source": "#ARPANET",
+            "target": "385af4b4_Baran_distributed_networks"
+        },
+        {
+            "source": "#packet-switching",
+            "target": "385af4b4_Baran_distributed_networks"
+        },
+        {
+            "source": "#shell",
+            "target": "File_permissions_and_execution_in_Bash"
+        },
+        {
+            "source": "#prealgebra",
+            "target": "Inversion_of_operators"
+        },
+        {
+            "source": "#networks",
+            "target": "Internet_fundamentals"
+        },
+        {
+            "source": "#internet",
+            "target": "What_can_the_ISP_see"
+        },
+        {
+            "source": "#encryption",
+            "target": "What_can_the_ISP_see"
+        },
+        {
+            "source": "#privacy",
+            "target": "What_can_the_ISP_see"
+        },
+        {
+            "source": "#TOR",
+            "target": "What_can_the_ISP_see"
+        },
+        {
+            "source": "#AWS",
+            "target": "Step_functions_and_state_machines"
+        },
+        {
+            "source": "#python",
+            "target": "Python_interpreter"
+        },
+        {
+            "source": "#logic-gates",
+            "target": "Latches"
+        },
+        {
+            "source": "#binary",
+            "target": "Latches"
+        },
+        {
+            "source": "#memory",
+            "target": "Latches"
+        },
+        {
+            "source": "#git",
+            "target": "Stale_branches_and_pruning"
+        },
+        {
+            "source": "#data-structures",
+            "target": "Stacks"
+        },
+        {
+            "source": "#networks",
+            "target": "Network_scanning"
+        },
+        {
+            "source": "#procedural",
+            "target": "Network_scanning"
+        },
+        {
+            "source": "#Linux",
+            "target": "Network_scanning"
+        },
+        {
+            "source": "#world-wide-web",
+            "target": "3f1b9fe5_motivation_Berners_Lee"
+        },
+        {
+            "source": "#internet",
+            "target": "3f1b9fe5_motivation_Berners_Lee"
+        },
+        {
+            "source": "#binary",
+            "target": "Clock_signals"
+        },
+        {
+            "source": "#memory",
+            "target": "Clock_signals"
+        },
+        {
+            "source": "#electromagnetism",
+            "target": "Clock_signals"
+        },
+        {
+            "source": "#hardware",
+            "target": "Clock_signals"
+        },
+        {
+            "source": "#databases",
+            "target": "Database_indices"
+        },
+        {
+            "source": "#python",
+            "target": "Type_hinting"
+        },
+        {
+            "source": "#data-types",
+            "target": "Type_hinting"
+        },
+        {
+            "source": "#operating-systems",
+            "target": "User_Space"
+        },
+        {
+            "source": "#shell",
+            "target": "Shell_sessions"
+        },
+        {
+            "source": "#electronics",
+            "target": "Push_buttons"
+        },
+        {
+            "source": "#SQL",
+            "target": "Wildcards_in_SQL"
+        },
+        {
+            "source": "#databases",
+            "target": "Wildcards_in_SQL"
+        },
+        {
+            "source": "#javascript",
+            "target": "Memoization_in_React"
+        },
+        {
+            "source": "#react",
+            "target": "Memoization_in_React"
+        },
+        {
+            "source": "#AWS",
+            "target": "API_Gateway"
+        },
+        {
+            "source": "#APIs",
+            "target": "API_Gateway"
+        },
+        {
+            "source": "#computer-history",
+            "target": "Bell_System"
+        },
+        {
+            "source": "#disks",
+            "target": "Filesystems"
+        },
+        {
+            "source": "#computer-architecture",
+            "target": "Filesystems"
+        },
+        {
+            "source": "#operating-systems",
+            "target": "Filesystems"
+        },
+        {
+            "source": "#binary",
+            "target": "Binary_arithmetic"
+        },
+        {
+            "source": "#typescript",
+            "target": "Classes"
+        },
+        {
+            "source": "#OOP",
+            "target": "Classes"
+        },
+        {
+            "source": "#docker",
+            "target": "Connecting_a_frontend_to_a_Docker_backend"
+        },
+        {
+            "source": "#node-js",
+            "target": "Connecting_a_frontend_to_a_Docker_backend"
+        },
+        {
+            "source": "#logic",
+            "target": "Biconditional_Elimination"
+        },
+        {
+            "source": "#physics",
+            "target": "Cells_and_batteries"
+        },
+        {
+            "source": "#electricity",
+            "target": "Cells_and_batteries"
+        },
+        {
+            "source": "#docker",
+            "target": "Docker_storage"
+        },
+        {
+            "source": "#propositional-logic",
+            "target": "Logical_equivalence"
+        },
+        {
+            "source": "#logic",
+            "target": "Logical_equivalence"
+        },
+        {
+            "source": "#docker",
+            "target": "Docker_images"
+        },
+        {
+            "source": "#mongo-db",
+            "target": "Validating_Mongoose_schemas"
+        },
+        {
+            "source": "#mongoose",
+            "target": "Validating_Mongoose_schemas"
+        },
+        {
+            "source": "#node-js",
+            "target": "Validating_Mongoose_schemas"
+        },
+        {
+            "source": "#databases",
+            "target": "Validating_Mongoose_schemas"
+        },
+        {
+            "source": "#node-js",
+            "target": "Middleware_in_NodeJS"
+        },
+        {
+            "source": "#middleware",
+            "target": "Middleware_in_NodeJS"
+        },
+        {
+            "source": "#javascript",
+            "target": "React_application_structure"
+        },
+        {
+            "source": "#react",
+            "target": "React_application_structure"
+        },
+        {
+            "source": "#propositional-logic",
+            "target": "Logical_consistency"
+        },
+        {
+            "source": "#logic",
+            "target": "Logical_consistency"
+        },
+        {
+            "source": "#python",
+            "target": "Sorting_lists_in_Python"
+        },
+        {
+            "source": "#internet",
+            "target": "4da22434_from_ARPANET_to_Internet"
+        },
+        {
+            "source": "#ARPANET",
+            "target": "4da22434_from_ARPANET_to_Internet"
+        },
+        {
+            "source": "#graphql",
+            "target": "Using_arguments_with_Apollo_Client"
+        },
+        {
+            "source": "#shell",
+            "target": "Symlinks"
+        },
+        {
+            "source": "#Linux",
+            "target": "Symlinks"
+        },
+        {
+            "source": "#procedural",
+            "target": "Symlinks"
+        },
+        {
+            "source": "#networks",
+            "target": "Network_fundamentals"
+        },
+        {
+            "source": "#network-protocols",
+            "target": "Network_fundamentals"
+        },
+        {
+            "source": "#networks",
+            "target": "Peer_to_peer_network"
+        },
+        {
+            "source": "#logic-gates",
+            "target": "Multiplexers_and_demultiplexers"
+        },
+        {
+            "source": "#binary",
+            "target": "Multiplexers_and_demultiplexers"
+        },
+        {
+            "source": "#nand-to-tetris",
+            "target": "Multiplexers_and_demultiplexers"
+        },
+        {
+            "source": "#logic",
+            "target": "Negation_Elimination"
+        },
+        {
+            "source": "#propositional-logic",
+            "target": "Negation_Elimination"
+        },
+        {
+            "source": "#binary",
+            "target": "Machine_code"
+        },
+        {
+            "source": "#CPU",
+            "target": "Machine_code"
+        },
+        {
+            "source": "#hardware",
+            "target": "Machine_code"
+        },
+        {
+            "source": "#computer-architecture",
+            "target": "Machine_code"
+        },
+        {
+            "source": "#mongo-db",
+            "target": "Troubleshooting_MongoDB"
+        },
+        {
+            "source": "#world-wide-web",
+            "target": "c301a0b3-1d8_Mosaic_Netscape_and_Browser_Wars"
+        },
+        {
+            "source": "#computer-history",
+            "target": "c301a0b3-1d8_Mosaic_Netscape_and_Browser_Wars"
+        },
+        {
+            "source": "#Microsoft",
+            "target": "c301a0b3-1d8_Mosaic_Netscape_and_Browser_Wars"
+        },
+        {
+            "source": "#literature",
+            "target": "Weaving_the_Web_Berners_Lee"
+        },
+        {
+            "source": "#ecosolpoc",
+            "target": "Weaving_the_Web_Berners_Lee"
+        },
+        {
+            "source": "#world-wide-web",
+            "target": "Weaving_the_Web_Berners_Lee"
+        },
+        {
+            "source": "#git",
+            "target": "Git_bisect"
+        },
+        {
+            "source": "#world-wide-web",
+            "target": "Architecture_of_the_World_Wide_Web"
+        },
+        {
+            "source": "#internet",
+            "target": "Architecture_of_the_World_Wide_Web"
+        },
+        {
+            "source": "#mongo-db",
+            "target": "Modelling_relationships_in_MongoDB"
+        },
+        {
+            "source": "#node-js",
+            "target": "Modelling_relationships_in_MongoDB"
+        },
+        {
+            "source": "#mongoose",
+            "target": "Modelling_relationships_in_MongoDB"
+        },
+        {
+            "source": "#databases",
+            "target": "Modelling_relationships_in_MongoDB"
+        },
+        {
+            "source": "#fleeting",
+            "target": "861cc26e_ARPA_origins"
+        },
+        {
+            "source": "#computer-history",
+            "target": "861cc26e_ARPA_origins"
+        },
+        {
+            "source": "#ARPA",
+            "target": "861cc26e_ARPA_origins"
+        },
+        {
+            "source": "#AWS",
+            "target": "Practical_walkthrough_Lambda_creation_within_AWS"
+        },
+        {
+            "source": "#aws-lambda",
+            "target": "Practical_walkthrough_Lambda_creation_within_AWS"
+        },
+        {
+            "source": "#node-js",
+            "target": "Practical_walkthrough_Lambda_creation_within_AWS"
+        },
+        {
+            "source": "#prealgebra",
+            "target": "Formal_conventions"
+        },
+        {
+            "source": "#prealgebra",
+            "target": "Equivalent_fractions"
+        },
+        {
+            "source": "#fractions",
+            "target": "Equivalent_fractions"
+        },
+        {
+            "source": "#bus",
+            "target": "Bus"
+        },
+        {
+            "source": "#computer-architecture",
+            "target": "Bus"
+        },
+        {
+            "source": "#shell",
+            "target": "Killing_processes"
+        },
+        {
+            "source": "#procedural",
+            "target": "Killing_processes"
+        },
+        {
+            "source": "#logic-gates",
+            "target": "Creating_memory_with_NAND"
+        },
+        {
+            "source": "#binary",
+            "target": "Creating_memory_with_NAND"
+        },
+        {
+            "source": "#memory",
+            "target": "Creating_memory_with_NAND"
+        },
+        {
+            "source": "#shell",
+            "target": "Loops_in_bash"
+        },
+        {
+            "source": "#python",
+            "target": "Testing_Python_code"
+        },
+        {
+            "source": "#testing",
+            "target": "Testing_Python_code"
+        },
+        {
+            "source": "#computer-architecture",
+            "target": "GPU_versus_CPU"
+        },
+        {
+            "source": "#prealgebra",
+            "target": "Increasing_fractions_to_their_highest_terms"
+        },
+        {
+            "source": "#fractions",
+            "target": "Increasing_fractions_to_their_highest_terms"
+        },
+        {
+            "source": "#python",
+            "target": "Python_application_structure"
+        },
+        {
+            "source": "#operating-systems",
+            "target": "Daemons"
+        },
+        {
+            "source": "#prealgebra",
+            "target": "Multiplicative_identity"
+        },
+        {
+            "source": "#theorems",
+            "target": "Multiplicative_identity"
+        },
+        {
+            "source": "#theorems",
+            "target": "Commutative_Property_of_Addition_and_Multiplication"
+        },
+        {
+            "source": "#algebra",
+            "target": "Commutative_Property_of_Addition_and_Multiplication"
+        },
+        {
+            "source": "#number-theory",
+            "target": "Commutative_Property_of_Addition_and_Multiplication"
+        },
+        {
+            "source": "#git",
+            "target": "Difference_between_remote_origin_and_head"
+        },
+        {
+            "source": "#shell",
+            "target": "Quote_marks_in_Bash"
+        },
+        {
+            "source": "#memory",
+            "target": "Register_and_cache_memory"
+        },
+        {
+            "source": "#CPU",
+            "target": "Register_and_cache_memory"
+        },
+        {
+            "source": "#analogue",
+            "target": "Analogue_and_digital"
+        },
+        {
+            "source": "#SQL",
+            "target": "Update_an_SQL_table"
+        },
+        {
+            "source": "#databases",
+            "target": "Update_an_SQL_table"
+        },
+        {
+            "source": "#prealgebra",
+            "target": "Factors_and_divisors"
+        },
+        {
+            "source": "#databases",
+            "target": "SQLite"
+        },
+        {
+            "source": "#SQL",
+            "target": "SQLite"
+        },
+        {
+            "source": "#SQLite",
+            "target": "SQLite"
+        },
+        {
+            "source": "#node-js",
+            "target": "Morgan"
+        },
+        {
+            "source": "#middleware",
+            "target": "Morgan"
+        },
+        {
+            "source": "#logic",
+            "target": "Negation_Introduction"
+        },
+        {
+            "source": "#propositional-logic",
+            "target": "Negation_Introduction"
+        },
+        {
+            "source": "#python",
+            "target": "Iterating_through_complex_data_structures_in_Python"
+        },
+        {
+            "source": "#python",
+            "target": "Lambdas_in_Python"
+        },
+        {
+            "source": "#aws-lambda",
+            "target": "Lambdas_in_Python"
+        },
+        {
+            "source": "#AWS",
+            "target": "Lambdas_in_Python"
+        },
+        {
+            "source": "#mongo-db",
+            "target": "Create_Mongo_database"
+        },
+        {
+            "source": "#node-js",
+            "target": "Create_Mongo_database"
+        },
+        {
+            "source": "#mongoose",
+            "target": "Create_Mongo_database"
+        },
+        {
+            "source": "#databases",
+            "target": "Create_Mongo_database"
+        },
+        {
+            "source": "#javascript",
+            "target": "Prop_types_in_React"
+        },
+        {
+            "source": "#react",
+            "target": "Prop_types_in_React"
+        },
+        {
+            "source": "#data-types",
+            "target": "Prop_types_in_React"
+        },
+        {
+            "source": "#Linux",
+            "target": "User_management_in_Linux"
+        },
+        {
+            "source": "#procedural",
+            "target": "User_management_in_Linux"
+        },
+        {
+            "source": "#shell",
+            "target": "Redirect_to_dev_null"
+        },
+        {
+            "source": "#physics",
+            "target": "Matter_and_atoms"
+        },
+        {
+            "source": "#python",
+            "target": "Working_with_directories_in_Python"
+        },
+        {
+            "source": "#file-system",
+            "target": "Working_with_directories_in_Python"
+        },
+        {
+            "source": "#procedural",
+            "target": "Working_with_directories_in_Python"
+        },
+        {
+            "source": "#docker",
+            "target": "Docker_general_overview"
+        },
+        {
+            "source": "#containerization",
+            "target": "Docker_general_overview"
+        },
+        {
+            "source": "#algebra",
+            "target": "Equivalent_equations"
+        },
+        {
+            "source": "#propositional-logic",
+            "target": "Object_language_and_meta_language"
+        },
+        {
+            "source": "#logic",
+            "target": "Object_language_and_meta_language"
+        },
+        {
+            "source": "#SQL",
+            "target": "Regular_expressions_in_SQL"
+        },
+        {
+            "source": "#regex",
+            "target": "Regular_expressions_in_SQL"
+        },
+        {
+            "source": "#databases",
+            "target": "Regular_expressions_in_SQL"
+        },
+        {
+            "source": "#algebra",
+            "target": "Logarithms"
+        },
+        {
+            "source": "#typescript",
+            "target": "Unknown_type_in_TS"
+        },
+        {
+            "source": "#propositional-logic",
+            "target": "Logical_truth_and_falsity"
+        },
+        {
+            "source": "#logic",
+            "target": "Logical_truth_and_falsity"
+        },
+        {
+            "source": "#git",
+            "target": "Remote_tracking_branches"
+        },
+        {
+            "source": "#typescript",
+            "target": "Typing_built_in_React_hooks"
+        },
+        {
+            "source": "#react",
+            "target": "Typing_built_in_React_hooks"
+        },
+        {
+            "source": "#physics",
+            "target": "Coulombs_Laws"
+        },
+        {
+            "source": "#electricity",
+            "target": "Coulombs_Laws"
+        },
+        {
+            "source": "#node-js",
+            "target": "Modules_in_NodeJS"
+        },
+        {
+            "source": "#python",
+            "target": "Writing_to_files_in_Python"
+        },
+        {
+            "source": "#file-system",
+            "target": "Writing_to_files_in_Python"
+        },
+        {
+            "source": "#procedural",
+            "target": "Writing_to_files_in_Python"
+        },
+        {
+            "source": "#node-js",
+            "target": "Streams_in_NodeJS"
+        },
+        {
+            "source": "#python",
+            "target": "Numbers_in_Python"
+        },
+        {
+            "source": "#data-types",
+            "target": "Numbers_in_Python"
+        },
+        {
+            "source": "#node-js",
+            "target": "Creating_a_RESTful_API_PUT"
+        },
+        {
+            "source": "#REST",
+            "target": "Creating_a_RESTful_API_PUT"
+        },
+        {
+            "source": "#APIs",
+            "target": "Creating_a_RESTful_API_PUT"
+        },
+        {
+            "source": "#design-patterns",
+            "target": "Command_pattern"
+        },
+        {
+            "source": "#javascript",
+            "target": "Components_props_classes"
+        },
+        {
+            "source": "#react",
+            "target": "Components_props_classes"
+        },
+        {
+            "source": "#git",
+            "target": "Cherry_picking"
+        },
+        {
+            "source": "#javascript",
+            "target": "React_useContext"
+        },
+        {
+            "source": "#react",
+            "target": "React_useContext"
+        },
+        {
+            "source": "#physics",
+            "target": "Voltage_sources"
+        },
+        {
+            "source": "#electricity",
+            "target": "Voltage_sources"
+        },
+        {
+            "source": "#theorems",
+            "target": "Additive_inverse_property"
+        },
+        {
+            "source": "#world-wide-web",
+            "target": "User_agent"
+        },
+        {
+            "source": "#Linux",
+            "target": "Save_readonly_Vim_file"
+        },
+        {
+            "source": "#procedural",
+            "target": "Save_readonly_Vim_file"
+        },
+        {
+            "source": "#computer-history",
+            "target": "Batch_processing"
+        },
+        {
+            "source": "#CPU",
+            "target": "Relation_between_kernel_and_CPU"
+        },
+        {
+            "source": "#computer-architecture",
+            "target": "Relation_between_kernel_and_CPU"
+        },
+        {
+            "source": "#operating-systems",
+            "target": "Relation_between_kernel_and_CPU"
+        },
+        {
+            "source": "#hardware",
+            "target": "Motherboard"
+        },
+        {
+            "source": "#computer-architecture",
+            "target": "Motherboard"
+        },
+        {
+            "source": "#data-structures",
+            "target": "Arrays"
+        },
+        {
+            "source": "#computer-history",
+            "target": "Williams_Tube_memory"
+        },
+        {
+            "source": "#memory",
+            "target": "Williams_Tube_memory"
+        },
+        {
+            "source": "#node-js",
+            "target": "Managing_environments_in_NodeJS"
+        },
+        {
+            "source": "#OOP",
+            "target": "Dependency_injection"
+        },
+        {
+            "source": "#number-systems",
+            "target": "Hexadecimal_number_system"
+        },
+        {
+            "source": "#computer-architecture",
+            "target": "Hexadecimal_number_system"
+        },
+        {
+            "source": "#mongo-db",
+            "target": "MongoDB_connection"
+        },
+        {
+            "source": "#node-js",
+            "target": "MongoDB_connection"
+        },
+        {
+            "source": "#mongoose",
+            "target": "MongoDB_connection"
+        },
+        {
+            "source": "#databases",
+            "target": "MongoDB_connection"
+        },
+        {
+            "source": "#internet",
+            "target": "Application_Layer_of_Internet_Protocol"
+        },
+        {
+            "source": "#networks",
+            "target": "Application_Layer_of_Internet_Protocol"
+        },
+        {
+            "source": "#node-js",
+            "target": "Structuring_Express_applications"
+        },
+        {
+            "source": "#REST",
+            "target": "Structuring_Express_applications"
+        },
+        {
+            "source": "#APIs",
+            "target": "Structuring_Express_applications"
+        },
+        {
+            "source": "#networks",
+            "target": "Network_protocols"
+        },
+        {
+            "source": "#node-js",
+            "target": "v8"
+        },
+        {
+            "source": "#Linux",
+            "target": "Compile_from_source"
+        },
+        {
+            "source": "#procedural",
+            "target": "Compile_from_source"
+        },
+        {
+            "source": "#typescript",
+            "target": "Intersection_types_in_TypeScript"
+        },
+        {
+            "source": "#mongo-db",
+            "target": "Adding_documents_to_a_Mongo_collection"
+        },
+        {
+            "source": "#node-js",
+            "target": "Adding_documents_to_a_Mongo_collection"
+        },
+        {
+            "source": "#mongoose",
+            "target": "Adding_documents_to_a_Mongo_collection"
+        },
+        {
+            "source": "#databases",
+            "target": "Adding_documents_to_a_Mongo_collection"
+        },
+        {
+            "source": "#shell",
+            "target": "Test_values_in_Bash"
+        },
+        {
+            "source": "#regex",
+            "target": "Test_values_in_Bash"
+        },
+        {
+            "source": "#systems-programming",
+            "target": "Create_timed_systemd_job"
+        },
+        {
+            "source": "#systemd",
+            "target": "Create_timed_systemd_job"
+        },
+        {
+            "source": "#Linux",
+            "target": "Create_timed_systemd_job"
+        },
+        {
+            "source": "#procedural",
+            "target": "Create_timed_systemd_job"
+        },
+        {
+            "source": "#shell",
+            "target": "Environmental_and_shell_variables"
+        },
+        {
+            "source": "#docker",
+            "target": "Creating_a_Docker_image"
+        },
+        {
+            "source": "#prealgebra",
+            "target": "Integers"
+        },
+        {
+            "source": "#ARPANET",
+            "target": "653c0b1d_host_protocols_of_ARPANET"
+        },
+        {
+            "source": "#computer-history",
+            "target": "653c0b1d_host_protocols_of_ARPANET"
+        },
+        {
+            "source": "#networks",
+            "target": "653c0b1d_host_protocols_of_ARPANET"
+        },
+        {
+            "source": "#javascript",
+            "target": "Components_props_hooks_in_React"
+        },
+        {
+            "source": "#react",
+            "target": "Components_props_hooks_in_React"
+        },
+        {
+            "source": "#prealgebra",
+            "target": "Rules_for_operations_on_like_and_unlike_terms"
+        },
+        {
+            "source": "#shell",
+            "target": "Text_manipulation_in_Bash"
+        },
+        {
+            "source": "#ecopolsoc",
+            "target": "a247fa9b_surveillance_capitalism_not_necessary"
+        },
+        {
+            "source": "#internet",
+            "target": "a247fa9b_surveillance_capitalism_not_necessary"
+        },
+        {
+            "source": "#surveillance-capitalism",
+            "target": "a247fa9b_surveillance_capitalism_not_necessary"
+        },
+        {
+            "source": "#operating-systems",
+            "target": "Basic_model_of_the_operating_system"
+        },
+        {
+            "source": "#Linux",
+            "target": "Basic_model_of_the_operating_system"
+        },
+        {
+            "source": "#shell",
+            "target": "Bash_file_exists"
+        },
+        {
+            "source": "#databases",
+            "target": "Role_of_unique_key_in_relational_databases"
+        },
+        {
+            "source": "#javascript",
+            "target": "Custom_React_hook_examples"
+        },
+        {
+            "source": "#react",
+            "target": "Custom_React_hook_examples"
+        },
+        {
+            "source": "#networks",
+            "target": "Bluetooth"
+        },
+        {
+            "source": "#procedural",
+            "target": "Bluetooth"
+        },
+        {
+            "source": "#Linux",
+            "target": "Bluetooth"
+        },
+        {
+            "source": "#python",
+            "target": "Dictionaries_in_Python"
+        },
+        {
+            "source": "#data-structures",
+            "target": "Dictionaries_in_Python"
+        },
+        {
+            "source": "#algebra",
+            "target": "Negative_exponents"
+        },
+        {
+            "source": "#exponents",
+            "target": "Negative_exponents"
+        },
+        {
+            "source": "#memory",
+            "target": "DRAM_and_SRAM_memory"
+        },
+        {
+            "source": "#hardware",
+            "target": "DRAM_and_SRAM_memory"
+        },
+        {
+            "source": "#python",
+            "target": "Appending_to_files_in_Python"
+        },
+        {
+            "source": "#file-system",
+            "target": "Appending_to_files_in_Python"
+        },
+        {
+            "source": "#procedural",
+            "target": "Appending_to_files_in_Python"
+        },
+        {
+            "source": "#prealgebra",
+            "target": "Prime_factorization"
+        },
+        {
+            "source": "#number-theory",
+            "target": "Prime_factorization"
+        },
+        {
+            "source": "#algebra",
+            "target": "Exponents"
+        },
+        {
+            "source": "#exponents",
+            "target": "Exponents"
+        },
+        {
+            "source": "#binary",
+            "target": "Binary_encoding"
+        },
+        {
+            "source": "#SQL",
+            "target": "Retrieve_data_from_SQL_table"
+        },
+        {
+            "source": "#databases",
+            "target": "Retrieve_data_from_SQL_table"
+        },
+        {
+            "source": "#SQL",
+            "target": "Aggregate_functions_in_SQL"
+        },
+        {
+            "source": "#databases",
+            "target": "Aggregate_functions_in_SQL"
+        },
+        {
+            "source": "#prealgebra",
+            "target": "Fundamental_Theorem_of_Arithmetic"
+        },
+        {
+            "source": "#theorems",
+            "target": "Fundamental_Theorem_of_Arithmetic"
+        },
+        {
+            "source": "#git",
+            "target": "Effective_logging_in_Git"
+        },
+        {
+            "source": "#procedural",
+            "target": "Effective_logging_in_Git"
+        },
+        {
+            "source": "#typescript",
+            "target": "Functions"
+        },
+        {
+            "source": "#react",
+            "target": "Functions"
+        },
+        {
+            "source": "#python",
+            "target": "Sets_in_Python"
+        },
+        {
+            "source": "#data-structures",
+            "target": "Sets_in_Python"
+        },
+        {
+            "source": "#shell",
+            "target": "File_descriptors"
+        },
+        {
+            "source": "#networks",
+            "target": "Network_hosts"
+        },
+        {
+            "source": "#logic-gates",
+            "target": "Half_adder_and_full_adder"
+        },
+        {
+            "source": "#binary",
+            "target": "Half_adder_and_full_adder"
+        },
+        {
+            "source": "#binary",
+            "target": "Binary_units_of_measurement"
+        },
+        {
+            "source": "#javascript",
+            "target": "React_useEffect"
+        },
+        {
+            "source": "#react",
+            "target": "React_useEffect"
+        },
+        {
+            "source": "#python",
+            "target": "With_open_in_Python"
+        },
+        {
+            "source": "#propositional-logic",
+            "target": "Corresponding_material_and_biconditional"
+        },
+        {
+            "source": "#logic",
+            "target": "Corresponding_material_and_biconditional"
+        },
+        {
+            "source": "#theorems",
+            "target": "DeMorgan's_Laws"
+        },
+        {
+            "source": "#logic",
+            "target": "DeMorgan's_Laws"
+        },
+        {
+            "source": "#propositional-logic",
+            "target": "DeMorgan's_Laws"
+        },
+        {
+            "source": "#python",
+            "target": "Tuples_in_Python"
+        },
+        {
+            "source": "#data-structures",
+            "target": "Tuples_in_Python"
+        },
+        {
+            "source": "#propositional-logic",
+            "target": "Strategies_for_constructing_proofs"
+        },
+        {
+            "source": "#logic",
+            "target": "Strategies_for_constructing_proofs"
+        },
+        {
+            "source": "#typescript",
+            "target": "Type_guarding_and_narrowing_in_TS"
+        },
+        {
+            "source": "#operating-systems",
+            "target": "Processes"
+        },
+        {
+            "source": "#memory",
+            "target": "Memory_leaks"
+        },
+        {
+            "source": "#git",
+            "target": "Delete_a_branch"
+        },
+        {
+            "source": "#databases",
+            "target": "Views_in_relational_databases"
+        },
+        {
+            "source": "#AWS",
+            "target": "AWS_SQS_SDK"
+        },
+        {
+            "source": "#SQS",
+            "target": "AWS_SQS_SDK"
+        },
+        {
+            "source": "#docker",
+            "target": "Docker_containers"
+        },
+        {
+            "source": "#containerization",
+            "target": "Docker_containers"
+        },
+        {
+            "source": "#shell",
+            "target": "Data_types_in_Bash"
+        },
+        {
+            "source": "#data-types",
+            "target": "Data_types_in_Bash"
+        },
+        {
+            "source": "#shell",
+            "target": "Functions_in_Bash"
+        },
+        {
+            "source": "#memory",
+            "target": "Memory_Management_Unit"
+        },
+        {
+            "source": "#Linux",
+            "target": "Memory_Management_Unit"
+        },
+        {
+            "source": "#AWS",
+            "target": "Database_options_on_AWS"
+        },
+        {
+            "source": "#databases",
+            "target": "Database_options_on_AWS"
+        },
+        {
+            "source": "#dynamodb",
+            "target": "Database_options_on_AWS"
+        },
+        {
+            "source": "#propositional-logic",
+            "target": "Formal_proofs_in_propositional_logic"
+        },
+        {
+            "source": "#logic",
+            "target": "Formal_proofs_in_propositional_logic"
+        },
+        {
+            "source": "#propositional-logic",
+            "target": "Law_of_Non_Contradiction"
+        },
+        {
+            "source": "#logic",
+            "target": "Law_of_Non_Contradiction"
+        },
+        {
+            "source": "#javascript",
+            "target": "Lifecycle_methods"
+        },
+        {
+            "source": "#react",
+            "target": "Lifecycle_methods"
+        },
+        {
+            "source": "#encryption",
+            "target": "bbdcb54f_public_key_cryptography"
+        },
+        {
+            "source": "#cryptography",
+            "target": "bbdcb54f_public_key_cryptography"
+        },
+        {
+            "source": "#systems-programming",
+            "target": "systemd"
+        },
+        {
+            "source": "#Linux",
+            "target": "systemd"
+        },
+        {
+            "source": "#procedural",
+            "target": "systemd"
+        },
+        {
+            "source": "#systemd",
+            "target": "systemd"
+        },
+        {
+            "source": "#operating-systems",
+            "target": "systemd"
+        },
+        {
+            "source": "#algebra",
+            "target": "Solving_equations"
+        },
+        {
+            "source": "#javascript",
+            "target": "Iterating_in_React"
+        },
+        {
+            "source": "#react",
+            "target": "Iterating_in_React"
+        },
+        {
+            "source": "#AWS",
+            "target": "SAM"
+        },
+        {
+            "source": "#python",
+            "target": "Compile_Python_app_to_single_executable"
+        },
+        {
+            "source": "#procedural",
+            "target": "Compile_Python_app_to_single_executable"
+        },
+        {
+            "source": "#shell",
+            "target": "Working_with_numbers_in_Bash"
+        },
+        {
+            "source": "#json",
+            "target": "jq"
+        },
+        {
+            "source": "#shell",
+            "target": "jq"
+        },
+        {
+            "source": "#javascript",
+            "target": "Testing_basic_prop_passing_in_React"
+        },
+        {
+            "source": "#react",
+            "target": "Testing_basic_prop_passing_in_React"
+        },
+        {
+            "source": "#testing",
+            "target": "Testing_basic_prop_passing_in_React"
+        },
+        {
+            "source": "#python",
+            "target": "Error_handling_in_Python"
+        },
+        {
+            "source": "#propositional-logic",
+            "target": "Syntax_of_propositional_logic"
+        },
+        {
+            "source": "#logic",
+            "target": "Syntax_of_propositional_logic"
+        },
+        {
+            "source": "#electronics",
+            "target": "LEDs"
+        },
+        {
+            "source": "#logic-gates",
+            "target": "Transistors"
+        },
+        {
+            "source": "#binary",
+            "target": "Transistors"
+        },
+        {
+            "source": "#electronics",
+            "target": "Transistors"
+        },
+        {
+            "source": "#typescript",
+            "target": "React_Components"
+        },
+        {
+            "source": "#react",
+            "target": "React_Components"
+        },
+        {
+            "source": "#shell",
+            "target": "Read_command__in_Bash"
+        },
+        {
+            "source": "#memory",
+            "target": "VirtualMemory"
+        },
+        {
+            "source": "#Linux",
+            "target": "VirtualMemory"
+        },
+        {
+            "source": "#kernel",
+            "target": "VirtualMemory"
+        },
+        {
+            "source": "#AWS",
+            "target": "Virtual_private_cloud"
+        },
+        {
+            "source": "#networks",
+            "target": "Virtual_private_cloud"
+        },
+        {
+            "source": "#node-js",
+            "target": "Creating_a_RESTful_API_GET"
+        },
+        {
+            "source": "#REST",
+            "target": "Creating_a_RESTful_API_GET"
+        },
+        {
+            "source": "#APIs",
+            "target": "Creating_a_RESTful_API_GET"
+        },
+        {
+            "source": "#propositional-logic",
+            "target": "Atomic_and_molecular_propositions"
+        },
+        {
+            "source": "#logic",
+            "target": "Atomic_and_molecular_propositions"
+        },
+        {
+            "source": "#physics",
+            "target": "Ohms_Law"
+        },
+        {
+            "source": "#electricity",
+            "target": "Ohms_Law"
+        },
+        {
+            "source": "#logic",
+            "target": "Biconditional_Introduction"
+        },
+        {
+            "source": "#python",
+            "target": "Invoking_the_shell_in_Python"
+        },
+        {
+            "source": "#shell",
+            "target": "Invoking_the_shell_in_Python"
+        },
+        {
+            "source": "#shell",
+            "target": "Listing_and_navigating_directories_in_the_Shell"
+        },
+        {
+            "source": "#physics",
+            "target": "Current"
+        },
+        {
+            "source": "#electricity",
+            "target": "Current"
+        },
+        {
+            "source": "#node-js",
+            "target": "Global_object_in_NodeJS"
+        },
+        {
+            "source": "#AWS",
+            "target": "Lambda_programming_model"
+        },
+        {
+            "source": "#aws-lambda",
+            "target": "Lambda_programming_model"
+        },
+        {
+            "source": "#mongo-db",
+            "target": "Querying_a_Mongo_collection"
+        },
+        {
+            "source": "#node-js",
+            "target": "Querying_a_Mongo_collection"
+        },
+        {
+            "source": "#mongoose",
+            "target": "Querying_a_Mongo_collection"
+        },
+        {
+            "source": "#databases",
+            "target": "Querying_a_Mongo_collection"
+        },
+        {
+            "source": "#shell",
+            "target": "ps"
+        },
+        {
+            "source": "#Linux",
+            "target": "ps"
+        },
+        {
+            "source": "#operating-systems",
+            "target": "Operating_system_API"
+        },
+        {
+            "source": "#shell",
+            "target": "Intro_to_the_Unix_shell"
+        },
+        {
+            "source": "#memory",
+            "target": "Swap_space"
+        },
+        {
+            "source": "#disks",
+            "target": "Swap_space"
+        },
+        {
+            "source": "#Linux",
+            "target": "Swap_space"
+        },
+        {
+            "source": "#operating-systems",
+            "target": "Swap_space"
+        },
+        {
+            "source": "#shell",
+            "target": "Expansions_and_substitutions"
+        },
+        {
+            "source": "#propositional-logic",
+            "target": "Boolean_functions"
+        },
+        {
+            "source": "#nand-to-tetris",
+            "target": "Boolean_functions"
+        },
+        {
+            "source": "#logic",
+            "target": "Boolean_functions"
+        },
+        {
+            "source": "#computer-history",
+            "target": "Mainframe_computers"
+        },
+        {
+            "source": "#typescript",
+            "target": "Mapped_types_in_TS"
+        },
+        {
+            "source": "#shell",
+            "target": "Case_statements_in_Bash"
+        },
+        {
+            "source": "#sound",
+            "target": "Audio_file_formats"
+        },
+        {
+            "source": "#binary",
+            "target": "Audio_file_formats"
+        },
+        {
+            "source": "#javascript",
+            "target": "Child_to_parent_data_flow_in_React"
+        },
+        {
+            "source": "#react",
+            "target": "Child_to_parent_data_flow_in_React"
+        },
+        {
+            "source": "#python",
+            "target": "File_operations_in_Python"
+        },
+        {
+            "source": "#file-system",
+            "target": "File_operations_in_Python"
+        },
+        {
+            "source": "#procedural",
+            "target": "File_operations_in_Python"
+        },
+        {
+            "source": "#logic-gates",
+            "target": "Four_bit_adder"
+        },
+        {
+            "source": "#binary",
+            "target": "Four_bit_adder"
+        },
+        {
+            "source": "#prealgebra",
+            "target": "Mixed_and_improper_fractions"
+        },
+        {
+            "source": "#fractions",
+            "target": "Mixed_and_improper_fractions"
+        },
+        {
+            "source": "#binary",
+            "target": "Signed_and_unsigned_numbers"
+        },
+        {
+            "source": "#theorems",
+            "target": "Additive_identity"
+        },
+        {
+            "source": "#graphql",
+            "target": "Using_GraphQL_with_Node"
+        },
+        {
+            "source": "#node-js",
+            "target": "Using_GraphQL_with_Node"
+        },
+        {
+            "source": "#theory-of-computation",
+            "target": "Turing_machines"
+        },
+        {
+            "source": "#Turing",
+            "target": "Turing_machines"
+        },
+        {
+            "source": "#procedural",
+            "target": "Network_debugging"
+        },
+        {
+            "source": "#Linux",
+            "target": "Network_debugging"
+        },
+        {
+            "source": "#networks",
+            "target": "Network_debugging"
+        },
+        {
+            "source": "#systems-programming",
+            "target": "journald"
+        },
+        {
+            "source": "#Linux",
+            "target": "journald"
+        },
+        {
+            "source": "#procedural",
+            "target": "journald"
+        },
+        {
+            "source": "#SQL",
+            "target": "Create_an_SQL_table"
+        },
+        {
+            "source": "#databases",
+            "target": "Create_an_SQL_table"
+        },
+        {
+            "source": "#python",
+            "target": "Strings_in_Python"
+        },
+        {
+            "source": "#data-types",
+            "target": "Strings_in_Python"
+        },
+        {
+            "source": "#AWS",
+            "target": "AWS_architecture_hierarchy"
+        },
+        {
+            "source": "#AWS",
+            "target": "Lambda_handler_function"
+        },
+        {
+            "source": "#aws-lambda",
+            "target": "Lambda_handler_function"
+        },
+        {
+            "source": "#shell",
+            "target": "Utilities_operators_flags"
+        },
+        {
+            "source": "#networks",
+            "target": "Example_scenario_internet_data_transfer"
+        },
+        {
+            "source": "#internet",
+            "target": "Example_scenario_internet_data_transfer"
+        },
+        {
+            "source": "#SQL",
+            "target": "Insert_data_into_SQL_table"
+        },
+        {
+            "source": "#databases",
+            "target": "Insert_data_into_SQL_table"
+        },
+        {
+            "source": "#prealgebra",
+            "target": "Add_Subtract_Fractions"
+        },
+        {
+            "source": "#fractions",
+            "target": "Add_Subtract_Fractions"
+        },
+        {
+            "source": "#javascript",
+            "target": "Forms_in_React"
+        },
+        {
+            "source": "#react",
+            "target": "Forms_in_React"
+        },
+        {
+            "source": "#design-patterns",
+            "target": "Multiple_pointers"
+        },
+        {
+            "source": "#mongo-db",
+            "target": "Deleting_Mongo_documents"
+        },
+        {
+            "source": "#node-js",
+            "target": "Deleting_Mongo_documents"
+        },
+        {
+            "source": "#mongoose",
+            "target": "Deleting_Mongo_documents"
+        },
+        {
+            "source": "#databases",
+            "target": "Deleting_Mongo_documents"
+        },
+        {
+            "source": "#javascript",
+            "target": "Testing_with_Jest"
+        },
+        {
+            "source": "#testing",
+            "target": "Testing_with_Jest"
+        },
+        {
+            "source": "#jest",
+            "target": "Testing_with_Jest"
+        },
+        {
+            "source": "#python",
+            "target": "Map_and_filter_in_Python"
+        },
+        {
+            "source": "#python",
+            "target": "List_comprehension_in_Python"
+        },
+        {
+            "source": "#physics",
+            "target": "Ground"
+        },
+        {
+            "source": "#electricity",
+            "target": "Ground"
+        },
+        {
+            "source": "#typescript",
+            "target": "Further_examples_of_TS_generics"
+        },
+        {
+            "source": "#AWS",
+            "target": "Lambda_triggers"
+        },
+        {
+            "source": "#aws-lambda",
+            "target": "Lambda_triggers"
+        },
+        {
+            "source": "#world-wide-web",
+            "target": "ecec56e6_precursors_to_search_engines"
+        },
+        {
+            "source": "#computer-history",
+            "target": "ecec56e6_precursors_to_search_engines"
+        },
+        {
+            "source": "#yaml",
+            "target": "Guide_to_YAML"
+        },
+        {
+            "source": "#node-js",
+            "target": "Ports_in_NodeJS"
+        },
+        {
+            "source": "#python",
+            "target": "Python_data_types"
+        },
+        {
+            "source": "#data-types",
+            "target": "Python_data_types"
+        },
+        {
+            "source": "#binary",
+            "target": "Bitwise_operators"
+        },
+        {
+            "source": "#propositional-logic",
+            "target": "Logical_indeterminacy"
+        },
+        {
+            "source": "#logic",
+            "target": "Logical_indeterminacy"
+        },
+        {
+            "source": "#computer-history",
+            "target": "Magnetic_tape"
+        },
+        {
+            "source": "#storage",
+            "target": "Magnetic_tape"
+        },
+        {
+            "source": "#typescript",
+            "target": "Props_in_React"
+        },
+        {
+            "source": "#react",
+            "target": "Props_in_React"
+        },
+        {
+            "source": "#CPU",
+            "target": "Instruction_set_architectures"
+        },
+        {
+            "source": "#python",
+            "target": "Switch_between_Python_vers"
+        },
+        {
+            "source": "#shell",
+            "target": "Variable_indirection_in_Bash"
+        },
+        {
+            "source": "#systemd",
+            "target": "systemd_status"
+        },
+        {
+            "source": "#systems-programming",
+            "target": "systemd_status"
+        },
+        {
+            "source": "#Linux",
+            "target": "systemd_status"
+        },
+        {
+            "source": "#procedural",
+            "target": "systemd_status"
+        },
+        {
+            "source": "#typescript",
+            "target": "Non_null_assertion_in_TypeScript"
+        },
+        {
+            "source": "#ecopolsoc",
+            "target": "Bauman_quote"
+        },
+        {
+            "source": "#surveillance-capitalism",
+            "target": "Bauman_quote"
+        },
+        {
+            "source": "#unix",
+            "target": "Time_and_computers"
+        },
+        {
+            "source": "#time",
+            "target": "Time_and_computers"
+        },
+        {
+            "source": "#node-js",
+            "target": "Creating_a_RESTful_API_POST"
+        },
+        {
+            "source": "#REST",
+            "target": "Creating_a_RESTful_API_POST"
+        },
+        {
+            "source": "#APIs",
+            "target": "Creating_a_RESTful_API_POST"
+        },
+        {
+            "source": "#AWS",
+            "target": "Handle_multiple_endpoints_single_lambda"
+        },
+        {
+            "source": "#aws-lambda",
+            "target": "Handle_multiple_endpoints_single_lambda"
+        },
+        {
+            "source": "#shell",
+            "target": "Lists_and_arrays_in_Bash"
+        },
+        {
+            "source": "#data-structures",
+            "target": "Lists_and_arrays_in_Bash"
+        },
+        {
+            "source": "#binary",
+            "target": "Binary_addition"
+        },
+        {
+            "source": "#shell",
+            "target": "Redirection_in_Bash"
+        },
+        {
+            "source": "#prealgebra",
+            "target": "Multiplicative_property_of_negative_one"
+        },
+        {
+            "source": "#theorems",
+            "target": "Multiplicative_property_of_negative_one"
+        },
+        {
+            "source": "#binary",
+            "target": "Binary_encoding_of_text"
+        },
+        {
+            "source": "#CPU",
+            "target": "Arithmetic_Logic_Unit"
+        },
+        {
+            "source": "#algorithms",
+            "target": "Recursion"
+        },
+        {
+            "source": "#data-structures",
+            "target": "Recursion"
+        },
+        {
+            "source": "#recursion",
+            "target": "Recursion"
+        },
+        {
+            "source": "#SQL",
+            "target": "Joins_in_SQL"
+        },
+        {
+            "source": "#databases",
+            "target": "Joins_in_SQL"
+        },
+        {
+            "source": "#propositional-logic",
+            "target": "Law_of_the_Excluded_Middle"
+        },
+        {
+            "source": "#logic",
+            "target": "Law_of_the_Excluded_Middle"
+        },
+        {
+            "source": "#prealgebra",
+            "target": "Order_of_operations"
+        },
+        {
+            "source": "#python",
+            "target": "File_system_error_handling_in_Python"
+        },
+        {
+            "source": "#file-system",
+            "target": "File_system_error_handling_in_Python"
+        },
+        {
+            "source": "#procedural",
+            "target": "File_system_error_handling_in_Python"
+        },
+        {
+            "source": "#javascript",
+            "target": "React_errors"
+        },
+        {
+            "source": "#react",
+            "target": "React_errors"
+        },
+        {
+            "source": "#theory-of-computation",
+            "target": "Turing_completeness"
+        },
+        {
+            "source": "#Turing",
+            "target": "Turing_completeness"
+        },
+        {
+            "source": "#prealgebra",
+            "target": "Multiplying_fractions"
+        },
+        {
+            "source": "#fractions",
+            "target": "Multiplying_fractions"
+        },
+        {
+            "source": "#arithmetic",
+            "target": "Multiplying_fractions"
+        },
+        {
+            "source": "#literature",
+            "target": "The_History_of_Computing_Swade"
+        },
+        {
+            "source": "#computer-history",
+            "target": "The_History_of_Computing_Swade"
+        },
+        {
+            "source": "#Linux",
+            "target": "Set_DNS_settings"
+        },
+        {
+            "source": "#networks",
+            "target": "Set_DNS_settings"
+        },
+        {
+            "source": "#python",
+            "target": "Reading_files_in_Python"
+        },
+        {
+            "source": "#file-system",
+            "target": "Reading_files_in_Python"
+        },
+        {
+            "source": "#procedural",
+            "target": "Reading_files_in_Python"
+        },
+        {
+            "source": "#python",
+            "target": "Functions_in_Python"
+        },
+        {
+            "source": "#typescript",
+            "target": "Setting_up_and_configuring_TypeScript"
+        },
+        {
+            "source": "#propositional-logic",
+            "target": "Conditional_Introduction"
+        },
+        {
+            "source": "#logic",
+            "target": "Conditional_Introduction"
+        },
+        {
+            "source": "#docker",
+            "target": "Docker_Compose"
+        },
+        {
+            "source": "#python",
+            "target": "Dates_in_Python"
+        },
+        {
+            "source": "#time",
+            "target": "Dates_in_Python"
+        },
+        {
+            "source": "#systems-programming",
+            "target": "Monitoring_processes_and_resources"
+        },
+        {
+            "source": "#Linux",
+            "target": "Monitoring_processes_and_resources"
+        },
+        {
+            "source": "#procedural",
+            "target": "Monitoring_processes_and_resources"
+        },
+        {
+            "source": "#python",
+            "target": "Conditional_statements_in_Python"
+        },
+        {
+            "source": "#graphql",
+            "target": "Apollo_Server"
+        },
+        {
+            "source": "#REST",
+            "target": "Apollo_Server"
+        },
+        {
+            "source": "#APIs",
+            "target": "Apollo_Server"
+        },
+        {
+            "source": "#ARPANET",
+            "target": "e470bf3d_IMPs_in_the_ARPANET"
+        },
+        {
+            "source": "#networks",
+            "target": "e470bf3d_IMPs_in_the_ARPANET"
+        },
+        {
+            "source": "#computer-history",
+            "target": "e470bf3d_IMPs_in_the_ARPANET"
+        },
+        {
+            "source": "#prealgebra",
+            "target": "Reciprocals"
+        },
+        {
+            "source": "#fractions",
+            "target": "Reciprocals"
+        },
+        {
+            "source": "#theorems",
+            "target": "Reciprocals"
+        },
+        {
+            "source": "#binary",
+            "target": "Why_computers_use_binary"
+        },
+        {
+            "source": "#computer-architecture",
+            "target": "Why_computers_use_binary"
+        },
+        {
+            "source": "#docker",
+            "target": "AWS_SAM_and_Docker"
+        },
+        {
+            "source": "#AWS",
+            "target": "AWS_SAM_and_Docker"
+        },
+        {
+            "source": "#computer-history",
+            "target": "Magnetic_drum_memory"
+        },
+        {
+            "source": "#memory",
+            "target": "Magnetic_drum_memory"
+        },
+        {
+            "source": "#node-js",
+            "target": "fs"
+        },
+        {
+            "source": "#AWS",
+            "target": "AWS_SQS"
+        },
+        {
+            "source": "#SQS",
+            "target": "AWS_SQS"
+        },
+        {
+            "source": "#ecopolsoc",
+            "target": "fbbfbc32-political-accommodation-inveigelment-surveillance-capitalism"
+        },
+        {
+            "source": "#internet",
+            "target": "fbbfbc32-political-accommodation-inveigelment-surveillance-capitalism"
+        },
+        {
+            "source": "#surveillance-capitalism",
+            "target": "fbbfbc32-political-accommodation-inveigelment-surveillance-capitalism"
+        },
+        {
+            "source": "#prealgebra",
+            "target": "Handling_negative_fractions"
+        },
+        {
+            "source": "#fractions",
+            "target": "Handling_negative_fractions"
+        },
+        {
+            "source": "#logic",
+            "target": "Truth_trees"
+        },
+        {
+            "source": "#propositional-logic",
+            "target": "Truth_trees"
+        },
+        {
+            "source": "#prealgebra",
+            "target": "Expressing_whole_numbers_as_fractions"
+        },
+        {
+            "source": "#fractions",
+            "target": "Expressing_whole_numbers_as_fractions"
+        },
+        {
+            "source": "#shell",
+            "target": "Passing_arguments_and_options_to_Bash_scripts"
+        },
+        {
+            "source": "#shell",
+            "target": "Bash_colour_output"
+        },
+        {
+            "source": "#propositional-logic",
+            "target": "Soundness"
+        },
+        {
+            "source": "#logic",
+            "target": "Soundness"
+        },
+        {
+            "source": "#electronics",
+            "target": "Relays"
+        },
+        {
+            "source": "#AWS",
+            "target": "DynamoDB_SDK_commands"
+        },
+        {
+            "source": "#databases",
+            "target": "DynamoDB_SDK_commands"
+        },
+        {
+            "source": "#dynamodb",
+            "target": "DynamoDB_SDK_commands"
+        },
+        {
+            "source": "#physics",
+            "target": "Electromagnetism"
+        },
+        {
+            "source": "#electricity",
+            "target": "Electromagnetism"
+        },
+        {
+            "source": "#electromagnetism",
+            "target": "Electromagnetism"
+        },
+        {
+            "source": "#python",
+            "target": "Working_with_CSVs_in_Python"
+        },
+        {
+            "source": "#csv",
+            "target": "Working_with_CSVs_in_Python"
+        },
+        {
+            "source": "#design-patterns",
+            "target": "Sliding_window"
+        },
+        {
+            "source": "#node-js",
+            "target": "Nodemon"
+        },
+        {
+            "source": "#logic-gates",
+            "target": "Flip_flops"
+        },
+        {
+            "source": "#binary",
+            "target": "Flip_flops"
+        },
+        {
+            "source": "#memory",
+            "target": "Flip_flops"
+        },
+        {
+            "source": "#git",
+            "target": "Reset_to_remote_version"
+        },
+        {
+            "source": "#procedural",
+            "target": "Reset_to_remote_version"
+        },
+        {
+            "source": "#memory",
+            "target": "Stack_memory"
+        },
+        {
+            "source": "#SQL",
+            "target": "Useful_operators_in_SQL"
+        },
+        {
+            "source": "#databases",
+            "target": "Useful_operators_in_SQL"
+        },
+        {
+            "source": "#prealgebra",
+            "target": "Whole_numbers"
+        },
+        {
+            "source": "#node-js",
+            "target": "Module_wrapping_at_runtime"
+        },
+        {
+            "source": "#node-js",
+            "target": "Full_Node_API_example"
+        },
+        {
+            "source": "#REST",
+            "target": "Full_Node_API_example"
+        },
+        {
+            "source": "#APIs",
+            "target": "Full_Node_API_example"
+        },
+        {
+            "source": "#physics",
+            "target": "Resistance"
+        },
+        {
+            "source": "#electricity",
+            "target": "Resistance"
+        },
+        {
+            "source": "#SQL",
+            "target": "Delete_records_in_an_SQL_table"
+        },
+        {
+            "source": "#databases",
+            "target": "Delete_records_in_an_SQL_table"
+        },
+        {
+            "source": "#shell",
+            "target": "Variables_and_data_types_in_Bash"
+        },
+        {
+            "source": "#memory",
+            "target": "Role_of_memory_in_computation"
+        },
+        {
+            "source": "#mongo-db",
+            "target": "Creating_a_Mongo_schema_and_model"
+        },
+        {
+            "source": "#node-js",
+            "target": "Creating_a_Mongo_schema_and_model"
+        },
+        {
+            "source": "#mongoose",
+            "target": "Creating_a_Mongo_schema_and_model"
+        },
+        {
+            "source": "#databases",
+            "target": "Creating_a_Mongo_schema_and_model"
+        },
+        {
+            "source": "#computer-architecture",
+            "target": "ROM_versus_disk_loading"
+        },
+        {
+            "source": "#memory",
+            "target": "ROM_versus_disk_loading"
+        },
+        {
+            "source": "#networks",
+            "target": "Headless_Raspi_network_setup"
+        },
+        {
+            "source": "#Linux",
+            "target": "Headless_Raspi_network_setup"
+        },
+        {
+            "source": "#raspberry-pi",
+            "target": "Headless_Raspi_network_setup"
+        },
+        {
+            "source": "#procedural",
+            "target": "Headless_Raspi_network_setup"
+        },
+        {
+            "source": "#node-js",
+            "target": "NodeJS_scripts"
+        },
+        {
+            "source": "#networks",
+            "target": "Usenet"
+        },
+        {
+            "source": "#internet",
+            "target": "Usenet"
+        },
+        {
+            "source": "#shell",
+            "target": "Formatting_output_text_in_Bash"
+        },
+        {
+            "source": "#internet",
+            "target": "82f9c228_dissolution_of_ARPANET"
+        },
+        {
+            "source": "#ARPANET",
+            "target": "82f9c228_dissolution_of_ARPANET"
+        },
+        {
+            "source": "#cryptography",
+            "target": "a4601796_trapdoor_functions"
+        },
+        {
+            "source": "#encryption",
+            "target": "a4601796_trapdoor_functions"
+        },
+        {
+            "source": "#computer-architecture",
+            "target": "Devices"
+        },
+        {
+            "source": "#Linux",
+            "target": "Devices"
+        },
+        {
+            "source": "#javascript",
+            "target": "Prototypical_inheritance"
+        },
+        {
+            "source": "#OOP",
+            "target": "Prototypical_inheritance"
+        },
+        {
+            "source": "#node-js",
+            "target": "Validation_in_NodeJS"
+        },
+        {
+            "source": "#REST",
+            "target": "Validation_in_NodeJS"
+        },
+        {
+            "source": "#APIs",
+            "target": "Validation_in_NodeJS"
+        },
+        {
+            "source": "#docker",
+            "target": "Node_and_MySQL_db"
+        },
+        {
+            "source": "#SQL",
+            "target": "Node_and_MySQL_db"
+        },
+        {
+            "source": "#node-js",
+            "target": "Node_and_MySQL_db"
+        },
+        {
+            "source": "#databases",
+            "target": "Node_and_MySQL_db"
+        },
+        {
+            "source": "#AWS",
+            "target": "Secrets_or_env_vars_in_AWS"
+        },
+        {
+            "source": "#aws-lambda",
+            "target": "Secrets_or_env_vars_in_AWS"
+        },
+        {
+            "source": "#C",
+            "target": "Variables_in_C"
+        },
+        {
+            "source": "#world-wide-web",
+            "target": "HTTPS"
+        },
+        {
+            "source": "#internet",
+            "target": "HTTPS"
+        },
+        {
+            "source": "#encryption",
+            "target": "HTTPS"
+        },
+        {
+            "source": "#nand-to-tetris",
+            "target": "Hardware_simulation"
+        },
+        {
+            "source": "#internet",
+            "target": "Internet_Layer_of_Internet_Protocol"
+        },
+        {
+            "source": "#networks",
+            "target": "Internet_Layer_of_Internet_Protocol"
+        },
+        {
+            "source": "#AWS",
+            "target": "Restructure_URLs_lambda"
+        },
+        {
+            "source": "#aws-lambda",
+            "target": "Restructure_URLs_lambda"
+        },
+        {
+            "source": "#AWS",
+            "target": "AWS_CLI"
+        },
+        {
+            "source": "#procedural",
+            "target": "AWS_CLI"
+        },
+        {
+            "source": "#world-wide-web",
+            "target": "241fe1a3_the_Web_versus_modem_BBSs"
+        },
+        {
+            "source": "#computer-history",
+            "target": "241fe1a3_the_Web_versus_modem_BBSs"
+        },
+        {
+            "source": "#internet",
+            "target": "241fe1a3_the_Web_versus_modem_BBSs"
+        },
+        {
+            "source": "#bulletin-boards",
+            "target": "241fe1a3_the_Web_versus_modem_BBSs"
+        },
+        {
+            "source": "#networks",
+            "target": "Link_Layer_of_Internet_Protocol"
+        },
+        {
+            "source": "#internet",
+            "target": "Link_Layer_of_Internet_Protocol"
+        },
+        {
+            "source": "#graphql",
+            "target": "Journey_of_GraphQL_query"
+        },
+        {
+            "source": "#shell",
+            "target": "Bash_store_status_of_command_execution"
+        },
+        {
+            "source": "#AWS",
+            "target": "Bash_store_status_of_command_execution"
+        },
+        {
+            "source": "#S3",
+            "target": "Bash_store_status_of_command_execution"
+        },
+        {
+            "source": "#AWS",
+            "target": "DynamoDB_data_structure"
+        },
+        {
+            "source": "#databases",
+            "target": "DynamoDB_data_structure"
+        },
+        {
+            "source": "#dynamodb",
+            "target": "DynamoDB_data_structure"
+        },
+        {
+            "source": "#AWS",
+            "target": "Terraform"
+        },
+        {
+            "source": "#IaC",
+            "target": "Terraform"
+        },
+        {
+            "source": "#physics",
+            "target": "Voltage"
+        },
+        {
+            "source": "#electricity",
+            "target": "Voltage"
+        },
+        {
+            "source": "#OOP",
+            "target": "Factory_pattern"
+        },
+        {
+            "source": "#design-patterns",
+            "target": "Factory_pattern"
+        },
+        {
+            "source": "#shell",
+            "target": "Split_into_array_in_Bash"
+        },
+        {
+            "source": "#javascript",
+            "target": "Maps_and_sets_in_JS"
+        },
+        {
+            "source": "#CPU",
+            "target": "Fetch_decode_execute"
+        },
+        {
+            "source": "#logic",
+            "target": "Reiteration"
+        },
+        {
+            "source": "#propositional-logic",
+            "target": "Reiteration"
+        },
+        {
+            "source": "#networks",
+            "target": "MAC_addresses"
+        },
+        {
+            "source": "#mongo-db",
+            "target": "Update_a_Mongo_document"
+        },
+        {
+            "source": "#node-js",
+            "target": "Update_a_Mongo_document"
+        },
+        {
+            "source": "#mongoose",
+            "target": "Update_a_Mongo_document"
+        },
+        {
+            "source": "#databases",
+            "target": "Update_a_Mongo_document"
+        },
+        {
+            "source": "#javascript",
+            "target": "Controlled_components_in_React"
+        },
+        {
+            "source": "#react",
+            "target": "Controlled_components_in_React"
+        },
+        {
+            "source": "#javascript",
+            "target": "Routing_on_link_click_in_React"
+        },
+        {
+            "source": "#react",
+            "target": "Routing_on_link_click_in_React"
+        },
+        {
+            "source": "#testing",
+            "target": "Routing_on_link_click_in_React"
+        },
+        {
+            "source": "#propositional-logic",
+            "target": "Validity_and_entailment"
+        },
+        {
+            "source": "#logic",
+            "target": "Validity_and_entailment"
+        },
+        {
+            "source": "#AWS",
+            "target": "Lambda_directory_structure"
+        },
+        {
+            "source": "#aws-lambda",
+            "target": "Lambda_directory_structure"
+        },
+        {
+            "source": "#mongo-db",
+            "target": "Connect_to_Mongo_database"
+        },
+        {
+            "source": "#node-js",
+            "target": "Connect_to_Mongo_database"
+        },
+        {
+            "source": "#mongoose",
+            "target": "Connect_to_Mongo_database"
+        },
+        {
+            "source": "#databases",
+            "target": "Connect_to_Mongo_database"
+        },
+        {
+            "source": "#CPU",
+            "target": "Assembly"
+        },
+        {
+            "source": "#logic-gates",
+            "target": "Logic_gates"
+        },
+        {
+            "source": "#binary",
+            "target": "Logic_gates"
+        },
+        {
+            "source": "#disks",
+            "target": "What_are_disks"
+        },
+        {
+            "source": "#computer-architecture",
+            "target": "What_are_disks"
+        },
+        {
+            "source": "#javascript",
+            "target": "Comparing_React_classes_to_hooks"
+        },
+        {
+            "source": "#react",
+            "target": "Comparing_React_classes_to_hooks"
+        },
+        {
+            "source": "#SQL",
+            "target": "Update_existing_data_in_SQL_table"
+        },
+        {
+            "source": "#databases",
+            "target": "Update_existing_data_in_SQL_table"
+        },
+        {
+            "source": "#disks",
+            "target": "Creating_a_Linux_partition_table"
+        },
+        {
+            "source": "#Linux",
+            "target": "Creating_a_Linux_partition_table"
+        },
+        {
+            "source": "#theorems",
+            "target": "Associative_Property_of_Addition_and_Multiplication"
+        },
+        {
+            "source": "#prealgebra",
+            "target": "Associative_Property_of_Addition_and_Multiplication"
+        },
+        {
+            "source": "#AWS",
+            "target": "User_management_on_AWS"
+        },
+        {
+            "source": "#typescript",
+            "target": "Primitive_types"
+        },
+        {
+            "source": "#data-types",
+            "target": "Primitive_types"
+        },
+        {
+            "source": "#python",
+            "target": "Python_execution"
+        },
+        {
+            "source": "#data-types",
+            "target": "Python_execution"
+        },
+        {
+            "source": "#AWS",
+            "target": "S3"
+        },
+        {
+            "source": "#AWS",
+            "target": "AWS_CloudWatch"
+        },
+        {
+            "source": "#binary",
+            "target": "Binary_colour_encoding"
+        },
+        {
+            "source": "#git",
+            "target": "Rename_a_branch"
+        },
+        {
+            "source": "#procedural",
+            "target": "Rename_a_branch"
+        },
+        {
+            "source": "#SQL",
+            "target": "Accessing_metadata_about_SQL_database"
+        },
+        {
+            "source": "#databases",
+            "target": "Accessing_metadata_about_SQL_database"
+        },
+        {
+            "source": "#propositional-logic",
+            "target": "Theorems_and_empty_sets"
+        },
+        {
+            "source": "#logic",
+            "target": "Theorems_and_empty_sets"
+        },
+        {
+            "source": "#node-js",
+            "target": "Creating_a_RESTful_API_Integrating_the_Database"
+        },
+        {
+            "source": "#REST",
+            "target": "Creating_a_RESTful_API_Integrating_the_Database"
+        },
+        {
+            "source": "#APIs",
+            "target": "Creating_a_RESTful_API_Integrating_the_Database"
+        },
+        {
+            "source": "#mongo-db",
+            "target": "Creating_a_RESTful_API_Integrating_the_Database"
+        },
+        {
+            "source": "#databases",
+            "target": "Creating_a_RESTful_API_Integrating_the_Database"
+        },
+        {
+            "source": "#physics",
+            "target": "Prefixes_for_units_of_electrical_measurement"
+        },
+        {
+            "source": "#electricity",
+            "target": "Prefixes_for_units_of_electrical_measurement"
+        },
+        {
+            "source": "#exponents",
+            "target": "Prefixes_for_units_of_electrical_measurement"
+        },
+        {
+            "source": "#python",
+            "target": "Naming_conventions"
+        },
+        {
+            "source": "#ARPA",
+            "target": "f0f70a3c_ARPANET_motivations"
+        },
+        {
+            "source": "#ARPANET",
+            "target": "f0f70a3c_ARPANET_motivations"
+        },
+        {
+            "source": "#networks",
+            "target": "f0f70a3c_ARPANET_motivations"
+        },
+        {
+            "source": "#computer-history",
+            "target": "f0f70a3c_ARPANET_motivations"
+        },
+        {
+            "source": "#world-wide-web",
+            "target": "Dynamic_and_static_websites"
+        },
+        {
+            "source": "#logic-gates",
+            "target": "Integrated_circuits"
+        },
+        {
+            "source": "#electronics",
+            "target": "Integrated_circuits"
+        },
+        {
+            "source": "#theorems",
+            "target": "Distributivity"
+        },
+        {
+            "source": "#prealgebra",
+            "target": "Distributivity"
+        },
+        {
+            "source": "#git",
+            "target": "Identify_merged_branches"
+        },
+        {
+            "source": "#python",
+            "target": "Working_with_JSON_in_Python"
+        },
+        {
+            "source": "#JSON",
+            "target": "Working_with_JSON_in_Python"
+        },
+        {
+            "source": "#disks",
+            "target": "Boot_process"
+        },
+        {
+            "source": "#operating-systems",
+            "target": "Boot_process"
+        },
+        {
+            "source": "#docker",
+            "target": "Docker_architecture"
+        },
+        {
+            "source": "#containerization",
+            "target": "Docker_architecture"
+        },
+        {
+            "source": "#logic-gates",
+            "target": "Three_bit_counter"
+        },
+        {
+            "source": "#binary",
+            "target": "Three_bit_counter"
+        },
+        {
+            "source": "#memory",
+            "target": "Three_bit_counter"
+        },
+        {
+            "source": "#SQL",
+            "target": "Foreign_keys_in_SQL"
+        },
+        {
+            "source": "#databases",
+            "target": "Foreign_keys_in_SQL"
+        },
+        {
+            "source": "#C",
+            "target": "Printing_values_in_C"
+        },
+        {
+            "source": "#prealgebra",
+            "target": "Primes_and_composites"
+        },
+        {
+            "source": "#number-theory",
+            "target": "Primes_and_composites"
+        },
+        {
+            "source": "#theory-of-computation",
+            "target": "Defining_a_computer"
+        },
+        {
+            "source": "#python",
+            "target": "Match_statements_in_Python"
+        },
+        {
+            "source": "#shell",
+            "target": "The_PATH"
+        },
+        {
+            "source": "#javascript",
+            "target": "JavaScript_module_types"
+        },
+        {
+            "source": "#graphql",
+            "target": "Apollo_Client"
+        },
+        {
+            "source": "#operating-systems",
+            "target": "Threads"
+        },
+        {
+            "source": "#shell",
+            "target": "Capturing_user_input_in_Bash"
+        },
+        {
+            "source": "#docker",
+            "target": "Docker_CLI"
+        },
+        {
+            "source": "#shell",
+            "target": "Docker_CLI"
+        },
+        {
+            "source": "#AWS",
+            "target": "DynamoDB_CLI_commands"
+        },
+        {
+            "source": "#databases",
+            "target": "DynamoDB_CLI_commands"
+        },
+        {
+            "source": "#dynamodb",
+            "target": "DynamoDB_CLI_commands"
+        },
+        {
+            "source": "#python",
+            "target": "None_in_Python"
+        },
+        {
+            "source": "#data-types",
+            "target": "None_in_Python"
+        },
+        {
+            "source": "#Linux",
+            "target": "Pacman"
+        },
+        {
+            "source": "#procedural",
+            "target": "Pacman"
+        },
+        {
+            "source": "#arch-linux",
+            "target": "Pacman"
+        },
+        {
+            "source": "#memory",
+            "target": "Heap_memory"
+        },
+        {
+            "source": "#C",
+            "target": "Heap_memory"
+        },
+        {
+            "source": "#world-wide-web",
+            "target": "f6564af9_AOL_and_early_internet_enclosure"
+        },
+        {
+            "source": "#computer-history",
+            "target": "f6564af9_AOL_and_early_internet_enclosure"
+        },
+        {
+            "source": "#internet",
+            "target": "f6564af9_AOL_and_early_internet_enclosure"
+        },
+        {
+            "source": "#ecosolpoc",
+            "target": "f6564af9_AOL_and_early_internet_enclosure"
+        },
+        {
+            "source": "#bulletin-boards",
+            "target": "f6564af9_AOL_and_early_internet_enclosure"
+        },
+        {
+            "source": "#shell",
+            "target": "Strings_in_Bash"
+        },
+        {
+            "source": "#data-types",
+            "target": "Strings_in_Bash"
+        },
+        {
+            "source": "#shell",
+            "target": "Conditionals_in_Bash"
+        },
+        {
+            "source": "#computer-history",
+            "target": "Delay_line_memory"
+        },
+        {
+            "source": "#memory",
+            "target": "Delay_line_memory"
+        },
+        {
+            "source": "#propositional-logic",
+            "target": "Syllogism"
+        },
+        {
+            "source": "#logic",
+            "target": "Syllogism"
+        },
+        {
+            "source": "#hardware",
+            "target": "Chipset_and_controllers"
+        },
+        {
+            "source": "#computer-architecture",
+            "target": "Chipset_and_controllers"
+        },
+        {
+            "source": "#shell",
+            "target": "Grep"
+        },
+        {
+            "source": "#propositional-logic",
+            "target": "Boolean_function_synthesis"
+        },
+        {
+            "source": "#nand-to-tetris",
+            "target": "Boolean_function_synthesis"
+        },
+        {
+            "source": "#logic",
+            "target": "Boolean_function_synthesis"
+        },
+        {
+            "source": "#propositional-logic",
+            "target": "Logical_possibility_and_necessity"
+        },
+        {
+            "source": "#logic",
+            "target": "Logical_possibility_and_necessity"
+        },
+        {
+            "source": "#computer-history",
+            "target": "Magnetic_core_memory"
+        },
+        {
+            "source": "#memory",
+            "target": "Magnetic_core_memory"
+        },
+        {
+            "source": "Memory_addresses",
+            "target": "Logarithms"
+        },
+        {
+            "source": "Memory_addresses",
+            "target": "Hexadecimal_number_system"
+        },
+        {
+            "source": "Memory_addresses",
+            "target": "Binary_encoding"
+        },
+        {
+            "source": "AWS_SNS",
+            "target": "AWS_SQS"
+        },
+        {
+            "source": "Boolean_algebra",
+            "target": "Distributivity"
+        },
+        {
+            "source": "Boolean_algebra",
+            "target": "DeMorgan's_Laws"
+        },
+        {
+            "source": "Boolean_algebra",
+            "target": "Logic_gates"
+        },
+        {
+            "source": "Package_management_in_NodeJS",
+            "target": "Semantic_versioning"
+        },
+        {
+            "source": "MongoDB_Introduction",
+            "target": "Relational_database_architecture"
+        },
+        {
+            "source": "Containerization",
+            "target": "The_kernel"
+        },
+        {
+            "source": "Containerization",
+            "target": "User_Space"
+        },
+        {
+            "source": "Call_stack",
+            "target": "Stacks"
+        },
+        {
+            "source": "Call_stack",
+            "target": "Stack_memory"
+        },
+        {
+            "source": "Custom_types_in_TypeScript",
+            "target": "Classes"
+        },
+        {
+            "source": "Linux_disk_partitions",
+            "target": "The_kernel"
+        },
+        {
+            "source": "Linux_disk_partitions",
+            "target": "Creating_a_Linux_partition_table"
+        },
+        {
+            "source": "Using_SQLite_with_Python",
+            "target": "Tuples_in_Python"
+        },
+        {
+            "source": "Dividing_fractions",
+            "target": "Reciprocals"
+        },
+        {
+            "source": "Network_card",
+            "target": "Link_Layer_of_Internet_Protocol"
+        },
+        {
+            "source": "Network_card",
+            "target": "Motherboard"
+        },
+        {
+            "source": "Network_card",
+            "target": "MAC_addresses"
+        },
+        {
+            "source": "What_is_memory",
+            "target": "CPU_architecture"
+        },
+        {
+            "source": "What_is_memory",
+            "target": "DRAM_and_SRAM_memory"
+        },
+        {
+            "source": "CPU_architecture",
+            "target": "Bus"
+        },
+        {
+            "source": "CPU_architecture",
+            "target": "The_kernel"
+        },
+        {
+            "source": "CPU_architecture",
+            "target": "Arithmetic_Logic_Unit"
+        },
+        {
+            "source": "CPU_architecture",
+            "target": "Chipset_and_controllers"
+        },
+        {
+            "source": "CPU_architecture",
+            "target": "Logic_gates"
+        },
+        {
+            "source": "CPU_architecture",
+            "target": "Clock_signals"
+        },
+        {
+            "source": "CPU_architecture",
+            "target": "Fetch_decode_execute"
+        },
+        {
+            "source": "CPU_architecture",
+            "target": "Electromagnetism"
+        },
+        {
+            "source": "Truth_functional_connectives",
+            "target": "Atomic_and_molecular_propositions"
+        },
+        {
+            "source": "Truth_functional_connectives",
+            "target": "Logical_indeterminacy"
+        },
+        {
+            "source": "Lists_in_Python",
+            "target": "List_comprehension_in_Python"
+        },
+        {
+            "source": "Lists_in_Python",
+            "target": "Sorting_lists_in_Python"
+        },
+        {
+            "source": "IP_addresses",
+            "target": "Internet_Layer_of_Internet_Protocol"
+        },
+        {
+            "source": "Classes_in_Python",
+            "target": "Functions_in_Python"
+        },
+        {
+            "source": "Hardware_Description_Language",
+            "target": "Integrated_circuits"
+        },
+        {
+            "source": "Hardware_Description_Language",
+            "target": "Hardware_simulation"
+        },
+        {
+            "source": "Hardware_Description_Language",
+            "target": "Boolean_functions"
+        },
+        {
+            "source": "React_useReducer",
+            "target": "React_useState"
+        },
+        {
+            "source": "Network_requests_in_Python",
+            "target": "RESTful_APIs"
+        },
+        {
+            "source": "Network_requests_in_Python",
+            "target": "Dictionaries_in_Python"
+        },
+        {
+            "source": "Transport_Layer_of_Internet_Protocol",
+            "target": "Internet_Layer_of_Internet_Protocol"
+        },
+        {
+            "source": "Transport_Layer_of_Internet_Protocol",
+            "target": "Link_Layer_of_Internet_Protocol"
+        },
+        {
+            "source": "The_kernel",
+            "target": "Basic_model_of_the_operating_system"
+        },
+        {
+            "source": "The_kernel",
+            "target": "User_Space"
+        },
+        {
+            "source": "The_kernel",
+            "target": "Processes"
+        },
+        {
+            "source": "Event_loop",
+            "target": "The_kernel"
+        },
+        {
+            "source": "Event_loop",
+            "target": "Call_stack"
+        },
+        {
+            "source": "Process_module_in_NodeJS",
+            "target": "Managing_environments_in_NodeJS"
+        },
+        {
+            "source": "Creating_a_RESTful_API_Introduction",
+            "target": "RESTful_APIs"
+        },
+        {
+            "source": "Creating_a_RESTful_API_Introduction",
+            "target": "HTTP_request_types"
+        },
+        {
+            "source": "Creating_a_RESTful_API_Introduction",
+            "target": "Middleware_in_NodeJS"
+        },
+        {
+            "source": "4a3dc316_key_figures_ARPANET",
+            "target": "385af4b4_Baran_distributed_networks"
+        },
+        {
+            "source": "RESTful_APIs",
+            "target": "HTTP_request_types"
+        },
+        {
+            "source": "Binary_number_system",
+            "target": "Hexadecimal_number_system"
+        },
+        {
+            "source": "Torrenting",
+            "target": "Peer_to_peer_network"
+        },
+        {
+            "source": "Torrenting",
+            "target": "Network_protocols"
+        },
+        {
+            "source": "Application_state_management_with_React_hooks",
+            "target": "React_useReducer"
+        },
+        {
+            "source": "Application_state_management_with_React_hooks",
+            "target": "React_useContext"
+        },
+        {
+            "source": "Accessing_secrets_from_a_Lambda",
+            "target": "Fetch_from_Secrets_Manager"
+        },
+        {
+            "source": "cfbef1c4_web_precursors",
+            "target": "Mainframe_computers"
+        },
+        {
+            "source": "Internet_fundamentals",
+            "target": "Network_fundamentals"
+        },
+        {
+            "source": "Internet_fundamentals",
+            "target": "Network_protocols"
+        },
+        {
+            "source": "Internet_fundamentals",
+            "target": "Link_Layer_of_Internet_Protocol"
+        },
+        {
+            "source": "Internet_fundamentals",
+            "target": "Internet_Layer_of_Internet_Protocol"
+        },
+        {
+            "source": "Internet_fundamentals",
+            "target": "Transport_Layer_of_Internet_Protocol"
+        },
+        {
+            "source": "Internet_fundamentals",
+            "target": "Application_Layer_of_Internet_Protocol"
+        },
+        {
+            "source": "Internet_fundamentals",
+            "target": "Example_scenario_internet_data_transfer"
+        },
+        {
+            "source": "Step_functions_and_state_machines",
+            "target": "Lambda_programming_model"
+        },
+        {
+            "source": "Python_interpreter",
+            "target": "Binary_units_of_measurement"
+        },
+        {
+            "source": "Stale_branches_and_pruning",
+            "target": "Remote_tracking_branches"
+        },
+        {
+            "source": "Clock_signals",
+            "target": "Half_adder_and_full_adder"
+        },
+        {
+            "source": "Clock_signals",
+            "target": "Latches"
+        },
+        {
+            "source": "Clock_signals",
+            "target": "Electromagnetism"
+        },
+        {
+            "source": "Memoization_in_React",
+            "target": "React_useEffect"
+        },
+        {
+            "source": "API_Gateway",
+            "target": "HTTP_request_types"
+        },
+        {
+            "source": "API_Gateway",
+            "target": "Lambda_handler_function"
+        },
+        {
+            "source": "API_Gateway",
+            "target": "Practical_walkthrough_Lambda_creation_within_AWS"
+        },
+        {
+            "source": "Filesystems",
+            "target": "Swap_space"
+        },
+        {
+            "source": "Classes",
+            "target": "Functions"
+        },
+        {
+            "source": "Connecting_a_frontend_to_a_Docker_backend",
+            "target": "Node_and_MySQL_db"
+        },
+        {
+            "source": "Connecting_a_frontend_to_a_Docker_backend",
+            "target": "Docker_Compose"
+        },
+        {
+            "source": "Cells_and_batteries",
+            "target": "Voltage"
+        },
+        {
+            "source": "Logical_equivalence",
+            "target": "Biconditional_Introduction"
+        },
+        {
+            "source": "Validating_Mongoose_schemas",
+            "target": "Validation_in_NodeJS"
+        },
+        {
+            "source": "Middleware_in_NodeJS",
+            "target": "Ports_in_NodeJS"
+        },
+        {
+            "source": "Middleware_in_NodeJS",
+            "target": "Morgan"
+        },
+        {
+            "source": "Logical_consistency",
+            "target": "Negation_Elimination"
+        },
+        {
+            "source": "4da22434_from_ARPANET_to_Internet",
+            "target": "Internet_Layer_of_Internet_Protocol"
+        },
+        {
+            "source": "Using_arguments_with_Apollo_Client",
+            "target": "Apollo_Server"
+        },
+        {
+            "source": "Network_fundamentals",
+            "target": "Network_hosts"
+        },
+        {
+            "source": "Peer_to_peer_network",
+            "target": "Torrenting"
+        },
+        {
+            "source": "Negation_Elimination",
+            "target": "Negation_Introduction"
+        },
+        {
+            "source": "Machine_code",
+            "target": "Assembly"
+        },
+        {
+            "source": "c301a0b3-1d8_Mosaic_Netscape_and_Browser_Wars",
+            "target": "Application_Layer_of_Internet_Protocol"
+        },
+        {
+            "source": "Architecture_of_the_World_Wide_Web",
+            "target": "Transport_Layer_of_Internet_Protocol"
+        },
+        {
+            "source": "Architecture_of_the_World_Wide_Web",
+            "target": "IP_addresses"
+        },
+        {
+            "source": "Practical_walkthrough_Lambda_creation_within_AWS",
+            "target": "Lambda_triggers"
+        },
+        {
+            "source": "Bus",
+            "target": "Motherboard"
+        },
+        {
+            "source": "Testing_Python_code",
+            "target": "Python_package_management"
+        },
+        {
+            "source": "Register_and_cache_memory",
+            "target": "DRAM_and_SRAM_memory"
+        },
+        {
+            "source": "SQLite",
+            "target": "Lists_in_Python"
+        },
+        {
+            "source": "SQLite",
+            "target": "Tuples_in_Python"
+        },
+        {
+            "source": "Iterating_through_complex_data_structures_in_Python",
+            "target": "Sorting_lists_in_Python"
+        },
+        {
+            "source": "Iterating_through_complex_data_structures_in_Python",
+            "target": "Lambdas_in_Python"
+        },
+        {
+            "source": "Iterating_through_complex_data_structures_in_Python",
+            "target": "Map_and_filter_in_Python"
+        },
+        {
+            "source": "Iterating_through_complex_data_structures_in_Python",
+            "target": "List_comprehension_in_Python"
+        },
+        {
+            "source": "Lambdas_in_Python",
+            "target": "Map_and_filter_in_Python"
+        },
+        {
+            "source": "Docker_general_overview",
+            "target": "Docker_architecture"
+        },
+        {
+            "source": "Logical_truth_and_falsity",
+            "target": "Logical_consistency"
+        },
+        {
+            "source": "Logical_truth_and_falsity",
+            "target": "Validity_and_entailment"
+        },
+        {
+            "source": "Streams_in_NodeJS",
+            "target": "fs"
+        },
+        {
+            "source": "Cherry_picking",
+            "target": "Remote_tracking_branches"
+        },
+        {
+            "source": "React_useContext",
+            "target": "Application_state_management_with_React_hooks"
+        },
+        {
+            "source": "Voltage_sources",
+            "target": "Cells_and_batteries"
+        },
+        {
+            "source": "Relation_between_kernel_and_CPU",
+            "target": "Fetch_decode_execute"
+        },
+        {
+            "source": "Motherboard",
+            "target": "CPU_architecture"
+        },
+        {
+            "source": "Motherboard",
+            "target": "What_are_disks"
+        },
+        {
+            "source": "Managing_environments_in_NodeJS",
+            "target": "Environmental_and_shell_variables"
+        },
+        {
+            "source": "Hexadecimal_number_system",
+            "target": "Binary_number_system"
+        },
+        {
+            "source": "Network_protocols",
+            "target": "Network_fundamentals"
+        },
+        {
+            "source": "Network_protocols",
+            "target": "Internet_fundamentals"
+        },
+        {
+            "source": "Test_values_in_Bash",
+            "target": "Lists_and_arrays_in_Bash"
+        },
+        {
+            "source": "653c0b1d_host_protocols_of_ARPANET",
+            "target": "e470bf3d_IMPs_in_the_ARPANET"
+        },
+        {
+            "source": "653c0b1d_host_protocols_of_ARPANET",
+            "target": "Link_Layer_of_Internet_Protocol"
+        },
+        {
+            "source": "DRAM_and_SRAM_memory",
+            "target": "DRAM_and_SRAM_memory"
+        },
+        {
+            "source": "DRAM_and_SRAM_memory",
+            "target": "Transistors"
+        },
+        {
+            "source": "DRAM_and_SRAM_memory",
+            "target": "Current"
+        },
+        {
+            "source": "DRAM_and_SRAM_memory",
+            "target": "Flip_flops"
+        },
+        {
+            "source": "File_descriptors",
+            "target": "Redirection_in_Bash"
+        },
+        {
+            "source": "Network_hosts",
+            "target": "Network_fundamentals"
+        },
+        {
+            "source": "Half_adder_and_full_adder",
+            "target": "Logic_gates"
+        },
+        {
+            "source": "Binary_units_of_measurement",
+            "target": "Binary_number_system"
+        },
+        {
+            "source": "Binary_units_of_measurement",
+            "target": "Prefixes_for_units_of_electrical_measurement"
+        },
+        {
+            "source": "React_useEffect",
+            "target": "Lifecycle_methods"
+        },
+        {
+            "source": "React_useEffect",
+            "target": "Memory_leaks"
+        },
+        {
+            "source": "With_open_in_Python",
+            "target": "Reading_files_in_Python"
+        },
+        {
+            "source": "With_open_in_Python",
+            "target": "Writing_to_files_in_Python"
+        },
+        {
+            "source": "With_open_in_Python",
+            "target": "Appending_to_files_in_Python"
+        },
+        {
+            "source": "Strategies_for_constructing_proofs",
+            "target": "Recursion"
+        },
+        {
+            "source": "Strategies_for_constructing_proofs",
+            "target": "Conjunction_Introduction"
+        },
+        {
+            "source": "Strategies_for_constructing_proofs",
+            "target": "Conditional_Introduction"
+        },
+        {
+            "source": "Strategies_for_constructing_proofs",
+            "target": "Biconditional_Elimination"
+        },
+        {
+            "source": "Strategies_for_constructing_proofs",
+            "target": "Conjunction_Elimination"
+        },
+        {
+            "source": "Strategies_for_constructing_proofs",
+            "target": "Conditional_Elimination"
+        },
+        {
+            "source": "Strategies_for_constructing_proofs",
+            "target": "Disjunction_Introduction"
+        },
+        {
+            "source": "Strategies_for_constructing_proofs",
+            "target": "Disjunction_Elimination"
+        },
+        {
+            "source": "Strategies_for_constructing_proofs",
+            "target": "Negation_Elimination"
+        },
+        {
+            "source": "Type_guarding_and_narrowing_in_TS",
+            "target": "Any"
+        },
+        {
+            "source": "Type_guarding_and_narrowing_in_TS",
+            "target": "Unknown_type_in_TS"
+        },
+        {
+            "source": "Single_file_Python_scripts",
+            "target": "Python_modules_and_imports"
+        },
+        {
+            "source": "Processes",
+            "target": "systemd"
+        },
+        {
+            "source": "Processes",
+            "target": "ps"
+        },
+        {
+            "source": "Processes",
+            "target": "Monitoring_processes_and_resources"
+        },
+        {
+            "source": "Formal_proofs_in_propositional_logic",
+            "target": "Negation_Introduction"
+        },
+        {
+            "source": "Formal_proofs_in_propositional_logic",
+            "target": "Negation_Elimination"
+        },
+        {
+            "source": "Formal_proofs_in_propositional_logic",
+            "target": "Conjunction_Introduction"
+        },
+        {
+            "source": "Formal_proofs_in_propositional_logic",
+            "target": "Conditional_Elimination"
+        },
+        {
+            "source": "Formal_proofs_in_propositional_logic",
+            "target": "Disjunction_Introduction"
+        },
+        {
+            "source": "Formal_proofs_in_propositional_logic",
+            "target": "Disjunction_Elimination"
+        },
+        {
+            "source": "Formal_proofs_in_propositional_logic",
+            "target": "Conditional_Introduction"
+        },
+        {
+            "source": "Formal_proofs_in_propositional_logic",
+            "target": "Biconditional_Introduction"
+        },
+        {
+            "source": "Formal_proofs_in_propositional_logic",
+            "target": "Biconditional_Elimination"
+        },
+        {
+            "source": "systemd",
+            "target": "Boot_process"
+        },
+        {
+            "source": "systemd",
+            "target": "Daemons"
+        },
+        {
+            "source": "systemd",
+            "target": "Processes"
+        },
+        {
+            "source": "SAM",
+            "target": "Lambda_programming_model"
+        },
+        {
+            "source": "SAM",
+            "target": "Lambda_handler_function"
+        },
+        {
+            "source": "SAM",
+            "target": "Local_AWS_development_with_SAM"
+        },
+        {
+            "source": "Working_with_numbers_in_Bash",
+            "target": "Expansions_and_substitutions"
+        },
+        {
+            "source": "Syntax_of_propositional_logic",
+            "target": "Atomic_and_molecular_propositions"
+        },
+        {
+            "source": "Transistors",
+            "target": "Voltage"
+        },
+        {
+            "source": "React_Components",
+            "target": "Functions"
+        },
+        {
+            "source": "Read_command__in_Bash",
+            "target": "Split_into_array_in_Bash"
+        },
+        {
+            "source": "Read_command__in_Bash",
+            "target": "Find_Bash_command"
+        },
+        {
+            "source": "VirtualMemory",
+            "target": "Processes"
+        },
+        {
+            "source": "VirtualMemory",
+            "target": "User_Space"
+        },
+        {
+            "source": "VirtualMemory",
+            "target": "The_kernel"
+        },
+        {
+            "source": "VirtualMemory",
+            "target": "Memory_addresses"
+        },
+        {
+            "source": "VirtualMemory",
+            "target": "Register_and_cache_memory"
+        },
+        {
+            "source": "VirtualMemory",
+            "target": "Swap_space"
+        },
+        {
+            "source": "VirtualMemory",
+            "target": "Boot_process"
+        },
+        {
+            "source": "Ohms_Law",
+            "target": "Current"
+        },
+        {
+            "source": "Ohms_Law",
+            "target": "Voltage"
+        },
+        {
+            "source": "Ohms_Law",
+            "target": "Resistance"
+        },
+        {
+            "source": "Current",
+            "target": "Coulombs_Laws"
+        },
+        {
+            "source": "Current",
+            "target": "Voltage"
+        },
+        {
+            "source": "Lambda_programming_model",
+            "target": "Lambda_triggers"
+        },
+        {
+            "source": "Lambda_programming_model",
+            "target": "Lambda_handler_function"
+        },
+        {
+            "source": "ps",
+            "target": "The_kernel"
+        },
+        {
+            "source": "Operating_system_API",
+            "target": "Intro_to_the_Unix_shell"
+        },
+        {
+            "source": "Operating_system_API",
+            "target": "Instruction_set_architectures"
+        },
+        {
+            "source": "Swap_space",
+            "target": "The_kernel"
+        },
+        {
+            "source": "Expansions_and_substitutions",
+            "target": "Variables_and_data_types_in_Bash"
+        },
+        {
+            "source": "Expansions_and_substitutions",
+            "target": "Shell_sessions"
+        },
+        {
+            "source": "Expansions_and_substitutions",
+            "target": "Working_with_numbers_in_Bash"
+        },
+        {
+            "source": "Using_GraphQL_with_Node",
+            "target": "Middleware_in_NodeJS"
+        },
+        {
+            "source": "Network_debugging",
+            "target": "Network_scanning"
+        },
+        {
+            "source": "journald",
+            "target": "systemd"
+        },
+        {
+            "source": "journald",
+            "target": "The_kernel"
+        },
+        {
+            "source": "Create_an_SQL_table",
+            "target": "Data_types_in_MySQL"
+        },
+        {
+            "source": "Strings_in_Python",
+            "target": "Lists_in_Python"
+        },
+        {
+            "source": "Example_scenario_internet_data_transfer",
+            "target": "Application_Layer_of_Internet_Protocol"
+        },
+        {
+            "source": "Example_scenario_internet_data_transfer",
+            "target": "Basic_model_of_the_operating_system"
+        },
+        {
+            "source": "Example_scenario_internet_data_transfer",
+            "target": "Transport_Layer_of_Internet_Protocol"
+        },
+        {
+            "source": "Example_scenario_internet_data_transfer",
+            "target": "Internet_Layer_of_Internet_Protocol"
+        },
+        {
+            "source": "Example_scenario_internet_data_transfer",
+            "target": "Link_Layer_of_Internet_Protocol"
+        },
+        {
+            "source": "Example_scenario_internet_data_transfer",
+            "target": "MAC_addresses"
+        },
+        {
+            "source": "Add_Subtract_Fractions",
+            "target": "Factors_and_divisors"
+        },
+        {
+            "source": "Forms_in_React",
+            "target": "Forms_in_React"
+        },
+        {
+            "source": "List_comprehension_in_Python",
+            "target": "Map_and_filter_in_Python"
+        },
+        {
+            "source": "List_comprehension_in_Python",
+            "target": "Lambdas_in_Python"
+        },
+        {
+            "source": "Python_data_types",
+            "target": "Strings_in_Python"
+        },
+        {
+            "source": "Magnetic_tape",
+            "target": "The_History_of_Computing_Swade"
+        },
+        {
+            "source": "Instruction_set_architectures",
+            "target": "Signed_and_unsigned_numbers"
+        },
+        {
+            "source": "Creating_a_RESTful_API_POST",
+            "target": "Validation_in_NodeJS"
+        },
+        {
+            "source": "Lists_and_arrays_in_Bash",
+            "target": "Test_values_in_Bash"
+        },
+        {
+            "source": "Lists_and_arrays_in_Bash",
+            "target": "Functions_in_Bash"
+        },
+        {
+            "source": "Redirection_in_Bash",
+            "target": "File_descriptors"
+        },
+        {
+            "source": "Redirection_in_Bash",
+            "target": "Redirect_to_dev_null"
+        },
+        {
+            "source": "Binary_encoding_of_text",
+            "target": "Binary_encoding"
+        },
+        {
+            "source": "Arithmetic_Logic_Unit",
+            "target": "CPU_architecture"
+        },
+        {
+            "source": "Arithmetic_Logic_Unit",
+            "target": "Logic_gates"
+        },
+        {
+            "source": "Arithmetic_Logic_Unit",
+            "target": "Half_adder_and_full_adder"
+        },
+        {
+            "source": "Arithmetic_Logic_Unit",
+            "target": "Fetch_decode_execute"
+        },
+        {
+            "source": "Joins_in_SQL",
+            "target": "Create_an_SQL_table"
+        },
+        {
+            "source": "File_system_error_handling_in_Python",
+            "target": "Error_handling_in_Python"
+        },
+        {
+            "source": "Turing_completeness",
+            "target": "Turing_machines"
+        },
+        {
+            "source": "Multiplying_fractions",
+            "target": "Reducing_fractions"
+        },
+        {
+            "source": "The_History_of_Computing_Swade",
+            "target": "Logarithms"
+        },
+        {
+            "source": "The_History_of_Computing_Swade",
+            "target": "Integrated_circuits"
+        },
+        {
+            "source": "The_History_of_Computing_Swade",
+            "target": "CPU_architecture"
+        },
+        {
+            "source": "The_History_of_Computing_Swade",
+            "target": "Relays"
+        },
+        {
+            "source": "The_History_of_Computing_Swade",
+            "target": "Delay_line_memory"
+        },
+        {
+            "source": "The_History_of_Computing_Swade",
+            "target": "Turing_machines"
+        },
+        {
+            "source": "The_History_of_Computing_Swade",
+            "target": "Magnetic_tape"
+        },
+        {
+            "source": "The_History_of_Computing_Swade",
+            "target": "Magnetic_drum_memory"
+        },
+        {
+            "source": "The_History_of_Computing_Swade",
+            "target": "Magnetic_core_memory"
+        },
+        {
+            "source": "The_History_of_Computing_Swade",
+            "target": "Transistors"
+        },
+        {
+            "source": "Set_DNS_settings",
+            "target": "Network_scanning"
+        },
+        {
+            "source": "Set_DNS_settings",
+            "target": "Network_debugging"
+        },
+        {
+            "source": "Docker_Compose",
+            "target": "Node_and_MySQL_db"
+        },
+        {
+            "source": "Dates_in_Python",
+            "target": "Time_and_computers"
+        },
+        {
+            "source": "Monitoring_processes_and_resources",
+            "target": "Processes"
+        },
+        {
+            "source": "Monitoring_processes_and_resources",
+            "target": "Swap_space"
+        },
+        {
+            "source": "Monitoring_processes_and_resources",
+            "target": "The_kernel"
+        },
+        {
+            "source": "Apollo_Server",
+            "target": "Using_arguments_with_Apollo_Client"
+        },
+        {
+            "source": "e470bf3d_IMPs_in_the_ARPANET",
+            "target": "Network_hosts"
+        },
+        {
+            "source": "e470bf3d_IMPs_in_the_ARPANET",
+            "target": "Network_fundamentals"
+        },
+        {
+            "source": "Magnetic_drum_memory",
+            "target": "Williams_Tube_memory"
+        },
+        {
+            "source": "Magnetic_drum_memory",
+            "target": "Delay_line_memory"
+        },
+        {
+            "source": "Magnetic_drum_memory",
+            "target": "The_History_of_Computing_Swade"
+        },
+        {
+            "source": "fs",
+            "target": "Event_loop"
+        },
+        {
+            "source": "fs",
+            "target": "Streams_in_NodeJS"
+        },
+        {
+            "source": "AWS_SQS",
+            "target": "Queue"
+        },
+        {
+            "source": "AWS_SQS",
+            "target": "API_Gateway"
+        },
+        {
+            "source": "AWS_SQS",
+            "target": "AWS_CloudWatch"
+        },
+        {
+            "source": "AWS_SQS",
+            "target": "AWS_SQS_SDK"
+        },
+        {
+            "source": "Passing_arguments_and_options_to_Bash_scripts",
+            "target": "The_PATH"
+        },
+        {
+            "source": "Relays",
+            "target": "The_History_of_Computing_Swade"
+        },
+        {
+            "source": "Electromagnetism",
+            "target": "Current"
+        },
+        {
+            "source": "Sliding_window",
+            "target": "Multiple_pointers"
+        },
+        {
+            "source": "Flip_flops",
+            "target": "Latches"
+        },
+        {
+            "source": "Flip_flops",
+            "target": "Clock_signals"
+        },
+        {
+            "source": "Resistance",
+            "target": "Current"
+        },
+        {
+            "source": "Resistance",
+            "target": "Ohms_Law"
+        },
+        {
+            "source": "Role_of_memory_in_computation",
+            "target": "Boot_process"
+        },
+        {
+            "source": "Role_of_memory_in_computation",
+            "target": "Bus"
+        },
+        {
+            "source": "Role_of_memory_in_computation",
+            "target": "Chipset_and_controllers"
+        },
+        {
+            "source": "Creating_a_Mongo_schema_and_model",
+            "target": "MongoDB_Introduction"
+        },
+        {
+            "source": "Creating_a_Mongo_schema_and_model",
+            "target": "Validating_Mongoose_schemas"
+        },
+        {
+            "source": "NodeJS_scripts",
+            "target": "Single_file_Python_scripts"
+        },
+        {
+            "source": "Usenet",
+            "target": "385af4b4_Baran_distributed_networks"
+        },
+        {
+            "source": "Usenet",
+            "target": "Transport_Layer_of_Internet_Protocol"
+        },
+        {
+            "source": "Usenet",
+            "target": "Torrenting"
+        },
+        {
+            "source": "82f9c228_dissolution_of_ARPANET",
+            "target": "cfbef1c4_web_precursors"
+        },
+        {
+            "source": "82f9c228_dissolution_of_ARPANET",
+            "target": "Link_Layer_of_Internet_Protocol"
+        },
+        {
+            "source": "a4601796_trapdoor_functions",
+            "target": "bbdcb54f_public_key_cryptography"
+        },
+        {
+            "source": "Devices",
+            "target": "Redirect_to_dev_null"
+        },
+        {
+            "source": "Node_and_MySQL_db",
+            "target": "Docker_Compose"
+        },
+        {
+            "source": "Node_and_MySQL_db",
+            "target": "Managing_environments_in_NodeJS"
+        },
+        {
+            "source": "Hardware_simulation",
+            "target": "Hardware_Description_Language"
+        },
+        {
+            "source": "Internet_Layer_of_Internet_Protocol",
+            "target": "IP_addresses"
+        },
+        {
+            "source": "Internet_Layer_of_Internet_Protocol",
+            "target": "Link_Layer_of_Internet_Protocol"
+        },
+        {
+            "source": "Restructure_URLs_lambda",
+            "target": "Lambda_handler_function"
+        },
+        {
+            "source": "241fe1a3_the_Web_versus_modem_BBSs",
+            "target": "c301a0b3-1d8_Mosaic_Netscape_and_Browser_Wars"
+        },
+        {
+            "source": "Link_Layer_of_Internet_Protocol",
+            "target": "Network_hosts"
+        },
+        {
+            "source": "Link_Layer_of_Internet_Protocol",
+            "target": "MAC_addresses"
+        },
+        {
+            "source": "DynamoDB_data_structure",
+            "target": "Foreign_keys_in_SQL"
+        },
+        {
+            "source": "Terraform",
+            "target": "AWS_CLI"
+        },
+        {
+            "source": "Voltage",
+            "target": "Current"
+        },
+        {
+            "source": "Voltage",
+            "target": "Voltage_sources"
+        },
+        {
+            "source": "Voltage",
+            "target": "Cells_and_batteries"
+        },
+        {
+            "source": "Voltage",
+            "target": "Ohms_Law"
+        },
+        {
+            "source": "Fetch_decode_execute",
+            "target": "CPU_architecture"
+        },
+        {
+            "source": "Fetch_decode_execute",
+            "target": "Logic_gates"
+        },
+        {
+            "source": "MAC_addresses",
+            "target": "Link_Layer_of_Internet_Protocol"
+        },
+        {
+            "source": "MAC_addresses",
+            "target": "Network_card"
+        },
+        {
+            "source": "MAC_addresses",
+            "target": "Hexadecimal_number_system"
+        },
+        {
+            "source": "Update_a_Mongo_document",
+            "target": "Querying_a_Mongo_collection"
+        },
+        {
+            "source": "Logic_gates",
+            "target": "Integrated_circuits"
+        },
+        {
+            "source": "Logic_gates",
+            "target": "Transistors"
+        },
+        {
+            "source": "Logic_gates",
+            "target": "Half_adder_and_full_adder"
+        },
+        {
+            "source": "Logic_gates",
+            "target": "Latches"
+        },
+        {
+            "source": "Logic_gates",
+            "target": "Hardware_abstraction_and_modularity"
+        },
+        {
+            "source": "What_are_disks",
+            "target": "Devices"
+        },
+        {
+            "source": "What_are_disks",
+            "target": "User_Space"
+        },
+        {
+            "source": "Creating_a_Linux_partition_table",
+            "target": "Linux_disk_partitions"
+        },
+        {
+            "source": "Primitive_types",
+            "target": "Any"
+        },
+        {
+            "source": "Primitive_types",
+            "target": "Custom_types_in_TypeScript"
+        },
+        {
+            "source": "Creating_a_RESTful_API_Integrating_the_Database",
+            "target": "Connect_to_Mongo_database"
+        },
+        {
+            "source": "Creating_a_RESTful_API_Integrating_the_Database",
+            "target": "Create_Mongo_database"
+        },
+        {
+            "source": "Creating_a_RESTful_API_Integrating_the_Database",
+            "target": "Querying_a_Mongo_collection"
+        },
+        {
+            "source": "Creating_a_RESTful_API_Integrating_the_Database",
+            "target": "Adding_documents_to_a_Mongo_collection"
+        },
+        {
+            "source": "Prefixes_for_units_of_electrical_measurement",
+            "target": "Exponents"
+        },
+        {
+            "source": "Working_with_JSON_in_Python",
+            "target": "Error_handling_in_Python"
+        },
+        {
+            "source": "Boot_process",
+            "target": "The_kernel"
+        },
+        {
+            "source": "Boot_process",
+            "target": "Filesystems"
+        },
+        {
+            "source": "Boot_process",
+            "target": "User_Space"
+        },
+        {
+            "source": "Boot_process",
+            "target": "journald"
+        },
+        {
+            "source": "Docker_architecture",
+            "target": "RESTful_APIs"
+        },
+        {
+            "source": "Three_bit_counter",
+            "target": "Flip_flops"
+        },
+        {
+            "source": "Three_bit_counter",
+            "target": "Clock_signals"
+        },
+        {
+            "source": "The_PATH",
+            "target": "Environmental_and_shell_variables"
+        },
+        {
+            "source": "Apollo_Client",
+            "target": "Apollo_Server"
+        },
+        {
+            "source": "Threads",
+            "target": "Processes"
+        },
+        {
+            "source": "Threads",
+            "target": "User_Space"
+        },
+        {
+            "source": "Threads",
+            "target": "The_kernel"
+        },
+        {
+            "source": "Threads",
+            "target": "CPU_architecture"
+        },
+        {
+            "source": "Threads",
+            "target": "Clock_signals"
+        },
+        {
+            "source": "Capturing_user_input_in_Bash",
+            "target": "Passing_arguments_and_options_to_Bash_scripts"
+        },
+        {
+            "source": "f6564af9_AOL_and_early_internet_enclosure",
+            "target": "cfbef1c4_web_precursors"
+        },
+        {
+            "source": "f6564af9_AOL_and_early_internet_enclosure",
+            "target": "c301a0b3-1d8_Mosaic_Netscape_and_Browser_Wars"
+        },
+        {
+            "source": "Syllogism",
+            "target": "Logical_consistency"
+        },
+        {
+            "source": "Chipset_and_controllers",
+            "target": "Motherboard"
+        },
+        {
+            "source": "Chipset_and_controllers",
+            "target": "What_are_disks"
+        },
+        {
+            "source": "Chipset_and_controllers",
+            "target": "Bus"
+        },
+        {
+            "source": "Boolean_function_synthesis",
+            "target": "Boolean_functions"
+        },
+        {
+            "source": "Boolean_function_synthesis",
+            "target": "Logic_gates"
+        },
+        {
+            "source": "Logical_possibility_and_necessity",
+            "target": "Logical_consistency"
+        },
+        {
+            "source": "Logical_possibility_and_necessity",
+            "target": "Validity_and_entailment"
+        },
+        {
+            "source": "Magnetic_core_memory",
+            "target": "Magnetic_drum_memory"
+        },
+        {
+            "source": "Magnetic_core_memory",
+            "target": "Delay_line_memory"
+        }
+    ]
+}

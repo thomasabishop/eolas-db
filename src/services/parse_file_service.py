@@ -4,7 +4,7 @@ from pathlib import Path
 
 from termcolor import colored
 
-from models.entry import Entry
+from models.entry import IEntry
 from services.parse_markdown_service import ParseMarkdownService
 
 
@@ -16,7 +16,7 @@ class ParseFileService:
     def __get_title(self, file):
         return os.path.splitext(os.path.basename(file))[0]
 
-    def __parse_file(self, file) -> Entry:
+    def __parse_file(self, file) -> IEntry:
         markdown_data = self.parse_markdown_service.parse(file)
         return {
             "title": self.__get_title(file),
@@ -29,8 +29,8 @@ class ParseFileService:
             "body": markdown_data.get("body", []),
         }
 
-    def parse_source_directory(self) -> list[Entry]:
-        print(colored("INFO Indexing entries in source directory", "light_blue"))
+    def parse_source_directory(self) -> list[IEntry]:
+        print(colored("INFO Indexing entries in source directory", "blue"))
         parsed_entries = []
         with os.scandir(self.source_directory) as dir:
             for file in dir:

@@ -18,10 +18,10 @@ class DatabaseService:
         try:
             if not os.path.exists(self.db_path):
                 os.makedirs(self.db_path)
-                print(colored("INFO Created database directory", "light_blue"))
+                print(colored("INFO Created database directory", "blue"))
             self.connection = sqlite3.connect(f"{self.db_path}/{self.db_name}.db")
             self.connection.execute("PRAGMA foreign_keys = ON")
-            print(colored("INFO Database connection established", "light_blue"))
+            print(colored("INFO Database connection established", "blue"))
             return self.connection
 
         except Exception as e:
