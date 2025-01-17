@@ -289,7 +289,11 @@
             "type": "tag"
         },
         {
-            "id": "#ecosolpoc",
+            "id": "#sound",
+            "type": "tag"
+        },
+        {
+            "id": "#analogue",
             "type": "tag"
         },
         {
@@ -302,10 +306,6 @@
         },
         {
             "id": "#number-theory",
-            "type": "tag"
-        },
-        {
-            "id": "#analogue",
             "type": "tag"
         },
         {
@@ -342,10 +342,6 @@
         },
         {
             "id": "#kernel",
-            "type": "tag"
-        },
-        {
-            "id": "#sound",
             "type": "tag"
         },
         {
@@ -434,6 +430,14 @@
         },
         {
             "id": "653c0b1d_host_protocols_of_ARPANET",
+            "type": "entry"
+        },
+        {
+            "id": "738d0481_sound_recording_as_wave_phenomena",
+            "type": "entry"
+        },
+        {
+            "id": "747589ad_effects_of_privacy_violation",
             "type": "entry"
         },
         {
@@ -1253,6 +1257,10 @@
             "type": "entry"
         },
         {
+            "id": "ICMP_Protocol",
+            "type": "entry"
+        },
+        {
             "id": "IP_addresses",
             "type": "entry"
         },
@@ -1549,6 +1557,10 @@
             "type": "entry"
         },
         {
+            "id": "Monitor_DNS_resolution_and_internet_connectivity_script",
+            "type": "entry"
+        },
+        {
             "id": "Monitoring_processes_and_resources",
             "type": "entry"
         },
@@ -1606,10 +1618,6 @@
         },
         {
             "id": "Network_card",
-            "type": "entry"
-        },
-        {
-            "id": "Network_debugging",
             "type": "entry"
         },
         {
@@ -1706,6 +1714,10 @@
         },
         {
             "id": "Peer_to_peer_network",
+            "type": "entry"
+        },
+        {
+            "id": "Ping",
             "type": "entry"
         },
         {
@@ -1846,6 +1858,10 @@
         },
         {
             "id": "Reciprocals",
+            "type": "entry"
+        },
+        {
+            "id": "Recording_and_playback_of_sound",
             "type": "entry"
         },
         {
@@ -2274,6 +2290,10 @@
         },
         {
             "id": "Variables_in_C",
+            "type": "entry"
+        },
+        {
+            "id": "View_IP_addresses",
             "type": "entry"
         },
         {
@@ -2851,6 +2871,14 @@
             "target": "Hardware_Description_Language"
         },
         {
+            "source": "#networks",
+            "target": "Monitor_DNS_resolution_and_internet_connectivity_script"
+        },
+        {
+            "source": "#procedural",
+            "target": "Monitor_DNS_resolution_and_internet_connectivity_script"
+        },
+        {
             "source": "#javascript",
             "target": "React_useReducer"
         },
@@ -3129,6 +3157,10 @@
         {
             "source": "#javascript",
             "target": "Map_and_filter_to_reduce_in_JS"
+        },
+        {
+            "source": "#networks",
+            "target": "ICMP_Protocol"
         },
         {
             "source": "#AWS",
@@ -3523,7 +3555,7 @@
             "target": "Weaving_the_Web_Berners_Lee"
         },
         {
-            "source": "#ecosolpoc",
+            "source": "#ecopolsoc",
             "target": "Weaving_the_Web_Berners_Lee"
         },
         {
@@ -3541,6 +3573,18 @@
         {
             "source": "#internet",
             "target": "Architecture_of_the_World_Wide_Web"
+        },
+        {
+            "source": "#sound",
+            "target": "Binary_encoding_of_sound"
+        },
+        {
+            "source": "#binary",
+            "target": "Binary_encoding_of_sound"
+        },
+        {
+            "source": "#analogue",
+            "target": "Binary_encoding_of_sound"
         },
         {
             "source": "#mongo-db",
@@ -4375,6 +4419,18 @@
             "target": "Type_guarding_and_narrowing_in_TS"
         },
         {
+            "source": "#ecopolsoc",
+            "target": "747589ad_effects_of_privacy_violation"
+        },
+        {
+            "source": "#privacy",
+            "target": "747589ad_effects_of_privacy_violation"
+        },
+        {
+            "source": "#surveillance-capitalism",
+            "target": "747589ad_effects_of_privacy_violation"
+        },
+        {
             "source": "#operating-systems",
             "target": "Processes"
         },
@@ -4807,18 +4863,6 @@
             "target": "Turing_machines"
         },
         {
-            "source": "#procedural",
-            "target": "Network_debugging"
-        },
-        {
-            "source": "#Linux",
-            "target": "Network_debugging"
-        },
-        {
-            "source": "#networks",
-            "target": "Network_debugging"
-        },
-        {
             "source": "#systems-programming",
             "target": "journald"
         },
@@ -4981,6 +5025,30 @@
         {
             "source": "#binary",
             "target": "Bitwise_operators"
+        },
+        {
+            "source": "#sound",
+            "target": "Recording_and_playback_of_sound"
+        },
+        {
+            "source": "#analogue",
+            "target": "Recording_and_playback_of_sound"
+        },
+        {
+            "source": "#physics",
+            "target": "Recording_and_playback_of_sound"
+        },
+        {
+            "source": "#networks",
+            "target": "View_IP_addresses"
+        },
+        {
+            "source": "#procedural",
+            "target": "View_IP_addresses"
+        },
+        {
+            "source": "#Linux",
+            "target": "View_IP_addresses"
         },
         {
             "source": "#propositional-logic",
@@ -5273,6 +5341,14 @@
         {
             "source": "#computer-history",
             "target": "e470bf3d_IMPs_in_the_ARPANET"
+        },
+        {
+            "source": "#networks",
+            "target": "Ping"
+        },
+        {
+            "source": "#procedural",
+            "target": "Ping"
         },
         {
             "source": "#prealgebra",
@@ -5609,6 +5685,18 @@
         {
             "source": "#databases",
             "target": "Node_and_MySQL_db"
+        },
+        {
+            "source": "#sound",
+            "target": "738d0481_sound_recording_as_wave_phenomena"
+        },
+        {
+            "source": "#analogue",
+            "target": "738d0481_sound_recording_as_wave_phenomena"
+        },
+        {
+            "source": "#physics",
+            "target": "738d0481_sound_recording_as_wave_phenomena"
         },
         {
             "source": "#AWS",
@@ -6159,7 +6247,7 @@
             "target": "f6564af9_AOL_and_early_internet_enclosure"
         },
         {
-            "source": "#ecosolpoc",
+            "source": "#ecopolsoc",
             "target": "f6564af9_AOL_and_early_internet_enclosure"
         },
         {
@@ -6395,6 +6483,10 @@
             "target": "Boolean_functions"
         },
         {
+            "source": "Monitor_DNS_resolution_and_internet_connectivity_script",
+            "target": "Ping"
+        },
+        {
             "source": "React_useReducer",
             "target": "React_useState"
         },
@@ -6477,6 +6569,22 @@
         {
             "source": "Application_state_management_with_React_hooks",
             "target": "React_useContext"
+        },
+        {
+            "source": "ICMP_Protocol",
+            "target": "Internet_Layer_of_Internet_Protocol"
+        },
+        {
+            "source": "ICMP_Protocol",
+            "target": "Transport_Layer_of_Internet_Protocol"
+        },
+        {
+            "source": "ICMP_Protocol",
+            "target": "Application_Layer_of_Internet_Protocol"
+        },
+        {
+            "source": "ICMP_Protocol",
+            "target": "Ping"
         },
         {
             "source": "Accessing_secrets_from_a_Lambda",
@@ -6629,6 +6737,10 @@
         {
             "source": "Architecture_of_the_World_Wide_Web",
             "target": "IP_addresses"
+        },
+        {
+            "source": "Binary_encoding_of_sound",
+            "target": "Recording_and_playback_of_sound"
         },
         {
             "source": "Practical_walkthrough_Lambda_creation_within_AWS",
@@ -7031,10 +7143,6 @@
             "target": "Middleware_in_NodeJS"
         },
         {
-            "source": "Network_debugging",
-            "target": "Network_scanning"
-        },
-        {
             "source": "journald",
             "target": "systemd"
         },
@@ -7093,6 +7201,14 @@
         {
             "source": "Python_data_types",
             "target": "Strings_in_Python"
+        },
+        {
+            "source": "Recording_and_playback_of_sound",
+            "target": "Binary_encoding_of_sound"
+        },
+        {
+            "source": "View_IP_addresses",
+            "target": "IP_addresses"
         },
         {
             "source": "Magnetic_tape",
@@ -7203,10 +7319,6 @@
             "target": "Network_scanning"
         },
         {
-            "source": "Set_DNS_settings",
-            "target": "Network_debugging"
-        },
-        {
             "source": "Docker_Compose",
             "target": "Node_and_MySQL_db"
         },
@@ -7237,6 +7349,10 @@
         {
             "source": "e470bf3d_IMPs_in_the_ARPANET",
             "target": "Network_fundamentals"
+        },
+        {
+            "source": "Ping",
+            "target": "ICMP_Protocol"
         },
         {
             "source": "Magnetic_drum_memory",

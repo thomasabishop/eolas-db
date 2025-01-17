@@ -23,16 +23,19 @@ def main():
     )
     parser.add_argument(
         "command",
-        choices=["populate-database", "generate-graph"],
+        choices=["populate-database", "generate-graph", "export-tags"],
         help="Command to execute",
     )
     args = parser.parse_args()
 
     if args.command == "populate-database":
-        controller.populate_database()
+        controller.execute("populate")
 
     if args.command == "generate-graph":
-        controller.generate_graph()
+        controller.execute("graph")
+
+    # if args.command == "export-tags":
+    #     controller.export_tags()
 
 
 if __name__ == "__main__":
