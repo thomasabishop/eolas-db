@@ -6,14 +6,17 @@ from services.database_service import DatabaseService
 from services.graph_service import GraphService
 from services.parse_file_service import ParseFileService
 from services.table_service import TableService
+from services.tag_service import TagService
 
 database_service = DatabaseService("eolas")
 database_connection = database_service.connect()
 table_service = TableService(database_connection)
 parse_file_service = ParseFileService(EOLAS_DIRECTORY)
 graph_service = GraphService(database_connection)
+tag_service = TagService(database_connection)
+
 controller = Controller(
-    database_service, table_service, parse_file_service, graph_service
+    database_service, table_service, parse_file_service, graph_service, tag_service
 )
 
 
@@ -34,8 +37,8 @@ def main():
     if args.command == "generate-graph":
         controller.execute("graph")
 
-    # if args.command == "export-tags":
-    #     controller.export_tags()
+    if args.command == "export-tags":
+        controller.execute("tags")
 
 
 if __name__ == "__main__":

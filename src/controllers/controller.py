@@ -8,13 +8,13 @@ class Controller:
         table_service,
         parse_file_service,
         graph_service,
-        # tag_service,
+        tag_service,
     ):
         self.database_service = database_service
         self.table_service = table_service
         self.parse_file_service = parse_file_service
         self.graph_service = graph_service
-        # self.tag_service = tag_service
+        self.tag_service = tag_service
 
     def execute(self, operation):
         try:
@@ -23,6 +23,8 @@ class Controller:
                     return self.__populate_database()
                 case "graph":
                     return self.__generate_graph()
+                case "tags":
+                    return self.__export_tags()
         except Exception as e:
             raise Exception(colored(f"ERROR {e}", "red"))
         finally:
@@ -35,3 +37,6 @@ class Controller:
 
     def __generate_graph(self):
         self.graph_service.generate_graph()
+
+    def __export_tags(self):
+        self.tag_service.export_tags()

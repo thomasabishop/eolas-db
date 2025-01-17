@@ -1,8 +1,10 @@
 import json
-from constants import GRAPH_OUTPUT_DIRECTORY 
-from services.sqlite_service import SqliteService
-from models.graph_node import IGraphNode
+
+from constants import GRAPH_OUTPUT_DIRECTORY
 from models.graph_edge import IGraphEdge
+from models.graph_node import IGraphNode
+from services.sqlite_service import SqliteService
+
 
 class GraphService(SqliteService):
     error_message_stub = "Could not retrieve contents of table:"
@@ -20,7 +22,7 @@ class GraphService(SqliteService):
             "SELECT title FROM entries",
             error_message=f"{self.error_message_stub} entries",
         )
-        
+
         entries = [IGraphNode(id=entry[0], type="entry") for entry in entries]
         return tags + entries
 
@@ -29,16 +31,18 @@ class GraphService(SqliteService):
             "SELECT * FROM entries_tags",
             error_message=f"{self.error_message_stub} entries_tags",
         )
-    
+
         tags = [IGraphEdge(source=f"#{tag[1]}", target=tag[0]) for tag in tags]
 
         backlinks = self._query(
             "SELECT * FROM backlinks",
             error_message=f"{self.error_message_stub} backlinks",
         )
-        
-        backlinks = [IGraphEdge(source=f"{backlink[0]}", target = backlink[1]) for backlink in backlinks]
 
+        backlinks = [
+            IGraphEdge(source=f"{backlink[0]}", target=backlink[1])
+            for backlink in backlinks
+        ]
 
         return tags + backlinks
 
