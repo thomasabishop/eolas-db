@@ -2,43 +2,53 @@
 
 This CLI application parses entries in my
 [zettelkasten](https://github.com/thomasabishop/eolas) and extracts key metadata
-about each entry. It creates and populates an SQLite database and offers options for
-exporting mapped relations between entries.
+about each entry. It creates and populates an SQLite database and offers different options for
+exporting representations of the relations.
 
 ## Local development
 
-```
+```sh
 source venv/bin/activate
-eolas-db [opts]
+python3 src/cli.py [opts]
 ```
 
 ## Production
 
-After development is complete, instead of compiling to a single executable I can just install the application
-with `pipx` like any other.
+### Generate single executable
 
-```
-pipx install [local_path_to_application]
-eolas-db [opts]
+```sh
+source venv/bin/activate
+pyinstaller --onefile ${HOME}/repos/eolas-db/src/cli.py --name eolas-db [opts]
 ```
 
-### Update after changes
+### Run executable
 
+```sh
+${HOME}/repos/eolas-db/dist/eolas-db
 ```
-pipx uninstall eolas-db
-pipx install [local_path_to_application]
+
+Or:
+
+```sh
+sudo mv ${HOME}/repos/eolas-db/dist/ /usr/local/bin
+eolas-db  [opts]
+
 ```
 
 ## Options
 
 ### `populate`
 
-```
-eolas-db populate
-```
-
-Parse Eòlas entries and extract key metadata and body text, import into database
+Parse entries and extract key metadata and body text, import into database
 tables.
+
+### `generate-graph`
+
+Output a network graph of connections between entries and tags
+
+### `export-tags`
+
+Export a one-to-many JSON object of tags to entries.
 
 ## ERM
 
