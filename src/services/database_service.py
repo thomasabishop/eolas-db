@@ -4,9 +4,9 @@ from typing import Optional
 
 
 class DatabaseService:
-    def __init__(self, db_name):
+    def __init__(self, db_name, db_path):
         self.db_name = db_name
-        self.db_path = "/home/thomas/repos/eolas-db/db"
+        self.db_path = db_path
         self.connection: Optional[sqlite3.Connection] = None
 
     def connect(self) -> Optional[sqlite3.Connection]:

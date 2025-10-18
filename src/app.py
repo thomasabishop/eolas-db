@@ -1,38 +1,42 @@
 import argparse
 
-from constants import EOLAS_DIRECTORY
-from controllers.controller import Controller
 from services.database_service import DatabaseService
 from services.parse_file_service import ParseFileService
 from services.table_service import TableService
 
-database_service = DatabaseService("eolas")
-database_connection = database_service.connect()
-table_service = TableService(database_connection)
-parse_file_service = ParseFileService(EOLAS_DIRECTORY)
-
-controller = Controller(database_service, table_service, parse_file_service)
-
 
 def main():
     parser = argparse.ArgumentParser(
-        prog="eolas-db", description="Eolas database manager."
+        prog="eolas-db", description="Eolas database generator."
     )
+
     parser.add_argument(
-        "command",
-        choices=["populate-database"],
-        help="Command to execute",
+        "--source",
+        type=str,
+        required=True,
+        help="Source directory for markdown files",
     )
+
+    parser.add_argument(
+        "--target",
+        type=str,
+        required=True,
+        help="Output path for SQLite database file",
+    )
+
     args = parser.parse_args()
 
-    if args.command == "populate-database":
-        controller.execute("populate")
+    SOURCE_DIRECTORY = args.source
+    TARGET_DIRECTORY = args.target
 
-    if args.command == "generate-graph":
-        controller.execute("graph")
+    database_service = DatabaseService("eolas", TARGET_DIRECTORY)
+    database_connection = database_service.connect()
+    table_service = TableService(database_connection)
+    parse_file_service = ParseFileService(SOURCE_DIRECTORY)
 
-    if args.command == "export-tags":
-        controller.execute("tags")
+    entries = parse_file_service.parse_source_directory()
+    table_service.populate_tables(entries)
+    database_service.disconnect()
 
 
 if __name__ == "__main__":
