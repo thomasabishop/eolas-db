@@ -68,7 +68,7 @@ class TableService(SqliteService):
                             },
                         )
 
-        print("TB-INFO Junction tables populated", "blue")
+        print("TB-INFO Junction tables populated")
 
     def populate_tables(self, entries: list[IEntry]):
         self.__drop_tables()
