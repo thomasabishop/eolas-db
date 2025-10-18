@@ -1,5 +1,3 @@
-from termcolor import colored
-
 from models.entry import IEntry
 from services.sqlite_service import SqliteService
 from sql.create_tables import tables
@@ -15,7 +13,7 @@ class TableService(SqliteService):
                 table["create_statement"],
                 error_message=f"Problem creating table {table['name']}",
             )
-        print(colored("INFO Created tables", "blue"))
+        print("TB-INFO Created tables")
 
     def __drop_tables(self):
         # Reverse the order of `tables` list to avoid foreign key violation when
@@ -25,7 +23,7 @@ class TableService(SqliteService):
                 f"DROP TABLE IF EXISTS {table['name']}",
                 error_message=f"Problem truncating table {table['name']}",
             )
-        print(colored("INFO Cleared tables", "blue"))
+        print("TB-INFO Cleared tables")
 
     def __entry_exists(self, title) -> bool:
         self._execute("SELECT 1 FROM entries WHERE title = :title", {"title": title})
@@ -47,7 +45,7 @@ class TableService(SqliteService):
                         {"tag_name": tag},
                     )
 
-        print(colored("INFO Base tables populated", "blue"))
+        print("TB-INFO Base tables populated")
 
     def __populate_junction_tables(self, entries: list[IEntry]):
         for entry in entries:
@@ -70,7 +68,7 @@ class TableService(SqliteService):
                             },
                         )
 
-        print(colored("INFO Junction tables populated", "blue"))
+        print("TB-INFO Junction tables populated", "blue")
 
     def populate_tables(self, entries: list[IEntry]):
         self.__drop_tables()

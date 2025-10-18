@@ -2,8 +2,6 @@ import os
 from datetime import datetime
 from pathlib import Path
 
-from termcolor import colored
-
 from models.entry import IEntry
 from services.parse_markdown_service import ParseMarkdownService
 
@@ -30,7 +28,7 @@ class ParseFileService:
         }
 
     def parse_source_directory(self) -> list[IEntry]:
-        print(colored("INFO Indexing entries in source directory", "blue"))
+        print("TB-INFO Indexing entries in source directory")
         parsed_entries = []
         with os.scandir(self.source_directory) as dir:
             for file in dir:

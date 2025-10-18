@@ -2,8 +2,6 @@ import os
 import sqlite3
 from typing import Optional
 
-from termcolor import colored
-
 
 class DatabaseService:
     def __init__(self, db_name):
@@ -18,7 +16,7 @@ class DatabaseService:
         try:
             if not os.path.exists(self.db_path):
                 os.makedirs(self.db_path)
-                print(colored("INFO Created database directory", "blue"))
+                print("TB-INFO Created database directory")
             self.connection = sqlite3.connect(f"{self.db_path}/{self.db_name}.db")
             self.connection.execute("PRAGMA foreign_keys = ON")
             return self.connection
