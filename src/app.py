@@ -1,6 +1,6 @@
 import argparse
 
-from services.database_service import DatabaseService
+from database_connection import DatabaseConnection
 from services.parse_file_service import ParseFileService
 from services.table_service import TableService
 
@@ -29,14 +29,11 @@ def main():
     SOURCE_DIRECTORY = args.source
     TARGET_DIRECTORY = args.target
 
-    database_service = DatabaseService("eolas", TARGET_DIRECTORY)
-    database_connection = database_service.connect()
-    table_service = TableService(database_connection)
-    parse_file_service = ParseFileService(SOURCE_DIRECTORY)
-
-    entries = parse_file_service.parse_source_directory()
-    table_service.populate_tables(entries)
-    database_service.disconnect()
+    with DatabaseConnection("eolas", TARGET_DIRECTORY) as conn:
+        table_service = TableService(conn)
+        parse_file_service = ParseFileService(SOURCE_DIRECTORY)
+        entries = parse_file_service.parse_source_directory()
+        table_service.populate_tables(entries)
 
 
 if __name__ == "__main__":

@@ -3,7 +3,7 @@ import sqlite3
 from typing import Optional
 
 
-class DatabaseService:
+class DatabaseConnection:
     def __init__(self, db_name, db_path):
         self.db_name = db_name
         self.db_path = db_path
@@ -31,3 +31,12 @@ class DatabaseService:
                 self.connection = None
         except Exception as e:
             raise Exception(f"ERROR Problem disconnecting from database: {e}")
+
+    def __enter__(self) -> sqlite3.Connection:
+        connection = self.connect()
+        if connection is None:
+            raise RuntimeError("Failed to establish database connection")
+        return connection
+
+    def __exit__(self, exc_type, exc_val, exc_tb) -> None:
+        self.disconnect()
