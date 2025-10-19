@@ -2,7 +2,7 @@
 
 This CLI application parses entries in my
 [zettelkasten](https://github.com/thomasabishop/eolas), extracts the content
-and metadata for each entry inserts into an SQLite database.
+and metadata for each entry and inserts it into an SQLite database.
 
 It takes two parameters:
 
