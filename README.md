@@ -1,15 +1,21 @@
 # eolas-db
 
 This CLI application parses entries in my
-[zettelkasten](https://github.com/thomasabishop/eolas) and extracts key metadata
-about each entry. It creates and populates an SQLite database and offers different options for
-exporting representations of the relations.
+[zettelkasten](https://github.com/thomasabishop/eolas), extracts the content
+and metadata for each entry inserts into an SQLite database.
+
+It takes two parameters:
+
+- `--source`
+  - A file reference to the location of the markdown files comprising the Zettelkasten
+- `--target`
+  - A file reference designating where the SQLite file should be saved.
 
 ## Local development
 
 ```sh
 source venv/bin/activate
-python3 src/cli.py [opts]
+python3 src/app.py --source="/my-zettelkasten-entries" --target="/tmp/zettelkasten-output-dir"
 ```
 
 ## Production
@@ -18,42 +24,33 @@ python3 src/cli.py [opts]
 
 ```sh
 source venv/bin/activate
-pyinstaller --onefile ${HOME}/repos/eolas-db/src/cli.py --name eolas-db [opts]
+pyinstaller --onefile ${HOME}/eolas-db/src/app.py
 ```
+
+Will build to the `/dist` directory of this repo when run locally.
 
 ### Run executable
 
 ```sh
-${HOME}/repos/eolas-db/dist/eolas-db
+${HOME}/eolas-db/dist/app --source="/my-zettelkasten-entries" --target="/tmp/zettelkasten-output-dir"
 ```
-
-Or:
-
-```sh
-sudo mv ${HOME}/repos/eolas-db/dist/ /usr/local/bin
-eolas-db  [opts]
-
-```
-
-## Options
-
-### `populate`
-
-Parse entries and extract key metadata and body text, import into database
-tables.
-
-### `generate-graph`
-
-Output a network graph of connections between entries and tags
-
-### `export-tags`
-
-Export a one-to-many JSON object of tags to entries.
 
 ## ERM
 
 ![ERM diagram for eolas-db](./eolas-db-ERM.png)
 
-## Resources
+## Related projects
 
-https://www.digitalocean.com/community/tutorials/how-to-use-the-sqlite3-module-in-python-3
+### [eolas](https://forgejo.systemsobscure.net/thomasabishop/eolas)
+
+The repository for the Zettelkasten that this application reads from.
+
+### [eolas-api](https://forgejo.systemsobscure.net/thomasabishop/eolas-api)
+
+A NodeJS Express API which sources its data from database created by
+this application.
+
+### [eolas-app](https://forgejo.systemsobscure.net/thomasabishop/eolas-app)
+
+A web frontend for the application, deployed at
+[eolas-app.systemsobscure.net](https://eolas-app.systemsobscure.net).
