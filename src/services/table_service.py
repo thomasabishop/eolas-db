@@ -68,10 +68,12 @@ class TableService(SqliteService):
                             },
                         )
 
-        print("TB-INFO Junction tables populated")
+    def __populate_fts_tables(self):
+        self._execute("INSERT INTO entries_fts(entries_fts) VALUES('rebuild')")
 
     def populate_tables(self, entries: list[IEntry]):
         self.__drop_tables()
         self.__create_tables()
         self.__populate_base_tables(entries)
         self.__populate_junction_tables(entries)
+        self.__populate_fts_tables()

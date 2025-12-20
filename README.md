@@ -1,15 +1,23 @@
 # eolas-db
 
-This CLI application parses entries in my
+A Python application that parses Markdown entries in my
 [zettelkasten](https://github.com/thomasabishop/eolas), extracts the content
-and metadata for each entry and inserts it into an SQLite database.
+and metadata and inserts it into an SQLite database.
 
-It takes two parameters:
+It is a constituent part of my knowledge management system comprising [eolas](https://forgejo.systemsobscure.net/thomasabishop/eolas),
+[eolas-api](https://forgejo.systemsobscure.net/thomasabishop/eolas-api), and [eolas-app](https://forgejo.systemsobscure.net/thomasabishop/eolas-app).
+
+Usage:
+
+```sh
+app.py --source="/my-zettelkasten-entries" --target="/tmp/zettelkasten-output-dir"
+
+```
 
 - `--source`
-  - A file reference to the location of the markdown files comprising the Zettelkasten
+  - The directory containing the Markdown files
 - `--target`
-  - A file reference designating where the SQLite file should be saved.
+  - The location where the resulting SQLite file should be save
 
 ## Local development
 
@@ -24,33 +32,18 @@ python3 src/app.py --source="/my-zettelkasten-entries" --target="/tmp/zettelkast
 
 ```sh
 source venv/bin/activate
-pyinstaller --onefile ${HOME}/eolas-db/src/app.py
+sudo pyinstaller --onefile ./src/app.py --distpath="/usr/local/bin/eolas-db"
 ```
-
-Will build to the `/dist` directory of this repo when run locally.
 
 ### Run executable
 
 ```sh
-${HOME}/eolas-db/dist/app --source="/my-zettelkasten-entries" --target="/tmp/zettelkasten-output-dir"
+/usr/local/bin/eolas-db/app --source="/my-zettelkasten-entries" --target="/tmp/zettelkasten-output-dir"
 ```
 
 ## ERM
 
 ![ERM diagram for eolas-db](./eolas-db-ERM.png)
 
-## Related projects
+> In addition to the tables listed in the diagram, there is a [full-text search](https://sqlite.org/fts5.html) virtual table applied to `entries`. This enables search queries against the text of every entry.
 
-### [eolas](https://forgejo.systemsobscure.net/thomasabishop/eolas)
-
-The repository for the Zettelkasten that this application reads from.
-
-### [eolas-api](https://forgejo.systemsobscure.net/thomasabishop/eolas-api)
-
-A NodeJS Express API which sources its data from database created by
-this application.
-
-### [eolas-app](https://forgejo.systemsobscure.net/thomasabishop/eolas-app)
-
-A web frontend for the application, deployed at
-[eolas-app.systemsobscure.net](https://eolas-app.systemsobscure.net).

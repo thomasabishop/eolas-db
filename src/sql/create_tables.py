@@ -32,9 +32,15 @@ CREATE TABLE IF NOT EXISTS entries_tags (
     PRIMARY KEY (entry_title, tag_name)
 )"""
 
+CREATE_ENTRIES_FTS_TABLE = """
+    CREATE VIRTUAL TABLE entries_fts USING fts5(title, body, content=entries, content_rowid=rowid)
+"""
+
+
 tables = [
     {"name": "entries", "create_statement": CREATE_ENTRIES_TABLE},
     {"name": "tags", "create_statement": CREATE_TAGS_TABLE},
     {"name": "backlinks", "create_statement": CREATE_BACKLINKS_TABLE},
     {"name": "entries_tags", "create_statement": CREATE_ENTRIES_TAGS_TABLE},
+    {"name": "entries_fts", "create_statement": CREATE_ENTRIES_FTS_TABLE},
 ]
