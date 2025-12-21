@@ -1,0 +1,18 @@
+{
+	"version": "0.2.0",
+	"configurations": [
+		{
+			"type": "debugpy",
+			"request": "launch",
+			"name": "Run eolas-db",
+			"program": "${workspaceFolder}/src/app.py",
+			"args": [
+				"--source",
+				"/home/thomas/repos/eolas/zk",
+				"--target",
+				"/home/thomas/repos/eolas-db/db"
+			],
+			"console": "integratedTerminal"
+		}
+	]
+}
