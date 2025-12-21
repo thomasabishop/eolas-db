@@ -67,6 +67,15 @@ class TableService(SqliteService):
                                 "target_entry_title": link,
                             },
                         )
+                    else:
+                        self._execute(
+                            "INSERT OR IGNORE INTO broken_links (source_entry_title, broken_link_title) VALUES (:source_entry_title, :broken_link_title)",
+                            {
+                                "source_entry_title": entry.get("title"),
+                                "broken_link_title": link,
+                            },
+                        )
+        print("TB-INFO Junction tables populated")
 
     def __populate_fts_tables(self):
         self._execute("INSERT INTO entries_fts(entries_fts) VALUES('rebuild')")
