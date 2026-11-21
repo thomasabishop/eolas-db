@@ -1,7 +1,7 @@
 # eolas-db
 
 A Python application that parses Markdown entries in my
-zettelkasten, extracts the content
+technical knowledge base, extracts the content
 and metadata and inserts it into an SQLite database.
 
 It is a constituent part of my knowledge management system comprising [eolas](https://forgejo.systemsobscure.net/thomasabishop/eolas),
