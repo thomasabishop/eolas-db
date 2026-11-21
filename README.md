@@ -4,10 +4,15 @@ A Python application that parses Markdown entries in my
 technical knowledge base, extracts the content
 and metadata and inserts it into an SQLite database.
 
-It is a constituent part of my knowledge management system comprising [eolas](https://forgejo.systemsobscure.net/thomasabishop/eolas),
-[eolas-api](https://forgejo.systemsobscure.net/thomasabishop/eolas-api), and [eolas-app](https://forgejo.systemsobscure.net/thomasabishop/eolas-app).
+### Related projects
 
-Usage:
+#### [eolas-db](<>)
+
+#### [eolas-api](<>)
+
+#### [eolas-app](<>)
+
+## Usage:
 
 ```sh
 python3 app.py --source="/my-zettelkasten-entries" --target="/tmp/zettelkasten-output-dir"
