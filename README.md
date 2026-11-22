@@ -8,7 +8,7 @@ and metadata and inserts it into an SQLite database.
 
 #### [eolas-api](https://github.com/thomasabishop/eolas-api)
 
-#### [eolas-app](<>)
+#### [eolas-app](https://github.com/thomasabishop/eolas-app)
 
 ## Usage:
 
@@ -36,7 +36,7 @@ python3 src/app.py --source="/my-zettelkasten-entries" --target="/tmp/zettelkast
 ```sh
 source venv/bin/activate
 pip install pyinstaller
-sudo pyinstaller --onefile --paths ./src/app.py --distpath="/usr/local/bin/eolas-db"
+pyinstaller --onefile --paths src --name="eolas-db" --distpath /tmp src/app.py
 ```
 
 ### Run executable
