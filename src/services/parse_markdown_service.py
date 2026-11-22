@@ -30,7 +30,7 @@ class ParseMarkdownService:
         with open(markdown_file) as f:
             metadata, content = frontmatter.parse(f.read())
             return {
-                "tags": metadata.get("tags", []),
+                "tags": [t for t in (metadata.get("tags") or []) if t],
                 "body": content or "",
                 "links": self.__get_internal_links(markdown_file) or [],
             }
