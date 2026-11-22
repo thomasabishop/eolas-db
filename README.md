@@ -6,9 +6,7 @@ and metadata and inserts it into an SQLite database.
 
 ### Related projects
 
-#### [eolas-db](<>)
-
-#### [eolas-api](<>)
+#### [eolas-api](https://github.com/thomasabishop/eolas-api)
 
 #### [eolas-app](<>)
 
